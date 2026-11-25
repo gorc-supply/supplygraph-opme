@@ -1,0 +1,144 @@
+  ok Country         26 nodes  0.0s
+  ok Port            16 nodes  0.0s
+  ok Supplier       244 nodes  0.0s
+  ok Item           742 nodes  0.1s
+  ok Plant           16 nodes  0.0s
+  ok DC              14 nodes  0.0s
+  ok Hospital     1,400 nodes  0.1s
+  ok supplies          1,120 rows   0.1s
+  ok buys_from         3,437 rows   0.2s
+  ok bom               1,632 rows   0.1s
+  ok suppliers           244 rows   0.0s
+  ok plants               16 rows   0.0s
+  ok ports                16 rows   0.0s
+  ok manufactures        264 rows   0.0s
+  ok stocks            3,201 rows   0.1s
+  ok serves            1,784 rows   0.1s
+  ok consumes         27,552 rows   1.0s
+  ok can_substitute      134 rows   0.0s
+bench_s_d3  Q1 BOM explosion (all implants)    cypher      7.9 ms | duckdb     
+5.3 ms | rows 957 | same=True
+bench_s_d3  Q2 false dual-source (strict)      cypher     26.6 ms | duckdb     
+11.5 ms | rows 81 | same=True
+bench_s_d3  Q3 blast radius, TTR 60 d          cypher     24.7 ms | duckdb     
+22.0 ms | rows 25 | same=True
+  ok Country         26 nodes  0.0s
+  ok Port            15 nodes  0.0s
+  ok Supplier       244 nodes  0.0s
+  ok Item           949 nodes  0.1s
+  ok Plant           16 nodes  0.0s
+  ok DC              14 nodes  0.0s
+  ok Hospital     1,400 nodes  0.1s
+  ok supplies          1,569 rows   0.1s
+  ok buys_from         5,036 rows   0.3s
+  ok bom               2,100 rows   0.1s
+  ok suppliers           244 rows   0.0s
+  ok plants               16 rows   0.0s
+  ok ports                15 rows   0.0s
+  ok manufactures        273 rows   0.0s
+  ok stocks            3,100 rows   0.1s
+  ok serves            1,789 rows   0.1s
+  ok consumes         26,722 rows   0.9s
+  ok can_substitute      147 rows   0.0s
+bench_s_d5  Q1 BOM explosion (all implants)    cypher     22.2 ms | duckdb     
+5.3 ms | rows 1180 | same=True
+bench_s_d5  Q2 false dual-source (strict)      cypher     57.5 ms | duckdb     
+8.8 ms | rows 146 | same=True
+bench_s_d5  Q3 blast radius, TTR 60 d          cypher     82.0 ms | duckdb     
+16.8 ms | rows 45 | same=True
+  ok Country         26 nodes  0.0s
+  ok Port            15 nodes  0.0s
+  ok Supplier       244 nodes  0.0s
+  ok Item         1,038 nodes  0.1s
+  ok Plant           16 nodes  0.0s
+  ok DC              14 nodes  0.0s
+  ok Hospital     1,400 nodes  0.1s
+  ok supplies          1,796 rows   0.1s
+  ok buys_from         5,825 rows   0.3s
+  ok bom               2,308 rows   0.1s
+  ok suppliers           244 rows   0.0s
+  ok plants               16 rows   0.0s
+  ok ports                15 rows   0.0s
+  ok manufactures        264 rows   0.0s
+  ok stocks            3,126 rows   0.1s
+  ok serves            1,806 rows   0.1s
+  ok consumes         26,782 rows   1.0s
+  ok can_substitute      145 rows   0.0s
+bench_s_d7  Q1 BOM explosion (all implants)    cypher     60.8 ms | duckdb     
+7.9 ms | rows 1344 | same=True
+bench_s_d7  Q2 false dual-source (strict)      cypher     77.8 ms | duckdb     
+9.7 ms | rows 106 | same=True
+bench_s_d7  Q3 blast radius, TTR 60 d          cypher    306.4 ms | duckdb     
+16.9 ms | rows 108 | same=True
+  ok Country         26 nodes  0.0s
+  ok Port            19 nodes  0.0s
+  ok Supplier       940 nodes  0.0s
+  ok Item         2,888 nodes  0.2s
+  ok Plant           16 nodes  0.0s
+  ok DC              14 nodes  0.0s
+  ok Hospital     5,000 nodes  0.3s
+  ok supplies          4,278 rows   0.2s
+  ok buys_from        13,063 rows   0.7s
+  ok bom               6,467 rows   0.2s
+  ok suppliers           940 rows   0.0s
+  ok plants               16 rows   0.0s
+  ok ports                19 rows   0.0s
+  ok manufactures      1,075 rows   0.0s
+  ok stocks           12,466 rows   0.6s
+  ok serves            6,391 rows   0.3s
+  ok consumes         98,032 rows   3.7s
+  ok can_substitute      506 rows   0.0s
+bench_l_d3  Q1 BOM explosion (all implants)    cypher     28.6 ms | duckdb     
+6.3 ms | rows 3782 | same=True
+bench_l_d3  Q2 false dual-source (strict)      cypher    106.7 ms | duckdb     
+11.9 ms | rows 278 | same=True
+bench_l_d3  Q3 blast radius, TTR 60 d          cypher    105.9 ms | duckdb     
+20.1 ms | rows 115 | same=True
+  ok Country         26 nodes  0.0s
+  ok Port            19 nodes  0.0s
+  ok Supplier       940 nodes  0.1s
+  ok Item         3,665 nodes  0.3s
+  ok Plant           16 nodes  0.0s
+  ok DC              14 nodes  0.0s
+  ok Hospital     5,000 nodes  0.3s
+  ok supplies          6,082 rows   0.3s
+  ok buys_from        20,089 rows   1.1s
+  ok bom               8,258 rows   0.3s
+  ok suppliers           940 rows   0.1s
+  ok plants               16 rows   0.0s
+  ok ports                19 rows   0.0s
+  ok manufactures      1,080 rows   0.1s
+  ok stocks           12,371 rows   0.5s
+  ok serves            6,412 rows   0.2s
+  ok consumes         97,818 rows   3.7s
+  ok can_substitute      526 rows   0.0s
+bench_l_d5  Q1 BOM explosion (all implants)    cypher     86.1 ms | duckdb     
+9.7 ms | rows 5518 | same=True
+bench_l_d5  Q2 false dual-source (strict)      cypher    210.8 ms | duckdb     
+11.4 ms | rows 400 | same=True
+bench_l_d5  Q3 blast radius, TTR 60 d          cypher   1492.8 ms | duckdb     
+26.6 ms | rows 99 | same=True
+  ok Country         26 nodes  0.0s
+  ok Port            18 nodes  0.0s
+  ok Supplier       940 nodes  0.2s
+  ok Item         3,960 nodes  0.5s
+  ok Plant           16 nodes  0.0s
+  ok DC              14 nodes  0.0s
+  ok Hospital     5,000 nodes  0.4s
+  ok supplies          6,709 rows   0.8s
+  ok buys_from        22,919 rows   2.1s
+  ok bom               8,978 rows   0.4s
+  ok suppliers           940 rows   0.2s
+  ok plants               16 rows   0.0s
+  ok ports                18 rows   0.0s
+  ok manufactures      1,068 rows   0.1s
+  ok stocks           12,374 rows   0.7s
+  ok serves            6,389 rows   0.3s
+  ok consumes         97,250 rows   4.0s
+  ok can_substitute      494 rows   0.1s
+bench_l_d7  Q1 BOM explosion (all implants)    cypher    247.8 ms | duckdb     
+15.1 ms | rows 6084 | same=True
+bench_l_d7  Q2 false dual-source (strict)      cypher    340.3 ms | duckdb     
+11.9 ms | rows 560 | same=True
+bench_l_d7  Q3 blast radius, TTR 60 d          cypher   1008.9 ms | duckdb     
+23.5 ms | rows 208 | same=True

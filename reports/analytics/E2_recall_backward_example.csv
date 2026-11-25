@@ -1,0 +1,5 @@
+lot_id,sku,name,type,depth,produced_by,mfg_date,status
+CP-L1-0107-L0061,CP-L1-0107,Spine porous shell 0107,COMPONENT,1,S-T1-087,2022-02-25,released
+CP-L2-0058-L0038,CP-L2-0058,Spine precision blank 0058,COMPONENT,2,S-T2-001,2022-01-08,released
+CP-L3-0041-L0028,CP-L3-0041,Spine surface-treated part 0041,COMPONENT,3,S-T2-054,2021-10-30,released
+RM-TI64-L0043,RM-TI64,Titanium alloy Ti-6Al-4V ELI bar (ASTM F136),RAW,4,S-T3-021,2021-09-08,released

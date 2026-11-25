@@ -1,0 +1,1910 @@
+sku,name,dc,tts_days,stockout_days,revenue_at_risk,substitute,requalification_days,substitute_on_hand,mitigation,revenue_mitigated
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-SP1,69.2,110.8,5371162.19,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-SP2,53.8,126.2,4780661.79,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-RJ1,76.5,103.5,4235962.8,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-SP2,44.5,135.5,3514794.55,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-SP1,97.9,82.1,2681310.54,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-SP1,74.4,105.6,2625155.87,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-SP2,108.3,71.7,2289886.44,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-PE1,70.9,109.1,2148986.48,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-RJ1,91.8,88.2,2052730.99,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-RJ1,98.7,81.3,1979453.53,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-SP1,112.4,67.6,1748056.6,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-SP1,64.1,115.9,1700920.58,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-CE1,60.9,119.1,1624285.8,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-MG1,65.0,115.0,1559860.0,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-AM1,67.3,112.7,1537457.2,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-PA1,67.9,112.1,1529274.4,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-SP2,68.2,111.8,1516455.2,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-RJ1,58.7,121.3,1508811.55,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-SP2,61.6,118.4,1506283.9,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-BA1,55.6,124.4,1502955.54,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-DF1,77.5,102.5,1398349.6,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-MG1,112.6,67.4,1383786.72,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-MG1,105.0,75.0,1363800.0,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-PR1,58.4,121.6,1308427.36,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-BA1,63.2,116.8,1238424.05,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-PR1,72.4,107.6,1216083.13,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-SP1,74.4,105.6,1215176.84,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-SP1,138.0,42.0,1152792.51,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-GO1,89.2,90.8,1137375.36,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-RS1,65.3,114.7,1128517.08,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-PR1,83.3,96.7,1038298.27,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-CE1,69.7,110.3,1036687.68,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-RJ1,64.7,115.3,1015269.08,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-BA1,110.2,69.8,954917.78,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-MG1,124.4,55.6,944948.07,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-SP1,135.2,44.8,941642.76,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-GO1,97.2,82.8,935761.37,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-SP2,58.8,121.2,930970.18,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-GO1,104.4,75.6,916078.55,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-SP2,73.2,106.8,905511.28,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-BA1,65.7,114.3,904000.25,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-SP1,99.7,80.3,897274.02,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-SP2,68.4,111.6,896246.21,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-PA1,106.3,73.7,856991.08,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-MG1,126.4,53.6,835172.97,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-SP1,71.2,108.8,830330.27,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-SP1,125.8,54.2,826032.16,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-AM1,64.6,115.4,825814.21,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-PR1,119.9,60.1,819643.8,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-SP2,100.7,79.3,805298.57,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-SP2,133.3,46.7,797546.24,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-SP1,72.2,107.8,777054.03,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-SP2,65.1,114.9,767910.95,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-CE1,72.4,107.6,736690.57,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-CE1,56.7,123.3,732020.08,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-SP1,67.9,112.1,729995.2,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-RS1,63.3,116.7,707146.67,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-CE1,111.6,68.4,701930.72,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-SP1,72.0,108.0,693868.03,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-AM1,79.0,101.0,684982.0,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-PE1,79.3,100.7,682947.4,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-SP2,83.4,96.6,666926.4,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-PA1,84.6,95.4,647002.8,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-GO1,71.6,108.4,645735.64,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-RJ1,104.0,76.0,636590.59,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-SC1,63.4,116.6,625985.41,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-RS1,111.2,68.8,623066.65,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-RJ1,142.9,37.1,614883.79,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-PR1,132.5,47.5,613992.63,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-SP2,54.4,125.6,613430.4,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-RJ1,85.8,94.2,612849.93,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-DF1,96.8,83.2,595498.96,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-MG1,149.2,30.8,589121.96,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-SP1,114.4,65.6,585723.39,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-CE1,110.3,69.7,581142.83,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-PA1,76.3,103.7,579167.4,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-RJ1,76.2,103.8,578143.79,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-MG1,113.3,66.7,571769.0,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-RJ1,116.0,64.0,571437.74,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-MG1,34.8,145.2,544197.16,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-PR1,84.3,95.7,543047.77,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-DF1,69.7,110.3,539710.17,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-SP2,50.9,129.1,536812.92,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-SP1,103.5,76.5,532536.63,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-PE1,148.1,31.9,530049.88,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-RJ1,140.8,39.2,525942.36,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-SP1,144.7,35.3,518210.02,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-SP1,145.0,35.0,517558.65,,,,no substitute,0.0
+FG-HIP-0039,Acetabular cup - variant 7,DC-PE1,145.0,35.0,517001.67,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-SP2,79.6,100.4,499484.93,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-RJ1,67.2,112.8,483006.03,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-BA1,146.8,33.2,482538.13,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-SP2,115.7,64.3,481892.48,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-SP1,123.4,56.6,474318.99,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-GO1,139.7,40.3,468567.16,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-SP1,88.6,91.4,462433.14,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-BA1,109.0,71.0,459838.7,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-RJ1,104.6,75.4,458923.99,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-SP2,82.5,97.5,458839.99,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-SP1,142.7,37.3,458443.22,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-SP1,118.4,61.6,448131.44,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-SP1,112.4,67.6,448029.15,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-MG1,74.2,105.8,443100.56,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-MG1,83.7,96.3,441734.64,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-GO1,68.1,111.9,437793.18,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-SC1,68.3,111.7,437010.67,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-PE1,69.2,110.8,433489.37,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-MG1,100.6,79.4,432352.11,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-SC1,99.2,80.8,430044.35,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-RJ1,108.2,71.8,424381.08,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-SP1,85.1,94.9,424108.1,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-SP2,108.2,71.8,416810.72,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-SP1,123.3,56.7,414065.93,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-PR1,90.0,90.0,412703.41,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-PR1,107.9,72.1,412245.45,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-RS1,89.2,90.8,410383.57,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-PA1,59.1,120.9,409962.09,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-BA1,70.9,109.1,408958.11,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-PR1,109.0,71.0,408414.75,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-MG1,104.2,75.8,406049.08,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-SP1,72.2,107.8,405774.21,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-PE1,64.0,116.0,404942.81,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-MG1,104.8,75.2,402553.65,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-SP1,129.2,50.8,400888.94,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-SP1,111.2,68.8,396798.84,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-RJ1,112.8,67.2,396345.6,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-BA1,138.2,41.8,393123.47,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-GO1,121.3,58.7,387912.38,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-PA1,129.3,50.7,385596.29,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-PE1,122.4,57.6,384435.41,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-BA1,115.5,64.5,381263.93,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-BA1,91.2,88.8,377865.76,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-MG1,90.0,90.0,375038.02,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-BA1,84.2,95.8,374786.33,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-SP1,82.9,97.1,367640.61,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-BA1,92.5,87.5,364320.61,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-PE1,76.0,104.0,359008.0,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-RJ1,125.0,55.0,358210.62,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-SP2,65.8,114.2,356929.51,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-PR1,135.4,44.6,353526.29,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-RS1,83.1,96.9,352349.72,FG-VALVE-0211,30.0,19.0,fully mitigable,352349.72
+FG-HIP-0030,Bipolar head - variant 5,DC-RJ1,115.3,64.7,351605.41,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-GO1,150.2,29.8,350778.41,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-SP2,76.2,103.8,350249.7,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-SP2,125.1,54.9,342019.19,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-PA1,99.0,81.0,340964.38,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-MG1,123.5,56.5,340554.16,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-SP1,84.2,95.8,339553.15,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-SP1,141.0,39.0,338988.59,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-PE1,90.9,89.1,338552.37,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-PA1,63.3,116.7,337445.35,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-BA1,81.3,98.7,334662.27,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-PR1,58.1,121.9,330828.0,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-GO1,108.4,71.6,329622.33,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-RJ1,75.2,104.8,327475.42,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-PE1,97.3,82.7,325176.4,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-MG1,84.4,95.6,319461.65,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-RJ1,128.8,51.2,318719.01,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-PE1,53.7,126.3,316537.7,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-RJ1,86.8,93.2,316005.28,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-DF1,116.1,63.9,315837.8,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-SP1,90.8,89.2,315234.89,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-SP1,164.1,15.9,314819.76,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-MG1,148.0,32.0,313134.75,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-SP1,124.8,55.2,312981.35,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-CE1,68.5,111.5,311221.6,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-SP2,70.5,109.5,309864.85,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-GO1,117.2,62.8,308550.03,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-RJ1,93.2,86.8,307874.63,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-RJ1,147.8,32.2,306865.79,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-PA1,71.4,108.6,306686.4,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-SP1,107.7,72.3,306460.99,FG-VALVE-0211,30.0,53.0,fully mitigable,306460.99
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-PE1,145.7,34.3,305594.89,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-PR1,149.5,30.6,304586.48,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-AM1,76.4,103.6,304081.75,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-PE1,85.1,94.9,303888.05,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-PA1,77.0,103.0,302320.66,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-PA1,73.5,106.5,301375.4,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-PR1,150.3,29.7,300938.77,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-SP1,135.6,44.4,299090.9,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-SP2,161.7,18.3,298326.33,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-MG1,68.9,111.1,297667.22,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-GO1,136.0,44.0,294086.82,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-PE1,84.0,96.0,293781.7,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-SP2,142.3,37.7,293748.37,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-SP2,143.3,36.7,293641.42,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-BA1,72.0,108.0,293111.63,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-SP1,153.6,26.4,290619.73,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-SP1,101.0,79.0,282978.08,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-PR1,117.9,62.1,282674.46,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-PR1,102.9,77.1,281521.01,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-GO1,90.6,89.4,280159.74,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-SP2,125.4,54.6,279867.6,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-AM1,106.9,73.1,279766.51,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-SP2,159.0,21.0,279472.73,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-PE1,87.7,92.3,275174.65,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-MG1,76.4,103.6,274562.61,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-SP1,139.6,40.4,273734.18,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-GO1,82.4,97.6,272411.14,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-SP1,98.3,81.7,270506.95,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-SC1,126.7,53.3,270427.33,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-BA1,94.0,86.0,269485.32,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-PA1,74.9,105.1,269308.43,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-SP2,132.3,47.7,267328.04,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-PR1,60.5,119.5,266145.14,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-SP1,79.6,100.4,265681.46,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-SP1,141.9,38.1,265380.74,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-RJ1,94.6,85.4,263922.09,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-PE1,93.2,86.8,263090.7,FG-VALVE-0211,30.0,17.0,fully mitigable,263090.7
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-PE1,81.1,98.9,260898.2,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-PR1,131.5,48.5,259807.13,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-SC1,103.4,76.6,259750.6,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-RJ1,61.0,119.0,258236.62,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-RJ1,131.9,48.1,257569.67,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-SP2,158.8,21.2,257262.0,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-PR1,112.9,67.1,256721.84,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-CE1,104.3,75.7,256698.7,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-RS1,82.2,97.8,256405.82,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-RS1,121.8,58.2,255196.57,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-PE1,113.6,66.4,253758.63,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-RJ1,84.4,95.6,253406.06,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-SP1,93.2,86.8,253037.3,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-RJ1,129.2,50.8,251703.73,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-MG1,97.4,82.6,250365.02,FG-VALVE-0211,30.0,25.0,fully mitigable,250365.02
+FG-KNEE-0065,Tibial insert - variant 5,DC-SP1,106.1,73.9,248780.56,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-BA1,105.9,74.1,248687.9,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-SP1,144.7,35.3,248486.46,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-RJ1,103.0,77.0,247993.9,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-PR1,112.4,67.6,247211.6,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-BA1,87.8,92.2,246926.3,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-PA1,64.9,115.1,246412.78,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-BA1,86.0,94.0,246313.65,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-SP2,103.3,76.7,245507.99,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-GO1,67.3,112.7,244959.58,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-SP1,116.7,63.3,244346.59,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-SP1,52.0,128.0,242766.94,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-SP2,99.1,80.9,241215.62,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-MG1,62.1,117.9,240263.69,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-BA1,64.7,115.3,240223.18,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-PR1,109.4,70.6,239349.06,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-BA1,66.0,114.0,238721.47,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-SP2,85.0,95.0,238615.66,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-SC1,127.8,52.2,238395.75,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-SP2,82.1,97.9,237251.0,FG-VALVE-0211,30.0,13.0,fully mitigable,237251.0
+FG-KNEE-0051,Patellar component - variant 2,DC-MG1,147.6,32.4,236792.79,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-CE1,89.8,90.2,236483.65,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-PE1,80.1,99.9,235156.32,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-GO1,130.7,49.3,234885.51,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-RS1,78.4,101.6,233744.07,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-PE1,105.5,74.5,233340.79,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-MG1,67.9,112.1,231881.04,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-BA1,79.5,100.5,231213.23,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-PE1,151.0,29.0,231208.23,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-RJ1,93.2,86.8,231058.28,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-CE1,85.7,94.3,228526.25,FG-VALVE-0211,30.0,9.0,fully mitigable,228526.25
+FG-HIP-0015,Acetabular cup - variant 3,DC-GO1,139.9,40.1,227238.25,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-GO1,95.3,84.7,226912.42,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-RJ1,94.1,85.9,226604.2,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-RS1,107.7,72.3,226425.11,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-PR1,141.8,38.2,225593.33,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-PE1,93.0,87.0,224160.72,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-PE1,120.6,59.4,224044.4,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-AM1,62.9,117.1,221053.06,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-SP1,123.4,56.6,221006.21,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-SP1,108.9,71.1,220925.77,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-SP2,125.9,54.1,220574.02,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-CE1,63.2,116.8,220486.81,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-DF1,130.5,49.5,220360.94,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-CE1,78.3,101.7,220267.73,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-SP1,145.4,34.6,218221.11,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-SP1,72.2,107.8,217430.82,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-PE1,167.9,12.1,216065.77,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-PR1,134.4,45.6,215920.74,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-PE1,98.8,81.2,215228.26,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-RS1,79.5,100.5,215145.67,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-SP1,136.6,43.4,215031.39,,,,no substitute,0.0
+FG-VALVE-0196,Transcatheter valve system - variant 2,DC-RJ1,48.2,131.8,214094.87,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-PR1,131.9,48.1,213902.7,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-PR1,113.2,66.8,213895.13,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-MG1,117.0,63.0,213570.92,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-SP1,115.6,64.4,213465.74,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-CE1,135.4,44.6,212491.43,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-RS1,144.4,35.7,211748.45,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-SP2,118.7,61.3,211133.52,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-MG1,90.8,89.2,210612.91,,,,no substitute,0.0
+FG-KNEE-0069,Tibial baseplate - variant 6,DC-SP2,139.9,40.1,210573.2,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-PA1,93.5,86.5,209618.09,FG-VALVE-0211,30.0,15.0,fully mitigable,209618.09
+FG-KNEE-0051,Patellar component - variant 2,DC-CE1,105.8,74.2,206433.66,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-MG1,117.7,62.3,206027.08,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-SP2,160.4,19.6,205629.52,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-PE1,159.7,20.3,205590.96,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-SP2,142.7,37.3,205232.88,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-PA1,127.8,52.2,203537.22,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-PR1,122.1,57.9,202170.49,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-MG1,92.7,87.3,200834.6,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-DF1,77.0,103.0,200767.03,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-SP2,157.6,22.4,200753.1,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-MG1,119.6,60.4,200676.9,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-RJ1,143.5,36.5,199698.2,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-DF1,93.5,86.5,198993.99,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-AM1,88.5,91.5,198361.19,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-RJ1,135.7,44.3,197976.7,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-GO1,56.9,123.1,197720.27,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-DF1,57.0,123.0,197559.65,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-SP1,75.6,104.4,197096.12,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-MG1,109.7,70.3,195034.46,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-RJ1,55.6,124.4,194449.69,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-PA1,70.6,109.4,193225.16,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-PE1,117.9,62.1,193180.81,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-GO1,164.1,15.9,191956.59,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-RJ1,98.9,81.1,191890.28,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-MG1,121.2,58.8,191452.8,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-SP1,157.4,22.6,190869.12,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-RS1,113.1,66.9,189314.69,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-RS1,123.5,56.5,188916.11,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-PA1,122.2,57.8,188591.65,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-DF1,125.8,54.2,188429.27,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-PA1,91.5,88.5,188294.59,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-GO1,96.0,84.0,188274.8,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-SP1,94.5,85.5,188010.92,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-AM1,117.4,62.6,186688.9,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-RJ1,132.0,48.0,186508.31,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-SP2,91.1,88.9,185229.38,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-GO1,148.9,31.1,184855.94,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-PA1,131.1,48.9,184843.24,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-SP2,105.3,74.7,184367.43,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-RJ1,162.2,17.8,183966.6,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-SP1,109.3,70.7,182200.65,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-GO1,72.7,107.3,182090.36,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-RJ1,84.1,95.9,180488.48,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-BA1,110.3,69.7,180036.49,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-CE1,133.5,46.5,178669.31,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-SP2,126.7,53.3,177598.97,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-SP1,104.4,75.6,177092.42,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-SP2,99.5,80.5,177019.69,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-SP2,109.6,70.4,176646.69,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-MG1,144.0,36.0,176069.99,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-BA1,110.9,69.1,176012.14,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-RJ1,113.9,66.1,175088.84,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-GO1,45.6,134.4,175021.37,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-RJ1,161.1,18.9,174998.97,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-GO1,134.2,45.8,174808.32,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-SP1,108.8,71.2,174789.17,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-GO1,127.7,52.3,174420.5,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-PE1,120.4,59.6,174097.56,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-CE1,68.7,111.3,173889.6,,,,no substitute,0.0
+FG-VALVE-0191,Annuloplasty ring - variant 1,DC-DF1,103.3,76.7,173547.65,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-MG1,162.7,17.3,173522.93,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-RS1,131.1,48.9,173478.47,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-RS1,143.4,36.6,173286.84,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-PR1,81.7,98.3,172823.82,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-RJ1,161.6,18.4,172150.11,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-RJ1,132.7,47.3,171706.85,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-SP1,124.2,55.8,171520.89,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-MG1,99.4,80.6,171486.37,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-SP1,152.8,27.2,171217.2,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-PE1,130.3,49.7,171182.37,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-SP2,112.3,67.7,170876.15,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-SP2,95.3,84.7,169471.81,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-RJ1,153.7,26.3,168791.78,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-BA1,165.5,14.5,168267.89,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-BA1,91.6,88.4,167127.56,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-PR1,76.1,103.9,166881.69,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-AM1,77.7,102.3,166544.4,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-MG1,93.5,86.5,166408.51,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-MG1,145.5,34.5,165431.49,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-RJ1,149.5,30.5,165429.04,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-SP1,165.8,14.2,165152.47,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-CE1,158.5,21.5,164757.97,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-PR1,153.7,26.3,164722.61,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-SP2,133.6,46.4,164615.85,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-PA1,62.0,118.0,164335.62,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-GO1,149.1,30.9,162708.41,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-SP1,136.0,44.0,162378.11,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-SP1,110.3,69.7,161618.29,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-PR1,91.3,88.7,161266.36,FG-VALVE-0211,30.0,17.0,fully mitigable,161266.36
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-CE1,127.3,52.7,161092.83,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-RS1,132.8,47.2,160877.68,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-CE1,108.0,72.0,160745.62,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-MG1,144.5,35.5,160354.92,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-PA1,129.7,50.3,159031.55,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-SP1,102.5,77.5,158865.8,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-RJ1,69.3,110.7,158610.4,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-SP2,79.7,100.3,158566.84,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-BA1,93.2,86.8,157811.95,FG-VALVE-0211,30.0,6.0,fully mitigable,157811.95
+FG-KNEE-0045,Tibial insert - variant 1,DC-PA1,120.7,59.3,157662.12,,,,no substitute,0.0
+FG-VALVE-0201,Mechanical heart valve - variant 4,DC-RS1,126.6,53.4,156737.12,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-PR1,146.7,33.3,155777.13,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-GO1,137.7,42.3,155162.66,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-PA1,99.4,80.6,155149.24,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-SP1,145.4,34.6,155130.29,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-RJ1,137.8,42.2,154034.18,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-MG1,92.6,87.4,153894.04,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-RS1,99.7,80.3,153687.47,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-SP2,135.2,44.8,153664.5,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-RJ1,79.1,100.9,152508.48,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-RJ1,159.8,20.2,152093.71,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-CE1,119.3,60.7,151684.41,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-DF1,146.8,33.2,151614.4,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-MG1,158.2,21.8,151612.11,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-RJ1,134.4,45.6,151498.21,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-RJ1,143.1,36.9,150474.73,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-SP1,90.8,89.2,150041.76,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-RS1,114.4,65.6,149043.2,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-RS1,103.6,76.4,148888.17,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-MG1,122.5,57.5,148523.65,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-CE1,101.1,78.9,148484.08,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-GO1,107.3,72.7,147316.19,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-DF1,75.0,105.0,146677.59,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-PA1,125.3,54.7,146509.79,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-DF1,129.8,50.2,145517.93,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-PA1,112.2,67.8,144689.86,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-PA1,96.3,83.7,144466.2,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-DF1,131.7,48.3,144085.48,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-SP1,115.8,64.2,143916.2,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-GO1,118.2,61.8,143822.65,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-SP1,73.2,106.8,143062.44,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-GO1,136.7,43.3,141839.92,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-SC1,96.0,84.0,141605.75,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-SP2,64.7,115.3,141594.01,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-SP2,117.8,62.2,141586.99,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-SP2,114.7,65.3,141456.34,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-SP2,157.0,23.0,140690.26,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-RJ1,151.2,28.8,139702.85,FG-VALVE-0211,30.0,33.0,fully mitigable,139702.85
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-PA1,163.3,16.7,139348.08,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-GO1,141.0,39.0,138383.41,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-AM1,153.6,26.4,137131.62,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-SP2,111.3,68.7,136945.02,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-SP2,138.8,41.2,136877.0,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-MG1,107.8,72.2,136510.24,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-GO1,85.5,94.5,136404.33,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-SP2,148.0,32.0,136071.94,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-RS1,127.0,53.0,135825.3,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-RS1,130.8,49.2,135795.15,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-RJ1,158.6,21.4,135275.25,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-RJ1,169.6,10.4,134905.98,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-PA1,108.7,71.3,134873.61,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-AM1,136.8,43.2,134818.34,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-CE1,101.0,79.0,134811.51,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-PE1,136.1,43.9,134574.56,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-GO1,142.1,37.9,134472.76,,,,no substitute,0.0
+FG-VALVE-0196,Transcatheter valve system - variant 2,DC-SP1,56.7,123.3,133608.03,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-PE1,134.9,45.1,133453.08,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-SP2,111.6,68.4,133318.17,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-BA1,137.2,42.8,133150.81,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-PE1,109.6,70.4,133107.56,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-SP2,134.9,45.1,132640.33,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-BA1,86.1,93.9,132586.8,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-SP2,150.9,29.1,132230.4,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-RJ1,85.0,95.0,131941.7,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-SP1,122.4,57.6,131892.45,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-CE1,121.1,58.9,131314.5,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-AM1,59.6,120.4,130876.18,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-RJ1,149.6,30.4,130861.79,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-MG1,63.5,116.5,130030.6,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-GO1,82.4,97.6,129769.2,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-SC1,104.1,75.9,129236.04,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-SC1,80.8,99.2,129192.63,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-RJ1,144.5,35.5,128520.42,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-PE1,81.7,98.3,128020.64,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-PE1,73.6,106.4,128012.79,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-RJ1,136.5,43.5,127935.66,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-CE1,106.0,74.0,127724.0,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-AM1,135.5,44.5,127218.6,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-AM1,65.9,114.1,127056.01,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-MG1,147.3,32.7,126927.2,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-PR1,134.6,45.4,126261.85,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-RJ1,127.5,52.5,125497.83,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-RS1,117.4,62.6,125329.3,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-BA1,150.1,29.9,124968.84,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-PA1,157.1,22.9,124808.48,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-RS1,90.9,89.1,124480.06,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-SP2,174.9,5.1,124379.38,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-RS1,129.3,50.7,123441.96,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-SP2,84.8,95.2,123378.6,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-RJ1,123.5,56.5,122179.44,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-MG1,62.9,117.1,121929.19,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-GO1,131.7,48.3,121207.24,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-CE1,73.6,106.4,120657.6,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-DF1,112.5,67.5,120488.9,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-GO1,95.0,85.0,120020.0,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-PE1,133.9,46.1,119994.3,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-SC1,95.2,84.8,119737.6,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-DF1,119.7,60.3,119488.41,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-PE1,112.6,67.4,119401.64,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-RS1,102.7,77.3,119364.27,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-RS1,79.2,100.8,119109.92,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-MG1,128.2,51.8,118984.01,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-BA1,128.5,51.5,118804.34,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-DF1,90.1,89.9,118578.1,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-BA1,73.7,106.3,118367.81,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-MG1,137.0,43.0,117992.38,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-AM1,111.4,68.6,117770.76,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-PE1,157.4,22.6,117708.03,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-SP2,97.3,82.7,117373.46,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-PE1,153.3,26.7,117315.12,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-BA1,162.1,17.9,116741.7,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-DF1,138.1,41.9,116728.17,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-PE1,96.8,83.2,116583.9,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-SC1,113.9,66.1,114950.59,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-PR1,81.0,99.0,114779.13,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-RJ1,100.6,79.4,114398.86,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-PE1,74.9,105.1,114247.2,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-PR1,106.3,73.7,114221.14,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-CE1,121.6,58.4,113834.17,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-RJ1,92.7,87.3,113699.35,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-DF1,100.2,79.8,113267.39,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-RJ1,125.5,54.5,112671.21,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-GO1,79.2,100.8,112505.08,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-AM1,100.9,79.1,112274.0,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-PE1,100.9,79.1,112264.1,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-PE1,101.2,78.8,111848.26,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-BA1,109.8,70.2,111809.01,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-SP1,132.7,47.3,111802.22,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-MG1,62.2,117.8,111771.44,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-SP1,113.5,66.5,111522.19,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-RS1,77.9,102.1,110884.22,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-SP1,133.1,46.9,109875.97,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-BA1,162.6,17.4,109770.69,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-DF1,147.0,33.0,109319.29,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-SP1,134.4,45.6,109006.66,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-RJ1,89.6,90.4,108767.51,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-PA1,147.9,32.1,108536.41,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-PR1,145.8,34.2,108171.58,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-SP1,172.5,7.5,108052.1,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-PR1,102.2,77.8,107966.54,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-RJ1,133.0,47.0,107958.47,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-PE1,99.0,81.0,107871.59,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-PR1,133.2,46.8,107815.32,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-SP2,149.7,30.3,107155.6,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-SP2,162.8,17.3,107131.21,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-RJ1,175.6,4.4,107035.26,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-GO1,119.8,60.2,106928.31,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-MG1,136.9,43.1,106818.28,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-SP2,99.6,80.4,106600.28,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-PE1,88.1,91.9,106537.91,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-GO1,123.9,56.1,106310.96,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-MG1,156.4,23.6,105257.27,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-MG1,117.4,62.6,105165.28,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-SP1,119.5,60.5,105124.55,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-PR1,151.0,29.0,104313.0,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-SP1,146.4,33.6,104250.69,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-RS1,118.7,61.3,104076.45,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-MG1,141.7,38.3,103462.03,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-MG1,153.6,26.4,103061.18,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-BA1,87.1,92.9,100933.05,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-MG1,141.0,39.0,100737.78,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-RS1,127.9,52.1,100679.08,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-SP2,150.5,29.5,100429.8,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-BA1,124.5,55.5,99485.86,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-PR1,99.1,80.9,99320.3,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-PR1,85.2,94.8,98702.19,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-BA1,140.2,39.8,98657.28,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-RS1,142.3,37.7,98358.55,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-CE1,112.9,67.1,98002.91,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-SP1,164.5,15.5,97577.93,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-SP2,146.7,33.3,97408.58,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-PR1,145.8,34.2,96976.29,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-BA1,123.0,57.0,96866.09,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-RJ1,107.9,72.1,96815.78,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-PR1,78.2,101.8,96807.03,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-SP2,108.7,71.3,96613.36,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-RJ1,120.7,59.3,96581.41,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-MG1,130.6,49.4,96367.48,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-SC1,144.1,35.9,96155.42,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-SP1,157.2,22.8,96094.77,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-PR1,143.9,36.1,94988.38,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-RJ1,142.2,37.8,94966.31,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-RJ1,130.0,50.0,94836.15,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-GO1,150.1,29.9,94572.51,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-PE1,125.2,54.8,94105.52,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-PR1,107.0,73.0,94044.44,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-SC1,135.1,44.9,94022.76,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-PE1,138.0,42.0,93785.02,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-BA1,122.7,57.3,93324.36,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-PE1,104.3,75.7,93180.69,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-CE1,132.4,47.6,92856.78,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-RS1,117.7,62.3,92772.86,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-MG1,96.7,83.3,92729.14,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-BA1,117.8,62.2,92624.05,,,,no substitute,0.0
+FG-VALVE-0203,Annuloplasty ring - variant 4,DC-PA1,118.1,61.9,92177.59,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-DF1,145.6,34.4,91560.59,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-MG1,111.4,68.6,90954.97,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-AM1,121.9,58.1,90360.82,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-CE1,134.8,45.2,90225.93,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-SC1,72.8,107.2,89556.19,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-BA1,129.7,50.3,89461.15,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-SC1,164.3,15.7,89307.26,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-BA1,159.8,20.2,89028.47,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-CE1,73.7,106.3,88804.32,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-MG1,113.1,66.9,88678.92,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-SP1,106.3,73.7,88487.91,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-GO1,124.8,55.2,88265.09,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-SP2,133.9,46.1,88228.08,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-SP2,113.6,66.4,88182.25,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-BA1,117.8,62.2,88108.07,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-CE1,155.2,24.8,88018.89,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-PR1,153.7,26.3,87947.2,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-BA1,87.3,92.7,87931.08,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-BA1,164.9,15.1,87901.86,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-DF1,80.8,99.2,87901.02,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-MG1,99.8,80.2,87574.68,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-MG1,123.4,56.6,87165.65,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-PR1,98.0,82.0,86889.08,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-CE1,145.2,34.8,86268.74,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-MG1,153.4,26.6,86176.61,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-PR1,107.4,72.6,85792.86,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-AM1,159.9,20.1,85731.08,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-PR1,56.7,123.3,85076.16,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-BA1,114.0,66.0,85026.48,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-PR1,135.6,44.4,84974.34,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-PE1,91.6,88.4,84910.66,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-CE1,127.1,52.9,84744.22,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-RS1,133.9,46.1,84264.47,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-SP2,122.3,57.7,84126.6,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-DF1,122.8,57.2,84020.66,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-PA1,161.6,18.4,83729.43,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-PA1,118.1,61.9,83605.84,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-PA1,133.5,46.5,83309.58,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-RS1,121.5,58.5,82934.52,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-CE1,107.8,72.2,82885.6,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-SP2,95.8,84.2,82793.59,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-RJ1,92.2,87.8,82774.1,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-SP2,103.1,76.9,82641.43,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-SP2,56.0,124.0,82628.64,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-GO1,93.1,86.9,81926.0,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-MG1,85.8,94.2,81853.16,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-DF1,93.2,86.8,81831.77,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-BA1,108.8,71.2,81428.74,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-CE1,99.2,80.8,81409.73,,,,no substitute,0.0
+FG-VALVE-0196,Transcatheter valve system - variant 2,DC-BA1,105.2,74.8,81084.13,,,,no substitute,0.0
+FG-VALVE-0206,Bovine pericardial valve - variant 5,DC-BA1,94.2,85.8,80889.44,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-SP1,60.4,119.6,80724.04,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-MG1,124.0,56.0,80355.47,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-BA1,108.0,72.0,80171.49,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-SP2,126.1,53.9,80042.38,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-SP1,131.8,48.2,80011.2,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-RS1,144.4,35.6,79701.1,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-RS1,62.8,117.2,79630.77,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-PA1,55.2,124.8,79464.38,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-RJ1,140.2,39.8,79233.35,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-CE1,134.5,45.5,79088.26,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-PA1,113.3,66.7,78762.82,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-PE1,162.7,17.3,78460.91,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-RJ1,120.6,59.4,78405.47,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-RS1,91.0,89.0,78312.99,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-RJ1,73.9,106.1,78282.72,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-CE1,91.1,88.9,78225.01,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-PE1,63.3,116.7,78161.93,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-GO1,136.9,43.1,78134.36,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-GO1,103.9,76.1,78113.99,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-CE1,149.6,30.4,78034.28,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-SP1,150.7,29.3,77880.09,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-CE1,84.9,95.1,77520.19,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-PE1,134.2,45.8,76934.02,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-GO1,145.7,34.3,76856.42,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-GO1,145.5,34.5,76386.7,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-MG1,170.1,9.9,76298.69,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-PR1,118.2,61.8,76142.99,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-PE1,123.4,56.6,76140.58,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-MG1,99.3,80.7,76024.76,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-DF1,99.9,80.1,75841.0,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-AM1,101.3,78.7,75593.54,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-AM1,100.6,79.4,75178.34,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-GO1,119.0,61.0,75157.04,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-SP2,140.4,39.6,75116.67,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-SP1,132.8,47.2,75059.94,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-BA1,100.9,79.1,74894.35,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-RJ1,153.4,26.6,74866.25,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-SP1,151.0,29.0,74813.3,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-RJ1,143.8,36.2,74804.26,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-GO1,163.9,16.1,74673.66,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-SP2,123.2,56.8,73485.37,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-CE1,81.0,99.0,73342.36,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-BA1,136.1,43.9,73054.78,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-SP1,140.3,39.7,72740.49,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-DF1,104.5,75.5,72738.34,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-PR1,98.3,81.7,72502.63,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-PE1,169.5,10.5,72476.77,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-SC1,116.9,63.1,72438.8,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-AM1,130.6,49.4,72025.2,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-SP1,115.2,64.8,72016.03,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-GO1,123.1,56.9,71714.37,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-MG1,153.2,26.8,71679.14,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-PA1,138.3,41.7,71650.2,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-DF1,123.2,56.8,71588.33,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-PE1,144.7,35.3,71465.97,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-PE1,124.8,55.2,71415.36,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-MG1,138.6,41.4,70665.55,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-RJ1,121.5,58.5,70627.82,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-PR1,86.7,93.3,70587.08,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-PE1,141.5,38.5,70361.46,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-DF1,137.0,43.0,70004.0,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-SP1,76.0,104.0,69882.91,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-RS1,120.5,59.5,69810.5,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-SP1,135.2,44.8,69552.35,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-RS1,117.4,62.6,69461.91,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-SP2,150.6,29.4,69442.59,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-RS1,88.5,91.5,69225.6,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-GO1,71.2,108.8,68801.88,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-CE1,103.4,76.6,68673.02,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-SP2,142.0,38.0,68483.85,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-DF1,115.6,64.4,68461.19,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-GO1,137.2,42.8,68301.73,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-RJ1,98.9,81.1,68285.72,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-GO1,91.8,88.2,68217.53,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-CE1,108.3,71.7,67971.6,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-BA1,81.6,98.4,67847.3,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-RJ1,141.6,38.4,67748.33,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-DF1,110.4,69.6,67747.1,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-PE1,94.9,85.1,67656.63,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-RJ1,74.1,105.9,67521.77,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-AM1,125.6,54.4,67471.0,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-SP2,137.5,42.5,67406.79,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-BA1,92.9,87.1,67366.89,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-PE1,92.9,87.1,67366.89,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-SP1,152.8,27.2,67362.4,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-DF1,80.9,99.1,67335.66,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-RJ1,154.7,25.3,67243.9,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-MG1,128.4,51.6,67183.13,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-PR1,133.6,46.4,67084.25,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-RS1,108.5,71.5,67062.57,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-DF1,129.8,50.2,66966.8,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-AM1,147.7,32.3,66791.41,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-MG1,104.3,75.7,66618.6,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-RJ1,169.5,10.5,66585.11,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-MG1,58.3,121.7,66508.17,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-PR1,92.6,87.4,66235.39,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-BA1,120.5,59.5,66021.57,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-SP2,115.0,65.0,65914.17,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-SC1,119.1,60.9,65402.3,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-RJ1,131.4,48.6,65378.66,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-CE1,101.3,78.7,65327.23,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-SC1,103.0,77.0,65262.08,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-BA1,106.1,73.9,65035.01,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-AM1,130.8,49.2,64894.8,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-CE1,94.5,85.5,64795.74,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-MG1,114.6,65.4,64786.78,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-AM1,103.6,76.4,64753.8,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-PE1,103.9,76.1,64499.67,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-PA1,130.5,49.5,64448.44,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-CE1,92.8,87.2,64408.06,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-PA1,142.6,37.4,64389.11,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-DF1,109.9,70.1,63816.65,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-DF1,113.6,66.4,63793.67,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-SP1,128.2,51.8,63753.19,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-PR1,128.0,52.0,63198.47,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-AM1,110.6,69.4,63179.34,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-DF1,138.0,42.0,63103.82,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-BA1,127.6,52.4,63058.35,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-GO1,108.5,71.5,62876.74,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-RS1,133.3,46.7,62822.71,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-SP1,105.6,74.4,62578.14,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-PR1,125.9,54.1,62498.29,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-BA1,142.4,37.6,62494.6,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-GO1,109.6,70.4,62207.16,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-RJ1,80.2,99.8,62005.26,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-RS1,124.1,55.9,61783.95,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-GO1,114.8,65.2,61742.98,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-PE1,135.0,45.0,61697.56,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-DF1,153.1,26.9,61692.69,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-GO1,149.6,30.4,61551.15,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-DF1,128.5,51.5,61523.94,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-SP1,54.2,125.8,61480.94,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-AM1,74.8,105.2,61393.77,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-PE1,115.7,64.3,61381.14,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-PR1,126.1,53.9,61321.87,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-BA1,110.7,69.3,61235.1,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-DF1,115.1,64.9,61151.32,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-MG1,110.6,69.4,61118.2,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-CE1,140.6,39.4,61010.93,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-PA1,122.2,57.8,60959.66,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-SP2,123.2,56.8,60893.26,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-PA1,139.8,40.2,60845.98,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-PR1,131.8,48.2,60770.05,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-AM1,63.4,116.6,60761.53,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-BA1,152.6,27.4,60670.28,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-GO1,101.7,78.3,60427.19,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-SP1,147.4,32.6,60379.91,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-GO1,133.6,46.4,60261.18,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-PA1,129.8,50.2,59970.79,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-PA1,127.8,52.2,59951.4,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-BA1,127.7,52.3,59853.51,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-AM1,102.5,77.5,59809.77,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-PA1,96.1,83.9,59652.9,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-PA1,150.0,30.0,59426.5,,,,no substitute,0.0
+FG-KNEE-0069,Tibial baseplate - variant 6,DC-GO1,157.4,22.6,59343.64,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-DF1,140.8,39.2,59011.21,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-SP1,92.2,87.8,58691.67,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-SP1,131.5,48.5,58459.9,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-BA1,143.9,36.1,58417.4,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-SP2,141.2,38.8,58308.49,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-PA1,45.8,134.2,57990.67,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-SC1,114.7,65.3,57864.11,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-PA1,103.9,76.1,57583.05,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-PA1,134.5,45.5,57346.29,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-DF1,156.4,23.6,57277.2,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-AM1,160.1,19.9,57262.01,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-SP1,150.5,29.5,57172.85,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-SP1,148.6,31.4,57049.47,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-MG1,147.8,32.2,56999.13,,,,no substitute,0.0
+FG-HIP-0019,Cementless femoral stem - variant 4,DC-SP1,162.1,17.9,56969.43,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-RS1,157.1,22.9,56782.88,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-CE1,72.3,107.7,56770.37,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-PE1,157.2,22.8,56535.05,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-GO1,136.6,43.4,56502.36,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-MG1,125.0,55.0,56336.0,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-PR1,145.6,34.4,56206.0,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-SP1,163.5,16.5,56164.01,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-PA1,149.3,30.7,56092.55,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-CE1,162.7,17.3,56043.02,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-MG1,137.0,43.0,55855.23,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-RJ1,155.7,24.3,55661.01,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-CE1,122.0,58.0,55640.52,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-CE1,161.5,18.5,55579.24,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-PA1,170.6,9.4,55426.54,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-RJ1,136.7,43.3,55416.55,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-CE1,152.3,27.7,55388.65,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-RJ1,67.3,112.7,55230.65,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-AM1,149.5,30.5,55082.82,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-DF1,113.4,66.6,54993.57,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-DF1,134.9,45.1,54814.75,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-DF1,120.3,59.7,54747.11,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-SP2,125.3,54.7,54670.46,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-SP1,107.1,72.9,54620.49,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-SC1,126.4,53.6,54606.44,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-RS1,125.3,54.7,54528.46,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-RS1,157.6,22.4,54435.53,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-MG1,114.5,65.5,54373.25,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-PE1,115.9,64.1,53982.1,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-RJ1,133.3,46.7,53946.49,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-GO1,146.9,33.1,53886.8,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-RJ1,121.0,59.0,53824.18,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-DF1,103.6,76.4,53748.62,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-RS1,53.5,126.5,53683.97,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-MG1,131.7,48.3,53545.75,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-PA1,149.9,30.1,53281.37,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-PE1,56.7,123.3,53260.37,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-AM1,132.7,47.3,52992.51,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-RJ1,122.1,57.9,52672.52,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-PA1,79.0,101.0,52637.15,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-SC1,117.2,62.8,52500.8,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-PR1,128.9,51.1,52357.85,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-SP2,81.3,98.7,52346.75,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-GO1,90.4,89.6,52309.74,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-PA1,133.7,46.3,51927.68,,,,no substitute,0.0
+FG-VALVE-0189,Mechanical heart valve - variant 1,DC-AM1,105.8,74.2,51768.85,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-GO1,145.9,34.1,51605.98,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-DF1,151.1,28.9,51257.5,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-BA1,141.8,38.2,51189.83,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-BA1,131.5,48.5,50991.88,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-PR1,101.9,78.1,50917.51,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-AM1,121.0,59.0,50813.69,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-PE1,114.9,65.1,50773.83,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-RJ1,155.0,25.0,50772.03,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-RJ1,134.2,45.8,50624.92,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-PE1,114.3,65.7,50615.33,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-DF1,121.3,58.7,50555.33,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-PA1,85.2,94.8,50278.65,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-GO1,101.5,78.5,50250.25,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-SC1,86.3,93.7,50137.43,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-RS1,143.5,36.5,50072.9,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-MG1,140.5,39.5,49831.59,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-AM1,86.9,93.1,49816.51,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-PR1,100.2,79.8,49773.82,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-PA1,68.6,111.4,49725.65,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-BA1,109.4,70.6,49712.4,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-CE1,87.2,92.8,49656.06,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-RJ1,154.0,26.0,49434.96,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-CE1,56.8,123.2,49360.31,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-MG1,132.1,47.9,49213.17,,,,no substitute,0.0
+FG-VALVE-0196,Transcatheter valve system - variant 2,DC-CE1,89.4,90.6,49029.19,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-PR1,163.1,16.9,48999.75,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-PA1,155.1,24.9,48953.4,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-PE1,108.4,71.6,48902.8,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-GO1,145.0,35.0,48789.8,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-PA1,108.7,71.3,48697.9,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-RS1,138.6,41.4,48577.09,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-PE1,165.4,14.6,48489.26,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-PR1,119.5,60.5,48406.61,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-PE1,119.8,60.2,48290.27,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-PE1,125.7,54.3,47976.36,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-RS1,53.4,126.6,47862.98,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-PR1,89.3,90.7,47811.9,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-PR1,143.3,36.7,47774.94,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-CE1,143.0,37.0,47666.36,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-GO1,140.8,39.2,47646.27,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-PE1,134.0,46.0,47594.86,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-RJ1,100.5,79.5,47408.12,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-DF1,119.1,60.9,47321.5,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-AM1,99.3,80.7,47305.49,,,,no substitute,0.0
+FG-KNEE-0051,Patellar component - variant 2,DC-PA1,169.6,10.4,47153.79,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-AM1,119.8,60.2,46777.78,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-MG1,102.1,77.9,46765.32,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-PE1,161.4,18.6,46565.2,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-SP1,98.5,81.5,46546.28,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-AM1,158.3,21.7,46536.61,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-RJ1,136.5,43.5,46484.36,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-SP1,124.4,55.6,46145.88,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-AM1,132.6,47.4,46130.89,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-SP1,76.3,103.7,46119.43,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-PA1,65.1,114.9,46084.32,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-PR1,131.4,48.6,46072.8,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-PE1,117.6,62.4,45988.2,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-RJ1,126.8,53.2,45832.46,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-CE1,155.2,24.8,45665.0,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-PE1,146.6,33.4,45472.92,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-SP2,117.5,62.5,45459.75,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-GO1,135.8,44.2,45289.73,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-SP2,95.3,84.7,45191.62,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-BA1,122.8,57.2,45178.98,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-AM1,135.4,44.6,45173.1,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-SC1,164.8,15.2,45141.32,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-CE1,164.6,15.4,45025.67,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-MG1,140.6,39.4,44871.6,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-DF1,135.4,44.6,44460.13,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-PE1,147.9,32.1,44455.75,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-RS1,137.2,42.8,44221.3,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-PA1,117.2,62.8,44218.48,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-PA1,175.4,4.6,44176.13,,,,no substitute,0.0
+FG-SPINE-0106,Spinal rod - variant 6,DC-DF1,151.0,29.0,44156.81,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-PR1,164.2,15.8,44003.58,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-PR1,140.3,39.7,43885.04,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-CE1,158.8,21.2,43798.27,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-RJ1,87.4,92.6,43664.68,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-RS1,125.5,54.5,43641.34,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-DF1,111.3,68.7,43443.84,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-SP1,126.3,53.7,43438.8,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-SP1,153.5,26.5,43382.05,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-PA1,125.9,54.1,43321.1,,,,no substitute,0.0
+FG-KNEE-0069,Tibial baseplate - variant 6,DC-SP1,173.1,6.9,43293.71,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-GO1,61.5,118.5,43175.5,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-DF1,98.9,81.1,43017.77,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-RS1,159.7,20.3,42756.82,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-DF1,117.8,62.2,42669.34,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-PR1,135.6,44.4,42647.44,,,,no substitute,0.0
+FG-KNEE-0064,Tibial baseplate - variant 5,DC-GO1,130.4,49.6,42577.2,,,,no substitute,0.0
+FG-KNEE-0056,Patellar component - variant 3,DC-RJ1,168.5,11.5,42545.47,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-CE1,99.9,80.1,42487.49,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-RJ1,126.9,53.1,42483.38,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-PE1,144.5,35.5,42403.83,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-GO1,112.3,67.7,42254.15,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-RJ1,138.2,41.8,42091.41,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-PA1,150.8,29.2,41902.03,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-SP2,58.0,122.0,41886.96,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-PA1,112.0,68.0,41884.94,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-PR1,121.5,58.5,41832.01,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-PE1,88.3,91.7,41758.59,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-SP2,138.5,41.5,41423.72,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-BA1,86.8,93.2,41292.22,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-GO1,124.7,55.3,41245.4,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-RS1,93.1,86.9,41190.32,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-AM1,154.6,25.4,41106.89,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-BA1,123.0,57.0,41073.92,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-AM1,134.2,45.8,41049.12,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-PR1,128.8,51.2,41020.1,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-PE1,133.9,46.1,40840.25,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-CE1,134.5,45.5,40780.24,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-BA1,164.4,15.6,40700.09,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-PA1,155.0,25.0,40600.34,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-SP2,146.3,33.7,40587.2,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-SP1,131.3,48.7,40586.65,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-SP2,91.6,88.4,40578.62,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-PE1,117.4,62.6,40544.16,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-SC1,149.5,30.5,40514.05,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-GO1,118.1,61.9,40498.78,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-AM1,77.5,102.5,40496.55,,,,no substitute,0.0
+FG-HIP-0007,Cementless femoral stem - variant 2,DC-SC1,145.1,34.9,40230.13,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-PE1,146.8,33.2,40008.71,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-PE1,143.0,37.0,40005.66,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-SP2,136.7,43.3,39947.01,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-SP1,148.7,31.3,39944.0,,,,no substitute,0.0
+FG-VALVE-0204,Transcatheter valve system - variant 4,DC-DF1,132.9,47.1,39907.75,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-AM1,119.5,60.5,39687.15,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-RS1,128.2,51.8,39514.34,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-CE1,128.3,51.7,39438.06,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-SP2,131.2,48.8,39145.6,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-GO1,128.9,51.1,39111.28,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-SP2,116.6,63.4,39053.39,,,,no substitute,0.0
+FG-HIP-0008,Cemented femoral stem - variant 2,DC-PA1,108.4,71.6,38837.73,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-BA1,154.5,25.5,38580.26,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-RS1,135.1,44.9,38552.35,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-GO1,155.9,24.1,38431.8,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-MG1,78.4,101.6,38407.83,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-PA1,135.5,44.5,38208.9,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-PE1,138.9,41.1,38102.77,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-PA1,143.0,37.0,38039.38,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-AM1,141.9,38.1,37802.97,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-SP2,154.6,25.4,37761.79,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-PE1,122.5,57.5,37629.68,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-AM1,134.1,45.9,37599.69,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-SP1,119.1,60.9,37511.66,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-RJ1,132.9,47.1,37445.68,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-PA1,136.6,43.4,37386.83,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-BA1,128.6,51.4,37384.25,,,,no substitute,0.0
+FG-HIP-0042,Bipolar head - variant 7,DC-AM1,147.5,32.5,37310.0,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-PE1,147.8,32.2,37286.12,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-DF1,108.7,71.3,37169.96,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-PA1,168.6,11.4,36844.83,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-SP1,129.5,50.5,36710.09,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-SC1,149.5,30.5,36555.86,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-MG1,101.2,78.8,36491.35,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-SC1,142.5,37.5,36431.77,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-RJ1,165.5,14.5,36356.91,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-GO1,77.8,102.2,36340.73,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-CE1,149.4,30.6,36148.97,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-RS1,66.2,113.8,35981.87,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-GO1,132.5,47.5,35961.98,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-BA1,134.9,45.1,35855.63,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-SP1,160.0,20.0,35818.91,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-SP1,117.2,62.8,35703.31,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-RS1,76.9,103.1,35683.41,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-DF1,139.7,40.3,35601.31,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-PR1,139.6,40.4,35527.56,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-BA1,79.0,101.0,35430.03,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-RS1,106.5,73.5,35392.59,,,,no substitute,0.0
+FG-HIP-0004,CoCr femoral head - variant 1,DC-CE1,161.7,18.3,35213.09,,,,no substitute,0.0
+FG-KNEE-0076,Patellar component - variant 7,DC-GO1,176.0,4.1,35212.29,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-AM1,150.8,29.2,35204.24,,,,no substitute,0.0
+FG-VALVE-0195,Annuloplasty ring - variant 2,DC-SC1,130.4,49.6,35169.81,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-GO1,113.8,66.2,35120.55,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-RS1,138.0,42.0,35112.0,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-MG1,152.4,27.6,35097.84,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-SP2,106.3,73.7,35054.86,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-PA1,133.4,46.6,34956.11,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-GO1,102.3,77.7,34865.86,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-PA1,138.4,41.6,34777.6,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-PR1,72.0,108.0,34579.45,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-PA1,112.3,67.7,34550.36,,,,no substitute,0.0
+FG-VALVE-0207,Annuloplasty ring - variant 5,DC-AM1,123.0,57.0,34533.73,FG-VALVE-0211,30.0,5.0,fully mitigable,34533.73
+FG-KNEE-0048,Femoral component - variant 2,DC-SC1,126.2,53.8,34496.13,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-GO1,140.0,40.0,34469.39,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-PA1,146.1,33.9,34461.54,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-PA1,141.0,39.0,34452.51,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-BA1,136.1,43.9,34410.04,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-PR1,126.9,53.1,34323.15,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-SP1,105.8,74.2,34286.93,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-CE1,70.5,109.5,34148.34,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-PR1,87.5,92.5,34102.33,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-BA1,134.4,45.6,34025.16,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-PA1,132.3,47.7,33929.2,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-GO1,88.4,91.6,33914.66,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-MG1,131.4,48.6,33764.33,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-RS1,153.7,26.3,33701.78,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-CE1,123.9,56.1,33678.23,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-PR1,87.6,92.4,33666.54,,,,no substitute,0.0
+FG-HIP-0019,Cementless femoral stem - variant 4,DC-GO1,157.6,22.4,33488.0,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-GO1,142.9,37.1,33441.32,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-BA1,124.0,56.0,33188.38,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-RS1,128.7,51.3,33159.65,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-PE1,176.6,3.4,33146.66,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-MG1,112.6,67.4,33117.67,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-CE1,105.8,74.2,33115.37,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-RS1,153.8,26.2,33076.17,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-RJ1,166.0,14.0,32953.5,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-BA1,142.9,37.1,32867.1,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-MG1,155.3,24.7,32849.61,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-GO1,118.7,61.3,32769.56,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-PA1,166.6,13.4,32746.4,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-DF1,137.3,42.7,32572.63,,,,no substitute,0.0
+FG-KNEE-0048,Femoral component - variant 2,DC-DF1,146.1,33.9,32570.17,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-BA1,154.2,25.8,32517.24,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-SP1,169.0,11.0,32345.12,,,,no substitute,0.0
+FG-KNEE-0059,Tibial baseplate - variant 4,DC-CE1,176.5,3.5,32292.77,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-BA1,122.0,58.0,32221.55,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-RS1,138.8,41.2,32130.8,,,,no substitute,0.0
+FG-VALVE-0209,Mechanical heart valve - variant 6,DC-RJ1,176.1,3.9,31896.4,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-SP2,68.7,111.3,31883.22,,,,no substitute,0.0
+FG-KNEE-0054,Tibial baseplate - variant 3,DC-RS1,177.5,2.5,31826.52,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-RJ1,137.9,42.1,31763.96,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-SP2,144.4,35.6,31653.03,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-SP2,173.8,6.2,31500.69,,,,no substitute,0.0
+FG-TRAUMA-0158,Intramedullary nail - variant 2,DC-RS1,158.1,21.9,31309.66,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-DF1,100.8,79.2,31293.1,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-PA1,142.2,37.8,31258.75,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-RS1,135.7,44.3,31056.88,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-PR1,142.4,37.6,31053.67,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-RJ1,147.3,32.7,30929.41,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-PR1,114.3,65.7,30910.66,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-PE1,150.5,29.5,30820.22,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-MG1,120.1,59.9,30779.39,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-RJ1,91.4,88.6,30668.84,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-GO1,109.1,70.9,30624.12,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-RS1,113.9,66.1,30611.78,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-PR1,150.3,29.7,30512.8,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-CE1,157.8,22.2,30458.5,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-MG1,124.3,55.7,30394.72,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-RS1,137.9,42.1,30333.64,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-RS1,133.6,46.4,30136.63,,,,no substitute,0.0
+FG-VALVE-0214,Bovine pericardial valve - variant 7,DC-SC1,160.1,19.9,30094.52,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-SC1,140.9,39.1,30046.89,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-BA1,105.6,74.4,29832.32,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-MG1,132.3,47.7,29825.35,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-GO1,144.8,35.2,29667.84,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-AM1,125.8,54.2,29576.19,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-SP1,122.2,57.8,29182.61,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-RJ1,149.1,30.9,29165.06,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-AM1,57.3,122.7,29063.56,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-SP1,125.8,54.2,29063.32,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-SP2,113.5,66.5,29002.51,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-BA1,148.2,31.8,28903.62,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-SC1,106.9,73.1,28883.59,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-CE1,125.3,54.7,28879.33,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-MG1,161.6,18.4,28853.51,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-PR1,102.5,77.5,28692.46,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-BA1,177.8,2.2,28577.03,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-SP2,138.6,41.4,28379.78,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-CE1,49.2,130.8,28256.05,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-GO1,160.6,19.4,28213.28,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-CE1,160.5,19.5,28125.06,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-CE1,118.4,61.6,28069.39,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-BA1,133.5,46.5,28063.97,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-RJ1,107.8,72.2,28050.72,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-MG1,134.5,45.5,27995.69,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-SP2,108.6,71.4,27879.35,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-RJ1,124.4,55.6,27784.99,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-RS1,170.1,9.9,27709.4,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-SP1,139.6,40.4,27694.53,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-SP2,149.3,30.7,27694.36,,,,no substitute,0.0
+FG-KNEE-0074,Tibial baseplate - variant 7,DC-SC1,126.4,53.6,27689.97,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-MG1,114.2,65.8,27669.19,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-CE1,137.7,42.3,27577.59,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-MG1,155.9,24.1,27568.62,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-SC1,151.8,28.2,27549.16,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-DF1,147.1,32.9,27504.4,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-SC1,170.7,9.3,27487.61,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-SP1,136.4,43.6,27481.53,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-PR1,77.0,103.0,27477.78,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-RS1,172.7,7.3,27458.97,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-CE1,164.8,15.2,27451.11,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-DF1,115.0,65.0,27332.99,,,,no substitute,0.0
+FG-KNEE-0075,Tibial insert - variant 7,DC-RJ1,134.1,45.9,27319.57,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-PR1,117.5,62.5,27302.17,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-RJ1,140.2,39.8,27283.37,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-GO1,142.5,37.5,27270.67,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-SP2,105.8,74.2,27228.86,,,,no substitute,0.0
+FG-TRAUMA-0159,Cannulated screw - variant 2,DC-PE1,137.0,43.0,27153.42,,,,no substitute,0.0
+FG-TRAUMA-0168,Intramedullary nail - variant 4,DC-MG1,153.2,26.8,27134.7,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-SP2,143.7,36.3,27116.52,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-PE1,78.9,101.1,26970.91,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-MG1,66.8,113.2,26944.36,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-GO1,112.8,67.2,26914.01,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-CE1,116.0,64.0,26912.74,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-GO1,141.1,38.9,26666.65,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-PA1,136.1,43.9,26475.82,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-GO1,120.1,59.9,26327.24,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-DF1,136.7,43.3,26306.46,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-PR1,145.9,34.1,26305.99,,,,no substitute,0.0
+FG-HIP-0013,Cementless femoral stem - variant 3,DC-SC1,120.3,59.7,26239.39,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-PR1,114.8,65.2,26214.48,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-CE1,173.8,6.2,26211.6,,,,no substitute,0.0
+FG-KNEE-0043,Femoral component - variant 1,DC-PR1,171.2,8.8,26165.65,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-PR1,167.2,12.8,26151.07,,,,no substitute,0.0
+FG-KNEE-0075,Tibial insert - variant 7,DC-BA1,136.1,43.9,26129.57,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-PR1,131.9,48.1,26114.06,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-SP2,155.8,24.2,26024.07,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-RS1,149.1,30.9,25995.26,,,,no substitute,0.0
+FG-VALVE-0209,Mechanical heart valve - variant 6,DC-SP2,172.8,7.2,25929.61,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-BA1,99.1,80.9,25860.58,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-CE1,135.3,44.7,25850.26,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-PE1,135.3,44.7,25850.26,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-SC1,141.2,38.8,25842.01,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-BA1,171.4,8.6,25765.13,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-CE1,167.1,12.9,25752.58,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-PA1,135.6,44.4,25676.83,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-MG1,128.0,52.0,25617.17,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-PR1,107.1,72.9,25602.22,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-SP1,130.8,49.2,25594.49,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-SP2,146.4,33.6,25571.57,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-RJ1,126.6,53.4,25408.3,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-BA1,166.2,13.8,25383.1,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-BA1,133.8,46.2,25243.03,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-RS1,113.4,66.6,25227.56,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-MG1,115.4,64.6,25224.17,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-DF1,124.1,55.9,25202.88,,,,no substitute,0.0
+FG-HIP-0037,Cementless femoral stem - variant 7,DC-MG1,178.2,1.8,25162.72,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-SC1,67.4,112.6,25154.54,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-CE1,101.6,78.4,25119.15,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-CE1,116.9,63.1,25043.34,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-DF1,136.8,43.2,25011.81,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-BA1,133.4,46.6,24988.02,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-PA1,158.9,21.1,24817.53,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-SP1,147.4,32.6,24811.19,,,,no substitute,0.0
+FG-HIP-0032,Cemented femoral stem - variant 6,DC-SC1,89.0,91.0,24744.51,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-RJ1,138.5,41.5,24667.23,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-RJ1,149.0,31.0,24658.03,,,,no substitute,0.0
+FG-KNEE-0049,Tibial baseplate - variant 2,DC-BA1,169.9,10.1,24563.75,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-CE1,170.8,9.2,24545.6,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-PA1,173.2,6.8,24459.6,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-PE1,159.9,20.1,24439.51,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-CE1,165.4,14.6,24281.81,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-SP2,104.1,75.9,24270.94,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-PA1,144.8,35.2,24193.07,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-RS1,119.7,60.3,24185.24,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-PE1,148.3,31.7,24181.55,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-BA1,119.8,60.2,24145.14,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-MG1,135.8,44.2,24096.07,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-MG1,129.2,50.8,24027.78,,,,no substitute,0.0
+FG-HIP-0030,Bipolar head - variant 5,DC-SC1,161.9,18.1,23931.91,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-SP2,159.6,20.4,23887.45,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-CE1,120.8,59.2,23802.1,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-PE1,156.8,23.2,23753.64,,,,no substitute,0.0
+FG-KNEE-0046,Patellar component - variant 1,DC-SC1,130.1,49.9,23602.43,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-PR1,169.9,10.1,23599.92,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-SP2,121.2,58.8,23583.62,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-GO1,159.6,20.4,23579.37,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-BA1,94.4,85.6,23555.07,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-PE1,124.8,55.2,23536.89,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-SP2,158.5,21.5,23519.08,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-BA1,134.5,45.5,23457.25,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-AM1,95.7,84.3,23416.18,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-SC1,105.0,75.0,23394.26,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-SC1,100.9,79.1,23381.81,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-MG1,150.2,29.8,23044.81,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-SP2,148.7,31.3,22999.25,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-PA1,70.3,109.7,22928.93,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-MG1,145.0,35.0,22805.86,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-GO1,164.1,15.9,22775.34,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-MG1,63.0,117.0,22718.92,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-DF1,76.6,103.4,22602.94,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-GO1,127.7,52.3,22555.09,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-CE1,97.1,82.9,22528.73,,,,no substitute,0.0
+FG-HIP-0026,Cemented femoral stem - variant 5,DC-RS1,93.7,86.3,22459.72,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-PR1,149.2,30.8,22395.72,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-SC1,122.1,57.9,22369.18,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-PR1,142.6,37.4,22367.11,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-PR1,141.6,38.4,22355.8,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-PA1,143.1,36.9,22272.72,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-BA1,92.3,87.7,22165.45,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-SC1,157.0,23.0,22086.12,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-RS1,129.2,50.8,22071.36,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-RS1,122.9,57.1,22060.32,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-PA1,129.9,50.1,21850.01,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-SP1,146.2,33.8,21847.88,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-PR1,67.5,112.5,21842.39,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-DF1,82.3,97.7,21828.04,,,,no substitute,0.0
+FG-HIP-0001,Cementless femoral stem - variant 1,DC-SC1,157.9,22.1,21817.41,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-PA1,113.3,66.7,21817.3,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-PR1,148.4,31.6,21810.07,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-SP2,170.9,9.1,21770.11,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-MG1,100.0,80.0,21727.19,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-DF1,131.4,48.6,21723.54,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-MG1,136.2,43.8,21490.21,,,,no substitute,0.0
+FG-TRAUMA-0175,External fixator pin - variant 5,DC-SC1,62.2,117.8,21456.37,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-RJ1,133.1,46.9,21378.74,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-SC1,155.5,24.5,21319.28,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-RS1,136.7,43.3,21310.8,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-RS1,133.3,46.7,21284.94,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-PA1,75.1,104.9,21210.09,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-PA1,124.2,55.8,21189.2,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-BA1,136.9,43.1,21172.86,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-GO1,103.0,77.0,21101.77,,,,no substitute,0.0
+FG-HIP-0040,CoCr femoral head - variant 7,DC-AM1,124.3,55.7,21085.75,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-DF1,68.5,111.5,21071.75,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-CE1,131.0,49.0,21048.24,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-MG1,128.0,52.0,20856.26,,,,no substitute,0.0
+FG-VALVE-0198,Bovine pericardial valve - variant 3,DC-DF1,175.8,4.2,20807.28,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-PE1,86.8,93.2,20773.16,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-CE1,152.2,27.8,20751.7,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-GO1,116.9,63.1,20639.76,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-AM1,128.6,51.4,20590.43,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-PE1,121.3,58.7,20537.05,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-SP2,80.7,99.3,20521.05,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-CE1,113.4,66.6,20510.42,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-BA1,170.1,9.9,20508.87,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-CE1,69.6,110.4,20469.34,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-AM1,118.6,61.4,20448.63,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-SP1,170.3,9.7,20323.58,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-RJ1,97.4,82.6,20315.48,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-RJ1,122.4,57.6,20300.85,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-GO1,126.2,53.8,20273.84,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-DF1,140.8,39.2,20100.22,,,,no substitute,0.0
+FG-HIP-0016,CoCr femoral head - variant 3,DC-SC1,149.9,30.1,20076.7,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-CE1,129.8,50.2,19972.26,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-DF1,123.4,56.6,19948.5,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-PA1,170.4,9.6,19887.75,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-PA1,126.3,53.7,19877.95,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-RJ1,160.1,19.9,19863.42,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-DF1,86.4,93.6,19858.74,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-BA1,109.2,70.8,19850.05,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-SP2,148.1,31.9,19648.96,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-CE1,126.8,53.2,19645.75,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-RS1,124.3,55.7,19631.38,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-BA1,163.9,16.1,19330.47,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-DF1,152.4,27.6,19189.47,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-PE1,139.6,40.4,19085.31,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-GO1,108.7,71.3,19064.76,,,,no substitute,0.0
+FG-KNEE-0052,Revision stem extension - variant 2,DC-DF1,161.6,18.4,19031.08,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-PA1,157.7,22.3,18991.69,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-SP2,130.8,49.2,18952.17,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-PE1,170.6,9.4,18872.68,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-RJ1,73.5,106.5,18818.3,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-BA1,142.1,37.9,18799.53,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-MG1,119.1,60.9,18754.35,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-CE1,113.2,66.8,18728.58,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-RS1,147.4,32.6,18720.46,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-SP1,147.7,32.3,18686.01,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-AM1,162.6,17.4,18555.28,,,,no substitute,0.0
+FG-HIP-0020,Cemented femoral stem - variant 4,DC-PA1,154.5,25.5,18525.35,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-PR1,142.4,37.6,18504.04,,,,no substitute,0.0
+FG-KNEE-0056,Patellar component - variant 3,DC-SP1,176.7,3.3,18385.45,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-CE1,85.5,94.5,18337.82,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-MG1,77.1,102.9,18312.56,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-PE1,162.2,17.8,18287.13,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-SC1,153.2,26.8,18270.61,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-PE1,159.8,20.2,18240.54,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-RS1,125.7,54.3,18198.98,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-GO1,82.1,97.9,18145.82,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-RJ1,172.8,7.2,18141.2,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-RS1,125.3,54.7,18076.35,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-PR1,114.1,65.9,17967.6,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-PR1,133.8,46.2,17889.1,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-PE1,162.1,17.9,17867.1,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-SC1,132.8,47.2,17827.5,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-PE1,60.6,119.4,17827.14,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-SC1,169.0,11.0,17807.81,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-GO1,127.0,53.0,17762.07,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-AM1,138.4,41.6,17739.31,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-AM1,96.0,84.0,17721.54,,,,no substitute,0.0
+FG-SPINE-0087,Anterior cervical plate - variant 2,DC-SC1,113.5,66.5,17650.18,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-BA1,139.6,40.4,17619.57,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-RS1,133.1,46.9,17536.64,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-RJ1,147.3,32.7,17535.64,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-SC1,114.1,65.9,17457.16,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-BA1,82.3,97.7,17409.85,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-RS1,128.2,51.8,17346.99,,,,no substitute,0.0
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,DC-AM1,114.7,65.3,17298.31,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-DF1,163.1,16.9,17263.79,,,,no substitute,0.0
+FG-KNEE-0075,Tibial insert - variant 7,DC-CE1,151.1,28.9,17208.98,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-SP2,140.2,39.8,17169.07,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-PR1,147.9,32.1,17154.0,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-CE1,119.8,60.2,17112.57,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-PE1,143.8,36.2,16988.14,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-PA1,122.5,57.5,16876.2,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-AM1,158.0,22.0,16782.15,,,,no substitute,0.0
+FG-VALVE-0196,Transcatheter valve system - variant 2,DC-AM1,149.1,30.9,16703.62,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-RS1,63.5,116.5,16633.87,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-GO1,63.5,116.5,16633.87,,,,no substitute,0.0
+FG-KNEE-0077,Revision stem extension - variant 7,DC-SC1,150.2,29.8,16627.63,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-AM1,118.0,62.0,16612.92,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-RJ1,98.6,81.4,16588.18,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-PE1,144.1,35.9,16559.55,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-SP2,106.0,74.0,16520.94,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-SP1,139.5,40.5,16506.67,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-AM1,137.2,42.8,16399.12,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-DF1,118.8,61.2,16376.34,,,,no substitute,0.0
+FG-HIP-0002,Cemented femoral stem - variant 1,DC-AM1,165.3,14.7,16362.69,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-MG1,146.6,33.4,16361.34,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-RJ1,150.0,30.0,16350.22,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-GO1,167.2,12.8,16292.11,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-SP1,97.4,82.6,16144.2,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-CE1,114.4,65.6,16136.93,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-PE1,114.4,65.6,16136.93,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-SP2,79.1,100.9,16043.6,,,,no substitute,0.0
+FG-HIP-0012,Bipolar head - variant 2,DC-AM1,145.9,34.1,16038.34,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-PA1,140.1,39.9,16003.17,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-DF1,123.2,56.8,15924.9,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-RS1,128.3,51.7,15920.34,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-SP1,174.9,5.1,15916.03,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-BA1,73.4,106.6,15812.38,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-GO1,175.2,4.8,15810.52,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-MG1,163.2,16.8,15787.83,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-GO1,74.5,105.5,15751.54,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-RS1,157.1,22.9,15707.72,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-AM1,63.9,116.1,15677.07,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-RS1,123.3,56.7,15602.48,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-MG1,130.5,49.5,15588.26,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-SC1,145.3,34.7,15534.25,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-CE1,153.6,26.4,15525.66,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-PE1,154.8,25.2,15518.81,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-MG1,162.7,17.3,15505.45,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-PA1,157.5,22.5,15433.62,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-SP1,102.0,78.0,15420.14,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-SP1,169.1,10.9,15411.93,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-BA1,133.9,46.1,15351.41,,,,no substitute,0.0
+FG-TRAUMA-0152,Cortical screw - variant 1,DC-AM1,154.0,26.0,15340.81,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-PR1,113.4,66.6,15276.97,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-GO1,133.1,46.9,15266.54,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-AM1,137.7,42.3,15258.43,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-CE1,158.3,21.7,15206.77,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-PE1,73.6,106.4,15191.79,,,,no substitute,0.0
+FG-KNEE-0073,Femoral component - variant 7,DC-PR1,144.1,35.9,15091.12,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-PR1,95.4,84.6,15074.57,,,,no substitute,0.0
+FG-SPINE-0086,Spinal rod - variant 2,DC-AM1,113.0,67.0,14974.0,,,,no substitute,0.0
+FG-KNEE-0045,Tibial insert - variant 1,DC-AM1,165.1,14.9,14853.27,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-PR1,156.8,23.2,14846.0,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-PE1,92.6,87.4,14845.99,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-CE1,163.2,16.8,14829.5,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-SC1,80.7,99.3,14825.74,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-DF1,129.9,50.1,14798.65,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-SC1,124.9,55.1,14763.4,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-PE1,140.5,39.5,14646.59,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-MG1,81.6,98.4,14596.04,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-RS1,165.8,14.2,14559.58,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-DF1,163.6,16.4,14541.17,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-GO1,145.2,34.8,14439.52,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-AM1,102.9,77.1,14406.61,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-SC1,167.7,12.3,14384.83,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-SP1,154.3,25.7,14329.4,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-DF1,73.8,106.2,14198.3,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-SP1,83.7,96.3,14164.78,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-BA1,110.6,69.4,14142.75,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-AM1,121.4,58.6,14093.02,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-CE1,152.8,27.2,14076.07,,,,no substitute,0.0
+FG-KNEE-0075,Tibial insert - variant 7,DC-MG1,164.3,15.7,14005.33,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-MG1,150.6,29.4,13808.25,,,,no substitute,0.0
+FG-HIP-0019,Cementless femoral stem - variant 4,DC-SC1,161.6,18.4,13773.94,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-SP2,116.9,63.1,13755.17,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-PA1,88.7,91.3,13542.87,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-RS1,140.6,39.4,13527.57,,,,no substitute,0.0
+FG-KNEE-0047,Revision stem extension - variant 1,DC-RS1,169.9,10.1,13526.04,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-SC1,144.5,35.5,13500.3,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-CE1,158.4,21.6,13486.09,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-AM1,130.5,49.5,13443.16,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-PA1,166.2,13.8,13395.67,,,,no substitute,0.0
+FG-KNEE-0056,Patellar component - variant 3,DC-PE1,174.3,5.7,13248.53,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-DF1,160.8,19.2,13214.01,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-SC1,160.9,19.1,13145.14,,,,no substitute,0.0
+FG-KNEE-0068,Femoral component - variant 6,DC-PA1,178.2,1.8,13130.78,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-PR1,91.5,88.5,13127.54,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-AM1,157.4,22.6,13016.86,,,,no substitute,0.0
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,DC-SP2,179.0,1.0,13012.97,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-PR1,145.0,35.0,12997.18,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-RS1,120.4,59.6,12992.14,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-AM1,118.0,62.0,12989.73,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-DF1,107.9,72.1,12876.05,,,,no substitute,0.0
+FG-KNEE-0055,Tibial insert - variant 3,DC-SC1,151.9,28.1,12874.68,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-MG1,136.3,43.7,12851.7,,,,no substitute,0.0
+FG-TRAUMA-0154,Cannulated screw - variant 1,DC-SC1,143.5,36.5,12806.48,,,,no substitute,0.0
+FG-SPINE-0104,PEEK interbody cage - variant 6,DC-DF1,111.0,69.0,12788.07,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-RJ1,142.4,37.6,12713.06,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-SC1,128.5,51.5,12671.5,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-MG1,75.3,104.7,12660.15,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-PR1,60.7,119.3,12654.11,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-CE1,174.8,5.2,12605.13,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-CE1,61.7,118.3,12548.05,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-GO1,155.7,24.3,12466.85,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-DF1,157.0,23.0,12434.19,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-RJ1,162.6,17.4,12411.22,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-PR1,150.5,29.5,12392.27,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-PR1,126.5,53.5,12360.85,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-GO1,126.3,53.7,12318.79,,,,no substitute,0.0
+FG-TRAUMA-0156,Locking compression plate - variant 2,DC-BA1,170.4,9.6,12291.4,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-RS1,113.0,67.0,12235.74,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-RS1,76.5,103.5,12206.79,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-BA1,94.6,85.4,12193.41,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-RJ1,175.8,4.2,12158.52,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-PA1,147.1,32.9,12149.34,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-AM1,111.7,68.3,12145.52,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-PR1,148.2,31.8,12087.08,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-GO1,156.7,23.3,12057.81,,,,no substitute,0.0
+FG-HIP-0018,Bipolar head - variant 3,DC-AM1,156.5,23.5,12056.8,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-PA1,117.6,62.4,11821.28,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-GO1,149.0,31.0,11783.38,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-RS1,108.5,71.5,11746.17,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-DF1,149.1,30.9,11745.42,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-RJ1,170.3,9.7,11637.77,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-BA1,109.8,70.2,11596.87,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-RJ1,174.8,5.2,11521.57,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-GO1,122.3,57.7,11415.09,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-CE1,150.1,29.9,11365.8,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-PE1,150.1,29.9,11365.8,,,,no substitute,0.0
+FG-KNEE-0072,Revision stem extension - variant 6,DC-AM1,171.8,8.2,11352.87,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-PE1,126.5,53.5,11338.33,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-RS1,128.5,51.5,11331.7,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-PE1,122.2,57.8,11284.5,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-BA1,111.3,68.7,11281.78,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-DF1,126.3,53.7,11273.93,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-PA1,150.4,29.6,11251.91,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-CE1,174.1,5.9,11238.41,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-DF1,161.9,18.1,11124.31,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-MG1,151.2,28.8,11122.79,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-AM1,165.8,14.2,11121.49,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-DF1,151.5,28.5,10924.77,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-AM1,72.0,108.0,10918.44,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-CE1,136.4,43.6,10894.11,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-PE1,136.4,43.6,10894.11,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-SC1,135.9,44.1,10865.98,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-PR1,131.6,48.4,10849.7,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-PE1,120.6,59.4,10847.23,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-CE1,70.9,109.1,10785.56,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-PR1,136.1,43.9,10746.64,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-RS1,148.0,32.0,10737.55,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-PA1,116.9,63.1,10719.32,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-MG1,140.0,40.0,10715.97,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-PR1,144.3,35.7,10664.42,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-DF1,132.5,47.5,10648.11,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-RS1,139.9,40.1,10630.87,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-SC1,132.6,47.4,10625.71,,,,no substitute,0.0
+FG-SPINE-0098,Set screw - variant 4,DC-PA1,159.4,20.6,10588.17,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-SP1,131.6,48.4,10587.45,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-SP1,115.4,64.6,10565.2,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-AM1,133.2,46.8,10491.32,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-DF1,174.0,6.0,10432.03,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-CE1,160.8,19.2,10421.56,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-SP2,134.6,45.4,10389.97,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-SP1,123.6,56.4,10187.58,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-PA1,174.1,5.9,10149.05,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-BA1,118.0,62.0,10139.98,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-CE1,73.6,106.4,10134.35,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-RS1,146.1,33.9,10126.94,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-RJ1,136.4,43.6,10073.52,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-PR1,107.1,72.9,9989.08,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-GO1,132.9,47.1,9981.43,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-PA1,132.6,47.4,9951.29,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-GO1,140.5,39.5,9943.14,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-MG1,157.0,23.0,9929.15,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-DF1,140.6,39.4,9917.97,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-DF1,141.8,38.2,9884.3,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-SC1,141.9,38.1,9858.42,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-CE1,108.4,71.6,9851.3,,,,no substitute,0.0
+FG-HIP-0019,Cementless femoral stem - variant 4,DC-MG1,172.5,7.5,9841.52,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-PR1,159.1,20.9,9830.19,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-SC1,167.1,12.9,9811.84,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-PE1,100.2,79.8,9651.8,,,,no substitute,0.0
+FG-TRAUMA-0168,Intramedullary nail - variant 4,DC-RJ1,168.8,11.2,9636.53,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-MG1,151.5,28.5,9606.54,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-PE1,137.1,42.9,9466.31,,,,no substitute,0.0
+FG-TRAUMA-0183,Intramedullary nail - variant 7,DC-SC1,63.3,116.7,9452.47,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-AM1,74.5,105.5,9409.18,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-RS1,127.2,52.8,9406.03,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-AM1,91.4,88.6,9399.77,,,,no substitute,0.0
+FG-HIP-0033,Acetabular cup - variant 6,DC-GO1,177.6,2.4,9394.88,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-DF1,90.5,89.5,9357.55,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-AM1,145.7,34.3,9353.98,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-RJ1,125.0,55.0,9301.79,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-RS1,80.0,100.0,9301.1,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-AM1,120.6,59.4,9273.88,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-GO1,136.2,43.8,9195.5,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-PA1,155.9,24.1,9103.0,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-PR1,70.4,109.6,9063.04,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-SP1,134.9,45.1,9013.38,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-RS1,126.3,53.7,8952.14,,,,no substitute,0.0
+FG-TRAUMA-0163,Intramedullary nail - variant 3,DC-GO1,135.7,44.3,8905.69,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-BA1,124.0,56.0,8904.28,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-SC1,95.5,84.5,8901.18,,,,no substitute,0.0
+FG-KNEE-0062,Revision stem extension - variant 4,DC-RS1,152.7,27.3,8894.08,,,,no substitute,0.0
+FG-SPINE-0093,Set screw - variant 3,DC-SC1,149.7,30.3,8887.89,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-GO1,144.1,35.9,8881.57,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-DF1,161.6,18.4,8836.86,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-PA1,124.7,55.3,8812.16,,,,no substitute,0.0
+FG-TRAUMA-0170,External fixator pin - variant 4,DC-PA1,96.7,83.3,8774.83,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-SC1,77.4,102.6,8646.1,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-DF1,137.1,42.9,8633.67,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-CE1,96.2,83.8,8577.06,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-AM1,131.6,48.4,8575.57,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-PE1,93.4,86.6,8560.55,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-PE1,148.4,31.6,8472.33,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-MG1,127.8,52.2,8442.63,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-BA1,138.1,41.9,8432.42,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-PA1,169.3,10.7,8384.89,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-DF1,111.0,69.0,8185.86,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-RJ1,87.3,92.7,8182.07,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-PR1,177.7,2.3,8166.66,,,,no substitute,0.0
+FG-KNEE-0061,Patellar component - variant 4,DC-BA1,170.9,9.1,8137.22,,,,no substitute,0.0
+FG-SPINE-0094,PEEK interbody cage - variant 4,DC-SC1,88.9,91.1,8125.75,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-GO1,159.2,20.8,8029.6,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-MG1,145.3,34.7,7929.73,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-SC1,130.8,49.2,7874.84,,,,no substitute,0.0
+FG-VALVE-0190,Bovine pericardial valve - variant 1,DC-PE1,177.1,2.9,7845.05,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-BA1,149.1,30.9,7777.63,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-GO1,86.2,93.8,7757.3,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-RJ1,152.8,27.2,7731.93,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-SP1,95.5,84.5,7724.27,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-RS1,104.5,75.5,7692.92,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-PE1,124.9,55.1,7679.19,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-RS1,136.2,43.8,7665.29,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-BA1,157.8,22.2,7653.24,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-AM1,121.9,58.1,7567.78,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-RS1,78.3,101.7,7542.77,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-PR1,162.4,17.6,7403.47,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-SC1,147.6,32.4,7378.11,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-GO1,165.3,14.7,7346.03,,,,no substitute,0.0
+FG-TRAUMA-0151,Locking compression plate - variant 1,DC-DF1,71.3,108.7,7323.8,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-CE1,174.2,5.8,7310.08,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-GO1,129.5,50.5,7309.4,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-DF1,126.6,53.4,7269.7,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-PR1,102.2,77.8,7235.96,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-SP2,107.9,72.1,7230.06,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-RS1,143.9,36.1,7224.67,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-GO1,159.8,20.2,7214.65,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-MG1,150.9,29.1,7198.63,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-PA1,147.4,32.6,7193.52,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-PA1,144.3,35.7,7144.71,,,,no substitute,0.0
+FG-KNEE-0071,Patellar component - variant 6,DC-AM1,148.0,32.0,7073.07,,,,no substitute,0.0
+FG-TRAUMA-0164,Cannulated screw - variant 3,DC-DF1,134.9,45.1,7043.01,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-RS1,152.4,27.6,7030.0,,,,no substitute,0.0
+FG-KNEE-0065,Tibial insert - variant 5,DC-SC1,150.8,29.2,7020.06,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-SP2,138.9,41.1,7019.35,,,,no substitute,0.0
+FG-KNEE-0067,Revision stem extension - variant 5,DC-SC1,163.4,16.6,6983.77,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-MG1,147.2,32.8,6949.7,,,,no substitute,0.0
+FG-HIP-0010,CoCr femoral head - variant 2,DC-SP2,178.7,1.3,6777.28,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-MG1,174.4,5.6,6695.04,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-PR1,132.9,47.1,6694.37,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-RJ1,134.0,46.0,6650.63,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-RJ1,170.1,9.9,6637.0,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-RJ1,143.8,36.2,6581.11,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-SP1,126.9,53.1,6523.9,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-PE1,135.0,45.0,6505.98,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-RJ1,107.0,73.0,6488.57,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-RJ1,136.1,43.9,6463.42,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-PR1,136.1,43.9,6463.42,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-MG1,121.4,58.6,6462.68,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-PA1,117.5,62.5,6438.78,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-RS1,102.2,77.8,6435.03,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-PA1,81.7,98.3,6400.63,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-DF1,108.0,72.0,6399.74,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-PR1,154.6,25.4,6392.54,,,,no substitute,0.0
+FG-SPINE-0107,Anterior cervical plate - variant 6,DC-SP1,157.5,22.5,6387.76,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-BA1,131.0,49.0,6340.25,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-AM1,108.7,71.3,6337.55,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-DF1,128.5,51.5,6327.47,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-DF1,137.1,42.9,6316.24,,,,no substitute,0.0
+FG-TRAUMA-0166,Locking compression plate - variant 4,DC-BA1,109.0,71.0,6310.9,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-PR1,133.6,46.4,6300.17,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-SP1,135.6,44.4,6293.47,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-PR1,122.8,57.2,6263.13,,,,no substitute,0.0
+FG-HIP-0021,Acetabular cup - variant 4,DC-AM1,163.4,16.6,6260.93,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-PE1,145.9,34.1,6251.01,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-AM1,129.2,50.8,6241.54,,,,no substitute,0.0
+FG-KNEE-0056,Patellar component - variant 3,DC-DF1,173.3,6.7,6238.38,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-SP1,129.7,50.3,6235.14,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-RJ1,149.8,30.2,6202.61,,,,no substitute,0.0
+FG-KNEE-0053,Femoral component - variant 3,DC-BA1,147.9,32.1,6196.56,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-PR1,149.9,30.1,6182.09,,,,no substitute,0.0
+FG-SPINE-0111,Spinal rod - variant 7,DC-PA1,129.8,50.2,6167.88,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-MG1,150.0,30.0,6161.58,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-BA1,85.7,94.3,6141.09,,,,no substitute,0.0
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,DC-SC1,171.9,8.1,6117.99,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-SP1,104.5,75.5,6112.87,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-AM1,98.1,81.9,6074.27,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-BA1,171.8,8.2,6056.21,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-MG1,120.0,60.0,6034.38,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-PA1,158.9,21.1,6025.32,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-SC1,150.9,29.1,5976.98,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-PE1,107.1,72.9,5902.4,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-PR1,148.3,31.7,5883.96,,,,no substitute,0.0
+FG-SPINE-0082,Anterior cervical plate - variant 1,DC-BA1,175.9,4.1,5859.22,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-PE1,166.0,14.0,5815.95,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-BA1,152.3,27.7,5815.42,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-RS1,151.7,28.3,5812.89,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-BA1,151.8,28.2,5792.38,,,,no substitute,0.0
+FG-KNEE-0060,Tibial insert - variant 4,DC-CE1,151.8,28.2,5792.38,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-CE1,126.6,53.4,5744.06,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-RJ1,145.3,34.7,5729.4,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-DF1,122.4,57.6,5692.74,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-PE1,128.0,52.0,5674.13,,,,no substitute,0.0
+FG-SPINE-0083,Set screw - variant 1,DC-PR1,175.4,4.6,5671.38,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-GO1,124.5,55.5,5655.06,,,,no substitute,0.0
+FG-HIP-0019,Cementless femoral stem - variant 4,DC-RJ1,178.5,1.5,5625.36,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-RS1,137.1,42.9,5589.4,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-MG1,137.5,42.5,5587.42,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-CE1,137.2,42.8,5576.38,,,,no substitute,0.0
+FG-TRAUMA-0186,Locking compression plate - variant 8,DC-SP1,162.6,17.4,5544.26,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-RJ1,167.5,12.5,5523.79,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-SP1,165.5,14.5,5508.5,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-SP2,130.9,49.1,5383.9,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-SC1,107.5,72.5,5377.1,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-MG1,128.2,51.8,5331.04,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-RJ1,115.8,64.2,5276.99,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-PE1,176.1,3.9,5250.05,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-MG1,166.3,13.7,5205.42,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-PE1,173.2,6.8,5151.58,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-BA1,136.6,43.4,5132.17,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-PE1,110.3,69.7,5128.22,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-PA1,133.1,46.9,5113.6,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-RS1,166.0,14.0,5106.53,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-MG1,126.4,53.6,5068.97,,,,no substitute,0.0
+FG-TRAUMA-0171,Locking compression plate - variant 5,DC-SP2,176.1,3.9,5039.58,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-DF1,133.0,47.0,4986.24,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-PR1,167.7,12.3,4919.97,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-PA1,156.8,23.2,4914.54,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-SC1,146.2,33.8,4911.12,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-DF1,167.1,12.9,4902.34,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-CE1,134.0,46.0,4880.18,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-SP2,144.9,35.1,4853.29,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-BA1,158.1,21.9,4832.45,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-RS1,153.3,26.7,4778.8,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-PR1,163.4,16.6,4757.74,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-MG1,163.6,16.4,4744.94,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-SC1,158.0,22.0,4744.03,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-RJ1,90.8,89.2,4725.14,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-SC1,90.9,89.1,4719.84,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-MG1,91.0,89.0,4714.55,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-SP2,178.3,1.7,4672.38,,,,no substitute,0.0
+FG-SPINE-0088,Set screw - variant 2,DC-SC1,167.1,12.9,4662.44,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-SC1,153.6,26.4,4651.12,,,,no substitute,0.0
+FG-TRAUMA-0168,Intramedullary nail - variant 4,DC-SC1,165.1,14.9,4646.14,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-DF1,165.8,14.2,4626.33,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-SC1,157.2,22.8,4588.52,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-PE1,158.9,21.1,4550.31,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-CE1,158.9,21.1,4550.31,,,,no substitute,0.0
+FG-KNEE-0078,Femoral component - variant 8,DC-BA1,158.9,21.1,4550.31,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-AM1,154.2,25.8,4545.57,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-BA1,168.1,11.9,4523.48,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-PE1,168.1,11.9,4523.48,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-AM1,82.8,97.2,4522.17,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-CE1,154.5,25.5,4492.8,,,,no substitute,0.0
+FG-KNEE-0070,Tibial insert - variant 6,DC-PE1,154.5,25.5,4492.8,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-SC1,164.5,15.5,4485.18,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-SC1,164.4,15.6,4471.82,,,,no substitute,0.0
+FG-KNEE-0075,Tibial insert - variant 7,DC-GO1,165.1,14.9,4437.99,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-GO1,147.0,33.0,4431.75,,,,no substitute,0.0
+FG-KNEE-0063,Femoral component - variant 5,DC-PA1,168.4,11.6,4409.83,,,,no substitute,0.0
+FG-KNEE-0058,Femoral component - variant 4,DC-PR1,174.9,5.1,4402.34,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-PA1,173.0,7.0,4381.72,,,,no substitute,0.0
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,DC-SC1,140.7,39.3,4361.54,,,,no substitute,0.0
+FG-HIP-0009,Acetabular cup - variant 2,DC-AM1,165.1,14.9,4312.0,,,,no substitute,0.0
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,DC-DF1,172.9,7.1,4262.31,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-SC1,154.6,25.4,4196.03,,,,no substitute,0.0
+FG-HIP-0003,Acetabular cup - variant 1,DC-MG1,178.6,1.4,4182.59,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-SC1,149.0,31.0,4145.7,,,,no substitute,0.0
+FG-TRAUMA-0165,External fixator pin - variant 3,DC-SP2,156.2,23.8,4110.45,,,,no substitute,0.0
+FG-TRAUMA-0182,Cortical screw - variant 7,DC-AM1,88.3,91.7,4107.86,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-CE1,172.3,7.7,4105.72,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-SP1,171.4,8.6,4102.33,,,,no substitute,0.0
+FG-SPINE-0101,Spinal rod - variant 5,DC-AM1,149.6,30.4,4065.57,,,,no substitute,0.0
+FG-TRAUMA-0168,Intramedullary nail - variant 4,DC-BA1,173.5,6.5,4059.07,,,,no substitute,0.0
+FG-TRAUMA-0176,Locking compression plate - variant 6,DC-SC1,141.4,38.6,4051.9,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-SP2,152.7,27.3,3965.86,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-MG1,159.1,20.9,3957.88,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-RJ1,135.3,44.7,3948.0,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-DF1,167.7,12.3,3935.47,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-SP2,178.2,1.8,3934.34,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-SC1,138.9,41.1,3898.47,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-AM1,157.5,22.5,3887.09,,,,no substitute,0.0
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,DC-BA1,156.5,23.5,3882.65,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-GO1,153.5,26.5,3849.87,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-BA1,120.2,59.8,3823.32,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-PR1,171.1,8.9,3820.4,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-PA1,164.2,15.8,3762.21,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-DF1,151.2,28.8,3754.26,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-MG1,170.9,9.1,3742.39,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-AM1,103.4,76.6,3643.9,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-DF1,149.6,30.4,3630.25,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-DF1,103.7,76.3,3629.64,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-RS1,120.5,59.5,3552.63,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-RS1,132.7,47.3,3440.95,,,,no substitute,0.0
+FG-SPINE-0091,Spinal rod - variant 3,DC-PR1,166.5,13.5,3439.43,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-PE1,132.8,47.2,3433.68,,,,no substitute,0.0
+FG-HIP-0022,CoCr femoral head - variant 4,DC-CE1,166.0,14.0,3408.29,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-PE1,118.5,61.5,3371.79,,,,no substitute,0.0
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,DC-SP1,177.1,2.9,3355.72,,,,no substitute,0.0
+FG-SPINE-0081,Spinal rod - variant 1,DC-SP1,159.1,20.9,3323.2,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-GO1,144.1,35.9,3312.42,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-SC1,91.2,88.8,3302.94,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-SC1,124.7,55.3,3301.85,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-BA1,114.5,65.5,3285.43,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-MG1,100.6,79.4,3279.15,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-MG1,170.5,9.5,3263.74,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-DF1,101.4,78.6,3246.13,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-PR1,124.9,55.1,3240.65,,,,no substitute,0.0
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,DC-PR1,170.3,9.7,3237.44,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-AM1,102.1,77.9,3217.23,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-PE1,102.4,77.6,3204.85,,,,no substitute,0.0
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,DC-PA1,102.7,77.3,3192.46,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-MG1,178.2,1.8,3149.11,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-DF1,156.0,24.0,3093.26,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-DF1,134.6,45.4,3087.54,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-MG1,152.0,28.0,3052.9,,,,no substitute,0.0
+FG-HIP-0027,Acetabular cup - variant 5,DC-MG1,179.0,1.0,2994.34,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-PE1,141.2,38.8,2984.48,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-PA1,141.5,38.5,2961.41,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-SP2,177.7,2.3,2938.08,,,,no substitute,0.0
+FG-KNEE-0057,Revision stem extension - variant 3,DC-GO1,179.4,0.6,2933.98,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-AM1,124.5,55.5,2918.12,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-DF1,172.6,7.4,2914.47,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-BA1,173.7,6.3,2900.33,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-CE1,114.3,65.7,2899.47,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-SP2,130.7,49.3,2899.34,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-SP2,156.6,23.4,2898.88,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-PR1,127.5,52.5,2878.36,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-SP1,160.2,19.8,2875.54,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-DF1,117.5,62.5,2856.3,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-SP1,165.7,14.3,2820.52,,,,no substitute,0.0
+FG-VALVE-0194,Bovine pericardial valve - variant 2,DC-AM1,178.8,1.2,2755.1,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-RS1,165.6,14.4,2717.63,,,,no substitute,0.0
+FG-TRAUMA-0186,Locking compression plate - variant 8,DC-RJ1,150.3,29.7,2701.25,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-SC1,165.3,14.7,2678.45,,,,no substitute,0.0
+FG-KNEE-0066,Patellar component - variant 5,DC-CE1,172.3,7.7,2647.94,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-GO1,108.4,71.6,2616.23,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-DF1,124.2,55.8,2574.27,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-SC1,166.7,13.3,2550.92,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-AM1,124.9,55.1,2541.98,,,,no substitute,0.0
+FG-TRAUMA-0186,Locking compression plate - variant 8,DC-BA1,152.3,27.7,2519.44,,,,no substitute,0.0
+FG-TRAUMA-0172,Cortical screw - variant 5,DC-RS1,172.7,7.3,2512.71,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-SC1,138.0,42.0,2500.2,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-AM1,159.9,20.1,2490.33,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-PR1,118.5,61.5,2466.25,,,,no substitute,0.0
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,DC-PA1,166.5,13.5,2460.39,,,,no substitute,0.0
+FG-KNEE-0050,Tibial insert - variant 2,DC-AM1,178.8,1.2,2451.66,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-GO1,139.4,40.6,2443.09,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-PE1,145.2,34.8,2441.18,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-PA1,130.9,49.1,2408.21,,,,no substitute,0.0
+FG-HIP-0006,Bipolar head - variant 1,DC-PR1,176.5,3.5,2390.5,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-CE1,128.2,51.8,2365.41,,,,no substitute,0.0
+FG-SPINE-0103,Set screw - variant 5,DC-CE1,170.6,9.4,2363.61,,,,no substitute,0.0
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,DC-PA1,128.5,51.5,2351.72,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-PE1,175.0,5.0,2349.38,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-RJ1,164.5,15.5,2331.77,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-DF1,163.8,16.2,2302.52,,,,no substitute,0.0
+FG-TRAUMA-0184,Cannulated screw - variant 7,DC-SC1,141.2,38.8,2299.95,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-RS1,155.1,24.9,2297.47,,,,no substitute,0.0
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,DC-SC1,171.1,8.9,2294.17,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-SP2,164.5,15.5,2285.71,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-BA1,148.8,31.2,2270.64,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-CE1,169.6,10.4,2267.87,,,,no substitute,0.0
+FG-SPINE-0099,PEEK interbody cage - variant 5,DC-DF1,172.3,7.7,2226.85,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-CE1,109.5,70.5,2121.16,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-RS1,123.4,56.6,2067.97,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-PA1,123.8,56.2,2053.35,,,,no substitute,0.0
+FG-SPINE-0079,PEEK interbody cage - variant 1,DC-SC1,155.6,24.4,2033.53,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-RS1,150.2,29.8,1960.27,,,,no substitute,0.0
+FG-HIP-0024,Bipolar head - variant 4,DC-GO1,173.5,6.5,1951.89,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-SC1,137.6,42.4,1944.46,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-PR1,150.4,29.6,1926.97,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-AM1,138.2,41.8,1916.97,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-DF1,138.5,41.5,1903.23,,,,no substitute,0.0
+FG-SPINE-0092,Anterior cervical plate - variant 3,DC-PA1,138.8,41.2,1889.48,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-RS1,170.1,9.9,1837.58,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-AM1,113.2,66.8,1831.18,,,,no substitute,0.0
+FG-HIP-0031,Cementless femoral stem - variant 6,DC-SC1,171.1,8.9,1829.67,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-GO1,118.2,61.8,1819.81,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-RJ1,165.1,14.9,1808.31,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-PR1,135.3,44.7,1808.11,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-BA1,152.3,27.7,1803.45,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-PR1,178.1,1.9,1785.53,,,,no substitute,0.0
+FG-TRAUMA-0181,Locking compression plate - variant 7,DC-PA1,152.6,27.4,1783.95,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-DF1,157.5,22.5,1734.17,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-BA1,137.2,42.8,1731.33,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-CE1,165.6,14.4,1719.59,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-AM1,158.2,21.8,1680.31,,,,no substitute,0.0
+FG-TRAUMA-0178,Intramedullary nail - variant 6,DC-PR1,162.5,17.5,1662.79,,,,no substitute,0.0
+FG-SPINE-0112,Anterior cervical plate - variant 7,DC-BA1,158.5,21.5,1657.23,,,,no substitute,0.0
+FG-TRAUMA-0185,External fixator pin - variant 7,DC-AM1,166.6,13.4,1652.72,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-MG1,171.9,8.1,1594.09,,,,no substitute,0.0
+FG-HIP-0038,Cemented femoral stem - variant 7,DC-CE1,175.0,5.0,1571.74,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-AM1,175.6,4.4,1566.5,,,,no substitute,0.0
+FG-TRAUMA-0187,Cortical screw - variant 8,DC-GO1,168.8,11.2,1563.11,,,,no substitute,0.0
+FG-SPINE-0096,Spinal rod - variant 4,DC-AM1,134.4,45.6,1548.58,,,,no substitute,0.0
+FG-HIP-0015,Acetabular cup - variant 3,DC-BA1,179.7,0.3,1546.73,,,,no substitute,0.0
+FG-TRAUMA-0186,Locking compression plate - variant 8,DC-SP2,163.7,16.3,1483.8,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-PR1,133.3,46.7,1437.48,,,,no substitute,0.0
+FG-HIP-0034,CoCr femoral head - variant 6,DC-CE1,177.5,2.5,1435.62,,,,no substitute,0.0
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,DC-SC1,172.8,7.2,1417.83,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-SC1,134.3,45.7,1406.71,,,,no substitute,0.0
+FG-HIP-0014,Cemented femoral stem - variant 3,DC-SC1,178.9,1.1,1402.05,,,,no substitute,0.0
+FG-SPINE-0107,Anterior cervical plate - variant 6,DC-AM1,167.3,12.7,1351.74,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-RS1,134.2,45.8,1349.05,,,,no substitute,0.0
+FG-SPINE-0107,Anterior cervical plate - variant 6,DC-RS1,167.5,12.5,1330.45,,,,no substitute,0.0
+FG-TRAUMA-0186,Locking compression plate - variant 8,DC-PR1,165.4,14.6,1329.26,,,,no substitute,0.0
+FG-KNEE-0044,Tibial baseplate - variant 1,DC-RS1,179.5,0.5,1328.11,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-PR1,161.8,18.2,1325.76,,,,no substitute,0.0
+FG-SPINE-0107,Anterior cervical plate - variant 6,DC-BA1,167.6,12.4,1319.81,,,,no substitute,0.0
+FG-TRAUMA-0169,Cannulated screw - variant 4,DC-SC1,167.9,12.1,1293.46,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-SC1,131.4,48.6,1279.14,,,,no substitute,0.0
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,DC-DF1,157.1,22.9,1249.34,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-AM1,139.2,40.8,1227.56,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-DF1,139.5,40.5,1218.54,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-RS1,119.4,60.6,1216.44,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-PA1,166.9,13.1,1206.09,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-AM1,154.6,25.4,1204.06,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-SP2,154.7,25.3,1196.07,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-GO1,139.5,40.5,1191.46,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-BA1,155.2,24.8,1144.12,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-PR1,151.3,28.7,1132.15,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-RJ1,156.3,23.7,1120.55,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-PR1,156.4,23.6,1115.83,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-SC1,167.6,12.4,1110.65,,,,no substitute,0.0
+FG-SPINE-0108,Set screw - variant 6,DC-GO1,168.7,11.3,1074.81,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-BA1,153.1,26.9,1054.37,,,,no substitute,0.0
+FG-TRAUMA-0179,Cannulated screw - variant 6,DC-CE1,168.5,11.5,1030.3,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-BA1,158.3,21.7,1026.15,,,,no substitute,0.0
+FG-TRAUMA-0188,Intramedullary nail - variant 8,DC-PE1,158.3,21.7,1026.15,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-CE1,143.5,36.5,1000.57,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-PE1,130.6,49.4,969.64,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-AM1,166.9,13.1,965.52,,,,no substitute,0.0
+FG-SPINE-0102,Anterior cervical plate - variant 5,DC-GO1,167.1,12.9,950.82,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-SC1,148.6,31.4,944.74,,,,no substitute,0.0
+FG-SPINE-0109,PEEK interbody cage - variant 7,DC-SC1,163.2,16.8,891.65,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-CE1,147.3,32.7,860.99,,,,no substitute,0.0
+FG-VALVE-0193,Mechanical heart valve - variant 2,DC-SP2,179.3,0.7,811.57,,,,no substitute,0.0
+FG-TRAUMA-0167,Cortical screw - variant 4,DC-SC1,174.2,5.8,793.09,,,,no substitute,0.0
+FG-TRAUMA-0174,Cannulated screw - variant 5,DC-MG1,163.4,16.6,765.82,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-MG1,164.8,15.2,746.07,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-DF1,106.2,73.8,686.2,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-CE1,145.6,34.4,675.45,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-AM1,134.1,45.9,675.13,,,,no substitute,0.0
+FG-TRAUMA-0157,Cortical screw - variant 2,DC-BA1,134.4,45.6,670.72,,,,no substitute,0.0
+FG-TRAUMA-0153,Intramedullary nail - variant 1,DC-GO1,166.0,14.0,652.41,,,,no substitute,0.0
+FG-HIP-0028,CoCr femoral head - variant 5,DC-MG1,178.3,1.7,649.12,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-AM1,162.6,17.4,633.2,,,,no substitute,0.0
+FG-SPINE-0097,Anterior cervical plate - variant 4,DC-GO1,162.8,17.2,625.94,,,,no substitute,0.0
+FG-HIP-0036,Bipolar head - variant 6,DC-AM1,176.0,4.0,602.25,,,,no substitute,0.0
+FG-SPINE-0089,PEEK interbody cage - variant 3,DC-BA1,175.2,4.8,597.05,,,,no substitute,0.0
+FG-HIP-0025,Cementless femoral stem - variant 5,DC-DF1,179.2,0.8,479.63,,,,no substitute,0.0
+FG-TRAUMA-0180,External fixator pin - variant 6,DC-AM1,177.3,2.7,422.28,,,,no substitute,0.0
+FG-TRAUMA-0173,Intramedullary nail - variant 5,DC-PA1,149.9,30.1,301.97,,,,no substitute,0.0
+FG-TRAUMA-0168,Intramedullary nail - variant 4,DC-PR1,179.1,0.9,277.82,,,,no substitute,0.0
+FG-TRAUMA-0161,Locking compression plate - variant 3,DC-SC1,167.6,12.4,227.41,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-PR1,158.8,21.2,208.08,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-DF1,159.7,20.3,199.26,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-SC1,159.8,20.2,198.28,,,,no substitute,0.0
+FG-TRAUMA-0160,External fixator pin - variant 2,DC-AM1,160.4,19.6,192.4,,,,no substitute,0.0
+FG-HIP-0019,Cementless femoral stem - variant 4,DC-RS1,179.9,0.1,168.53,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-AM1,177.9,2.1,143.41,,,,no substitute,0.0
+FG-SPINE-0084,PEEK interbody cage - variant 2,DC-SP2,178.4,1.6,125.67,,,,no substitute,0.0
+FG-TRAUMA-0177,Cortical screw - variant 6,DC-CE1,178.2,1.8,123.31,,,,no substitute,0.0
+FG-TRAUMA-0155,External fixator pin - variant 1,DC-DF1,177.3,2.7,72.03,,,,no substitute,0.0

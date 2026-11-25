@@ -1,0 +1,16 @@
+id,label,name,betweenness
+DC-SP1,DC,DC São Paulo/SP,535886.0
+DC-SP2,DC,DC Guarulhos/SP,503133.0
+DC-RJ1,DC,DC Rio de Janeiro/RJ,398086.0
+DC-MG1,DC,DC Belo Horizonte/MG,323262.0
+DC-PE1,DC,DC Recife/PE,300616.0
+DC-BA1,DC,DC Salvador/BA,235345.0
+DC-GO1,DC,DC Goiânia/GO,221261.0
+DC-PA1,DC,DC Belém/PA,220338.0
+DC-PR1,DC,DC Curitiba/PR,220282.0
+DC-CE1,DC,DC Fortaleza/CE,194798.0
+DC-RS1,DC,DC Porto Alegre/RS,177985.0
+DC-DF1,DC,DC Brasília/DF,139500.0
+DC-AM1,DC,DC Manaus/AM,131633.0
+DC-SC1,DC,DC Joinville/SC,116376.0
+RM-TI64,Item,Titanium alloy Ti-6Al-4V ELI bar (ASTM F136),64762.0

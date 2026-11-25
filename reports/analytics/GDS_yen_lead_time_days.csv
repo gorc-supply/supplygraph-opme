@@ -1,0 +1,6 @@
+rank,total,route
+1,14.9,P-01 > SJO > VCP > DC-SP2 > DC-BA1 > H-0176
+2,15.5,P-01 > SJO > GRU > DC-SP2 > DC-BA1 > H-0176
+3,16.0,P-01 > SJO > VCP > DC-SP2 > DC-SP1 > DC-BA1 > H-0176
+4,16.6,P-01 > SJO > GRU > DC-SP1 > DC-BA1 > H-0176
+5,16.6,P-01 > SJO > GRU > DC-SP2 > DC-SP1 > DC-BA1 > H-0176

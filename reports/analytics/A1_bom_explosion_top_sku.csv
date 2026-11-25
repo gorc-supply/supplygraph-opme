@@ -1,0 +1,17 @@
+sku,name,type,bom_level,paths,qty_per_implant,n_suppliers
+CP-L1-0241,Valve delivery system 0241,COMPONENT,1,1,2.0,2
+CP-L1-0248,Valve frame 0248,COMPONENT,1,1,2.0,4
+CP-L2-0137,Valve sub-assembly 0137,COMPONENT,2,1,4.0,3
+CP-L2-0138,Valve coating feedstock 0138,COMPONENT,2,1,2.0,2
+CP-L2-0143,Valve surface-treated part 0143,COMPONENT,2,1,4.0,3
+CP-L2-0149,Valve precision blank 0149,COMPONENT,2,1,2.0,2
+CP-L3-0086,Valve near-net forging 0086,COMPONENT,3,1,4.0,1
+CP-L3-0087,Valve laser-cut tube 0087,COMPONENT,3,1,4.0,3
+CP-L3-0090,Valve wire sub-assembly 0090,COMPONENT,3,1,4.0,3
+CP-L3-0091,Valve coating feedstock 0091,COMPONENT,3,1,2.0,2
+CP-L3-0092,Valve surface-treated part 0092,COMPONENT,3,1,2.0,2
+CP-L3-0093,Valve coating feedstock 0093,COMPONENT,3,2,6.0,2
+CP-L3-0120,NiTi laser-cut tube (L3-0120),COMPONENT,3,1,2.0,2
+RM-PYC,Pyrolytic carbon,RAW,3,9,7.384,1
+RM-COCR,Cobalt-chromium-molybdenum alloy bar (ASTM F1537),RAW,4,2,1.086,2
+RM-PET,Medical-grade PET polyester yarn,RAW,4,1,0.66,2

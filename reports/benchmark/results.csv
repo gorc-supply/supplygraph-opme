@@ -1,0 +1,19 @@
+profile,bom_depth,size,nodes,relationships,question,cypher_ms,duckdb_ms,speedup_graph,answer_rows,same_answer,cypher_loc,sql_loc,sql_ctes,sql_joins,load_s
+bench_s_d3,3,S,2458,39485,Q1 BOM explosion (all implants),7.9,5.3,0.68,957,True,3,20,2,3,2.0
+bench_s_d3,3,S,2458,39485,Q2 false dual-source (strict),26.6,11.5,0.43,81,True,10,32,4,5,2.0
+bench_s_d3,3,S,2458,39485,"Q3 blast radius, TTR 60 d",24.7,22.0,0.89,25,True,26,60,6,9,2.0
+bench_s_d5,5,S,2664,41099,Q1 BOM explosion (all implants),22.2,5.3,0.24,1180,True,3,20,2,3,1.9
+bench_s_d5,5,S,2664,41099,Q2 false dual-source (strict),57.5,8.8,0.15,146,True,10,32,4,5,1.9
+bench_s_d5,5,S,2664,41099,"Q3 blast radius, TTR 60 d",82.0,16.8,0.2,45,True,26,60,6,9,1.9
+bench_s_d7,7,S,2753,42414,Q1 BOM explosion (all implants),60.8,7.9,0.13,1344,True,3,20,2,3,2.1
+bench_s_d7,7,S,2753,42414,Q2 false dual-source (strict),77.8,9.7,0.13,106,True,10,32,4,5,2.1
+bench_s_d7,7,S,2753,42414,"Q3 blast radius, TTR 60 d",306.4,16.9,0.06,108,True,26,60,6,9,2.1
+bench_l_d3,3,L,8903,143350,Q1 BOM explosion (all implants),28.6,6.3,0.22,3782,True,3,20,2,3,6.4
+bench_l_d3,3,L,8903,143350,Q2 false dual-source (strict),106.7,11.9,0.11,278,True,10,32,4,5,6.4
+bench_l_d3,3,L,8903,143350,"Q3 blast radius, TTR 60 d",105.9,20.1,0.19,115,True,26,60,6,9,6.4
+bench_l_d5,5,L,9680,153707,Q1 BOM explosion (all implants),86.1,9.7,0.11,5518,True,3,20,2,3,7.1
+bench_l_d5,5,L,9680,153707,Q2 false dual-source (strict),210.8,11.4,0.05,400,True,10,32,4,5,7.1
+bench_l_d5,5,L,9680,153707,"Q3 blast radius, TTR 60 d",1492.8,26.6,0.02,99,True,26,60,6,9,7.1
+bench_l_d7,7,L,9974,157244,Q1 BOM explosion (all implants),247.8,15.1,0.06,6084,True,3,20,2,3,10.0
+bench_l_d7,7,L,9974,157244,Q2 false dual-source (strict),340.3,11.9,0.03,560,True,10,32,4,5,10.0
+bench_l_d7,7,L,9974,157244,"Q3 blast radius, TTR 60 d",1008.9,23.5,0.02,208,True,26,60,6,9,10.0

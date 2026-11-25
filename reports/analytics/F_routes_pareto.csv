@@ -1,0 +1,2 @@
+route,modes,lead_time_days,cost_per_unit
+P-01 > SJO > VCP > DC-SP2 > DC-BA1 > H-0176,"road,air,road,road,last-mile",14.9,49.83

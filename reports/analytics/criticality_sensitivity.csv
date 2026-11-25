@@ -1,0 +1,5 @@
+scenario,spearman_vs_base,top10_overlap,top1
+revenue_heavy,0.98,8,S-T3-003
+structure_heavy,0.969,8,S-T2-054
+risk_heavy,0.9,8,S-T2-007
+equal,0.986,9,S-T2-007

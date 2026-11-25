@@ -1,0 +1,168 @@
+finished_sku,name,category,levels_above,qty_per_implant,revenue_month,hospitals
+FG-VALVE-0198,Bovine pericardial valve - variant 3,VALVE,4,1.204,8937920.0,267
+FG-KNEE-0054,Tibial baseplate - variant 3,KNEE,3,4.348,8431500.0,482
+FG-VALVE-0214,Bovine pericardial valve - variant 7,VALVE,2,0.153,7910040.0,174
+FG-KNEE-0059,Tibial baseplate - variant 4,KNEE,4,4.361,7755250.0,428
+FG-HIP-0039,Acetabular cup - variant 7,HIP,2,3.478,7394680.0,414
+FG-HIP-0037,Cementless femoral stem - variant 7,HIP,4,5.307,6292000.0,482
+FG-KNEE-0076,Patellar component - variant 7,KNEE,3,1.957,5862040.0,377
+FG-HIP-0017,UHMWPE acetabular liner - variant 3,HIP,4,2.42,4592280.0,272
+FG-SPINE-0106,Spinal rod - variant 6,SPINE,4,5.744,4105460.0,392
+FG-KNEE-0068,Femoral component - variant 6,KNEE,4,0.706,4084800.0,332
+FG-VALVE-0191,Annuloplasty ring - variant 1,VALVE,2,0.153,3865740.0,114
+FG-HIP-0015,Acetabular cup - variant 3,HIP,4,4.328,3511060.0,383
+FG-KNEE-0057,Revision stem extension - variant 3,KNEE,4,1.746,3441820.0,360
+FG-VALVE-0201,Mechanical heart valve - variant 4,VALVE,2,0.318,3372460.0,91
+FG-KNEE-0051,Patellar component - variant 2,KNEE,3,3.716,2958220.0,209
+FG-VALVE-0194,Bovine pericardial valve - variant 2,VALVE,4,1.204,2920110.0,108
+FG-HIP-0011,UHMWPE acetabular liner - variant 2,HIP,4,1.348,2818800.0,162
+FG-HIP-0030,Bipolar head - variant 5,HIP,4,6.583,2599100.0,369
+FG-HIP-0001,Cementless femoral stem - variant 1,HIP,4,3.197,2498880.0,261
+FG-KNEE-0047,Revision stem extension - variant 1,KNEE,3,1.611,2449560.0,136
+FG-KNEE-0077,Revision stem extension - variant 7,KNEE,4,0.178,2318400.0,178
+FG-TRAUMA-0158,Intramedullary nail - variant 2,TRAUMA,3,1.178,2199570.0,341
+FG-VALVE-0189,Mechanical heart valve - variant 1,VALVE,2,0.159,2168080.0,82
+FG-VALVE-0197,Mechanical heart valve - variant 3,VALVE,4,0.602,1923860.0,58
+FG-KNEE-0049,Tibial baseplate - variant 2,KNEE,3,1.601,1901250.0,193
+FG-HIP-0003,Acetabular cup - variant 1,HIP,4,3.89,1870440.0,155
+FG-KNEE-0072,Revision stem extension - variant 6,KNEE,4,2.657,1809000.0,223
+FG-KNEE-0048,Femoral component - variant 2,KNEE,2,3.498,1750150.0,140
+FG-VALVE-0195,Annuloplasty ring - variant 2,VALVE,2,0.098,1736400.0,60
+FG-VALVE-0204,Transcatheter valve system - variant 4,VALVE,2,0.159,1734480.0,54
+FG-VALVE-0209,Mechanical heart valve - variant 6,VALVE,4,0.602,1707650.0,41
+FG-KNEE-0069,Tibial baseplate - variant 6,KNEE,4,1.739,1668700.0,200
+FG-HIP-0014,Cemented femoral stem - variant 3,HIP,2,2.239,1612120.0,161
+FG-HIP-0010,CoCr femoral head - variant 2,HIP,4,3.743,1583880.0,194
+FG-HIP-0007,Cementless femoral stem - variant 2,HIP,2,3.31,1570660.0,91
+FG-HIP-0016,CoCr femoral head - variant 3,HIP,4,4.712,1554110.0,221
+FG-KNEE-0052,Revision stem extension - variant 2,KNEE,4,4.197,1554000.0,149
+FG-KNEE-0045,Tibial insert - variant 1,KNEE,4,1.048,1551360.0,101
+FG-VALVE-0190,Bovine pericardial valve - variant 1,VALVE,2,0.761,1500720.0,74
+FG-HIP-0033,Acetabular cup - variant 6,HIP,2,4.323,1496400.0,143
+FG-SPINE-0083,Set screw - variant 1,SPINE,4,3.253,1466010.0,171
+FG-HIP-0004,CoCr femoral head - variant 1,HIP,2,6.409,1384150.0,154
+FG-KNEE-0043,Femoral component - variant 1,KNEE,3,2.094,1368960.0,68
+FG-KNEE-0058,Femoral component - variant 4,KNEE,4,1.336,1337280.0,166
+FG-HIP-0027,Acetabular cup - variant 5,HIP,4,4.851,1326450.0,109
+FG-HIP-0042,Bipolar head - variant 7,HIP,2,10.327,1297240.0,112
+FG-KNEE-0074,Tibial baseplate - variant 7,KNEE,4,4.513,1273600.0,160
+FG-VALVE-0207,Annuloplasty ring - variant 5,VALVE,2,0.196,1236500.0,50
+FG-KNEE-0055,Tibial insert - variant 3,KNEE,4,1.027,1217040.0,131
+FG-KNEE-0056,Patellar component - variant 3,KNEE,4,1.141,1198080.0,64
+FG-KNEE-0044,Tibial baseplate - variant 1,KNEE,4,1.448,1124550.0,63
+FG-KNEE-0064,Tibial baseplate - variant 5,KNEE,3,2.504,1092200.0,126
+FG-HIP-0031,Cementless femoral stem - variant 6,HIP,4,1.994,1089050.0,115
+FG-KNEE-0050,Tibial insert - variant 2,KNEE,4,5.869,1086060.0,69
+FG-SPINE-0100,Polyaxial pedicle screw - variant 5,SPINE,4,2.151,1061910.0,203
+FG-HIP-0032,Cemented femoral stem - variant 6,HIP,2,3.679,1036200.0,163
+FG-HIP-0019,Cementless femoral stem - variant 4,HIP,3,6.51,996170.0,133
+FG-HIP-0008,Cemented femoral stem - variant 2,HIP,2,9.145,976800.0,59
+FG-VALVE-0203,Annuloplasty ring - variant 4,VALVE,2,0.306,938490.0,21
+FG-KNEE-0067,Revision stem extension - variant 5,KNEE,4,2.452,932160.0,48
+FG-KNEE-0053,Femoral component - variant 3,KNEE,3,1.969,834840.0,108
+FG-HIP-0018,Bipolar head - variant 3,HIP,4,3.228,831600.0,83
+FG-HIP-0024,Bipolar head - variant 4,HIP,4,1.875,828600.0,60
+FG-KNEE-0062,Revision stem extension - variant 4,KNEE,3,2.248,827190.0,63
+FG-HIP-0025,Cementless femoral stem - variant 5,HIP,4,4.142,807030.0,61
+FG-HIP-0040,CoCr femoral head - variant 7,HIP,2,1.494,795200.0,69
+FG-TRAUMA-0156,Locking compression plate - variant 2,TRAUMA,3,2.029,790480.0,205
+FG-HIP-0034,CoCr femoral head - variant 6,HIP,3,8.766,775800.0,90
+FG-HIP-0020,Cemented femoral stem - variant 4,HIP,4,1.568,772800.0,91
+FG-SPINE-0082,Anterior cervical plate - variant 1,SPINE,3,4.162,764640.0,108
+FG-HIP-0002,Cemented femoral stem - variant 1,HIP,4,7.757,752400.0,90
+FG-SPINE-0088,Set screw - variant 2,SPINE,4,2.86,749700.0,89
+FG-KNEE-0065,Tibial insert - variant 5,KNEE,2,0.731,746900.0,76
+FG-SPINE-0093,Set screw - variant 3,SPINE,4,9.68,734410.0,255
+FG-HIP-0012,Bipolar head - variant 2,HIP,2,3.548,734240.0,52
+FG-HIP-0022,CoCr femoral head - variant 4,HIP,3,10.285,729000.0,100
+FG-SPINE-0091,Spinal rod - variant 3,SPINE,4,7.438,692240.0,67
+FG-VALVE-0206,Bovine pericardial valve - variant 5,VALVE,2,1.363,678870.0,19
+FG-HIP-0023,UHMWPE acetabular liner - variant 4,HIP,3,4.636,676720.0,44
+FG-HIP-0041,UHMWPE acetabular liner - variant 7,HIP,4,3.629,676060.0,76
+FG-VALVE-0192,Transcatheter valve system - variant 1,VALVE,4,0.602,675120.0,29
+FG-HIP-0026,Cemented femoral stem - variant 5,HIP,2,1.079,636900.0,66
+FG-TRAUMA-0169,Cannulated screw - variant 4,TRAUMA,3,0.442,626110.0,121
+FG-TRAUMA-0171,Locking compression plate - variant 5,TRAUMA,4,1.03,614800.0,201
+FG-KNEE-0071,Patellar component - variant 6,KNEE,3,0.547,596970.0,67
+FG-TRAUMA-0152,Cortical screw - variant 1,TRAUMA,2,1.57,585660.0,121
+FG-KNEE-0046,Patellar component - variant 1,KNEE,2,3.095,570560.0,32
+FG-HIP-0021,Acetabular cup - variant 4,HIP,2,5.975,567000.0,50
+FG-VALVE-0213,Mechanical heart valve - variant 7,VALVE,4,0.602,555480.0,18
+FG-HIP-0013,Cementless femoral stem - variant 3,HIP,2,3.12,553980.0,42
+FG-KNEE-0061,Patellar component - variant 4,KNEE,2,2.226,549250.0,65
+FG-HIP-0036,Bipolar head - variant 6,HIP,4,1.382,504000.0,75
+FG-HIP-0029,UHMWPE acetabular liner - variant 5,HIP,2,2.911,502250.0,41
+FG-SPINE-0086,Spinal rod - variant 2,SPINE,2,0.851,500520.0,97
+FG-SPINE-0087,Anterior cervical plate - variant 2,SPINE,2,3.029,491260.0,231
+FG-SPINE-0105,Polyaxial pedicle screw - variant 6,SPINE,4,9.075,490250.0,53
+FG-HIP-0006,Bipolar head - variant 1,HIP,4,9.07,484930.0,70
+FG-TRAUMA-0185,External fixator pin - variant 7,TRAUMA,4,4.121,472270.0,82
+FG-TRAUMA-0164,Cannulated screw - variant 3,TRAUMA,3,2.634,465500.0,127
+FG-TRAUMA-0172,Cortical screw - variant 5,TRAUMA,3,1.797,464400.0,120
+FG-HIP-0005,UHMWPE acetabular liner - variant 1,HIP,4,4.649,462700.0,70
+FG-VALVE-0193,Mechanical heart valve - variant 2,VALVE,2,0.196,457330.0,29
+FG-TRAUMA-0168,Intramedullary nail - variant 4,TRAUMA,3,1.707,434000.0,117
+FG-SPINE-0104,PEEK interbody cage - variant 6,SPINE,4,4.229,423720.0,99
+FG-HIP-0038,Cemented femoral stem - variant 7,HIP,4,3.033,419920.0,58
+FG-SPINE-0080,Polyaxial pedicle screw - variant 1,SPINE,4,8.843,406620.0,159
+FG-TRAUMA-0154,Cannulated screw - variant 1,TRAUMA,4,1.577,405790.0,360
+FG-TRAUMA-0184,Cannulated screw - variant 7,TRAUMA,4,0.805,386340.0,128
+FG-TRAUMA-0159,Cannulated screw - variant 2,TRAUMA,2,2.703,386310.0,155
+FG-KNEE-0063,Femoral component - variant 5,KNEE,4,0.409,385660.0,22
+FG-SPINE-0101,Spinal rod - variant 5,SPINE,4,11.841,376980.0,61
+FG-KNEE-0070,Tibial insert - variant 6,KNEE,3,1.396,376300.0,53
+FG-SPINE-0085,Polyaxial pedicle screw - variant 2,SPINE,4,4.855,350880.0,197
+FG-TRAUMA-0170,External fixator pin - variant 4,TRAUMA,2,2.487,317520.0,97
+FG-KNEE-0066,Patellar component - variant 5,KNEE,4,2.294,316600.0,20
+FG-SPINE-0098,Set screw - variant 4,SPINE,4,7.206,308880.0,141
+FG-TRAUMA-0179,Cannulated screw - variant 6,TRAUMA,3,1.724,304760.0,75
+FG-HIP-0035,UHMWPE acetabular liner - variant 6,HIP,3,5.399,295260.0,42
+FG-TRAUMA-0167,Cortical screw - variant 4,TRAUMA,3,4.292,289990.0,409
+FG-KNEE-0073,Femoral component - variant 7,KNEE,2,2.323,285200.0,20
+FG-SPINE-0079,PEEK interbody cage - variant 1,SPINE,4,2.212,284900.0,74
+FG-TRAUMA-0177,Cortical screw - variant 6,TRAUMA,4,1.574,276920.0,91
+FG-SPINE-0099,PEEK interbody cage - variant 5,SPINE,4,0.757,268800.0,152
+FG-KNEE-0075,Tibial insert - variant 7,KNEE,3,6.765,250110.0,21
+FG-HIP-0009,Acetabular cup - variant 2,HIP,4,4.951,245860.0,19
+FG-KNEE-0078,Femoral component - variant 8,KNEE,3,0.341,233010.0,27
+FG-SPINE-0103,Set screw - variant 5,SPINE,4,2.974,218250.0,75
+FG-TRAUMA-0163,Intramedullary nail - variant 3,TRAUMA,4,3.438,212180.0,100
+FG-TRAUMA-0175,External fixator pin - variant 5,TRAUMA,2,1.67,210560.0,316
+FG-TRAUMA-0176,Locking compression plate - variant 6,TRAUMA,3,2.692,202530.0,122
+FG-SPINE-0108,Set screw - variant 6,SPINE,4,4.073,190530.0,87
+FG-SPINE-0094,PEEK interbody cage - variant 4,SPINE,2,9.171,189520.0,87
+FG-TRAUMA-0180,External fixator pin - variant 6,TRAUMA,4,1.69,186050.0,260
+FG-VALVE-0196,Transcatheter valve system - variant 2,VALVE,2,0.159,184590.0,9
+FG-HIP-0028,CoCr femoral head - variant 5,HIP,3,6.141,182400.0,16
+FG-KNEE-0060,Tibial insert - variant 4,KNEE,3,2.907,164400.0,20
+FG-TRAUMA-0183,Intramedullary nail - variant 7,TRAUMA,2,1.753,157700.0,165
+FG-SPINE-0092,Anterior cervical plate - variant 3,SPINE,4,8.404,156880.0,74
+FG-SPINE-0110,Polyaxial pedicle screw - variant 7,SPINE,4,5.13,156240.0,62
+FG-SPINE-0111,Spinal rod - variant 7,SPINE,3,6.859,152520.0,31
+FG-TRAUMA-0178,Intramedullary nail - variant 6,TRAUMA,2,0.998,143000.0,65
+FG-TRAUMA-0182,Cortical screw - variant 7,TRAUMA,2,2.864,140030.0,184
+FG-SPINE-0102,Anterior cervical plate - variant 5,SPINE,4,2.828,136000.0,40
+FG-TRAUMA-0181,Locking compression plate - variant 7,TRAUMA,3,4.015,134320.0,46
+FG-SPINE-0112,Anterior cervical plate - variant 7,SPINE,4,1.134,124600.0,35
+FG-SPINE-0109,PEEK interbody cage - variant 7,SPINE,4,7.628,122500.0,50
+FG-SPINE-0096,Spinal rod - variant 4,SPINE,4,3.943,120890.0,77
+FG-SPINE-0089,PEEK interbody cage - variant 3,SPINE,4,5.29,117260.0,41
+FG-SPINE-0107,Anterior cervical plate - variant 6,SPINE,4,1.606,108240.0,66
+FG-TRAUMA-0166,Locking compression plate - variant 4,TRAUMA,2,1.148,107730.0,27
+FG-TRAUMA-0151,Locking compression plate - variant 1,TRAUMA,2,1.404,105060.0,183
+FG-TRAUMA-0187,Cortical screw - variant 8,TRAUMA,3,0.402,97060.0,186
+FG-SPINE-0090,Polyaxial pedicle screw - variant 3,SPINE,3,5.555,84840.0,42
+FG-TRAUMA-0153,Intramedullary nail - variant 1,TRAUMA,2,5.019,64500.0,143
+FG-TRAUMA-0165,External fixator pin - variant 3,TRAUMA,2,3.446,62320.0,81
+FG-TRAUMA-0155,External fixator pin - variant 1,TRAUMA,3,1.627,61950.0,97
+FG-TRAUMA-0174,Cannulated screw - variant 5,TRAUMA,3,1.215,53820.0,74
+FG-SPINE-0095,Polyaxial pedicle screw - variant 4,SPINE,2,2.272,51570.0,27
+FG-TRAUMA-0186,Locking compression plate - variant 8,TRAUMA,4,4.218,50400.0,24
+FG-SPINE-0097,Anterior cervical plate - variant 4,SPINE,4,1.675,50400.0,30
+FG-TRAUMA-0161,Locking compression plate - variant 3,TRAUMA,3,3.915,41000.0,99
+FG-TRAUMA-0173,Intramedullary nail - variant 5,TRAUMA,3,1.495,40950.0,87
+FG-SPINE-0081,Spinal rod - variant 1,SPINE,2,6.935,36750.0,15
+FG-TRAUMA-0188,Intramedullary nail - variant 8,TRAUMA,3,2.781,36040.0,17
+FG-TRAUMA-0157,Cortical screw - variant 2,TRAUMA,4,1.722,35360.0,51
+FG-SPINE-0084,PEEK interbody cage - variant 2,SPINE,4,5.256,28050.0,15
+FG-TRAUMA-0160,External fixator pin - variant 2,TRAUMA,3,0.621,27280.0,62

@@ -1,0 +1,11 @@
+route,modes,lead_time_days,cost_per_unit
+P-01 > SJO > VCP > DC-SP2 > DC-BA1 > H-0176,"road,air,road,road,last-mile",14.9,49.83
+P-01 > SJO > GRU > DC-SP2 > DC-BA1 > H-0176,"road,air,road,road,last-mile",15.5,50.59
+P-01 > SJO > VCP > DC-SP2 > DC-SP1 > DC-BA1 > H-0176,"road,air,road,road,road,last-mile",16.0,52.03
+P-01 > SJO > GRU > DC-SP1 > DC-BA1 > H-0176,"road,air,road,road,last-mile",16.6,51.06
+P-01 > SJO > GRU > DC-SP2 > DC-SP1 > DC-BA1 > H-0176,"road,air,road,road,road,last-mile",16.6,52.79
+P-01 > SJO > VCP > DC-SP1 > DC-BA1 > H-0176,"road,air,road,road,last-mile",17.0,50.08
+P-01 > SJO > VCP > DC-SP2 > DC-SP1 > DC-PE1 > DC-BA1 > H-0176,"road,air,road,road,air,road,last-mile",17.1,82.01
+P-01 > SJO > GRU > DC-SP1 > DC-SP2 > DC-BA1 > H-0176,"road,air,road,road,road,last-mile",17.5,52.86
+P-01 > SJO > GRU > DC-SP1 > DC-PE1 > DC-BA1 > H-0176,"road,air,road,air,road,last-mile",17.7,81.04
+P-01 > SJO > GRU > DC-SP2 > DC-SP1 > DC-PE1 > DC-BA1 > H-0176,"road,air,road,road,air,road,last-mile",17.7,82.77

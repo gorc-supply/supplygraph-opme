@@ -1,0 +1,861 @@
+{
+  "total_revenue_month": 287786870.0,
+  "A": {
+    "showcase_sku": "FG-VALVE-0211",
+    "showcase_name": "Annuloplasty ring - variant 6",
+    "bom_lines": 16,
+    "bom_levels": 4,
+    "raw_materials": 3,
+    "ti64_finished_skus": 167,
+    "ti64_revenue_month": 194254410.0,
+    "ti64_revenue_pct": 67.5
+  },
+  "B": {
+    "multi_sourced_l1_items": 224,
+    "false_dual_items": 66,
+    "false_dual_pct": 29.5,
+    "revenue_exposed": 153252890.0,
+    "revenue_exposed_pct": 53.3,
+    "relaxed_items": 224,
+    "single_source_items": 81,
+    "top_hidden_supplier": {
+      "hidden_supplier": "S-T2-049",
+      "hidden_tier": 2,
+      "hidden_country": "CN",
+      "items": 15,
+      "revenue_exposed": 22959330.0
+    },
+    "top_hidden_supplier_revenue_pct": 8.0
+  },
+  "C": {
+    "largest_hidden_country": {
+      "iso2": "CN",
+      "country": "China",
+      "erp_pct": 0.4,
+      "graph_pct": 43.6
+    },
+    "hard_dependency": [
+      {
+        "iso2": "US",
+        "country": "United States",
+        "erp_pct": 37.1,
+        "graph_pct": 79.8
+      },
+      {
+        "iso2": "BR",
+        "country": "Brazil",
+        "erp_pct": 60.9,
+        "graph_pct": 68.8
+      },
+      {
+        "iso2": "CN",
+        "country": "China",
+        "erp_pct": 0.4,
+        "graph_pct": 43.6
+      },
+      {
+        "iso2": "FR",
+        "country": "France",
+        "erp_pct": 0.8,
+        "graph_pct": 41.0
+      },
+      {
+        "iso2": "DE",
+        "country": "Germany",
+        "erp_pct": 9.0,
+        "graph_pct": 32.4
+      },
+      {
+        "iso2": "SG",
+        "country": "Singapore",
+        "erp_pct": 22.9,
+        "graph_pct": 22.9
+      },
+      {
+        "iso2": "IE",
+        "country": "Ireland",
+        "erp_pct": 15.2,
+        "graph_pct": 15.2
+      },
+      {
+        "iso2": "MX",
+        "country": "Mexico",
+        "erp_pct": 0.1,
+        "graph_pct": 13.7
+      }
+    ],
+    "weighted_exposure": [
+      {
+        "iso2": "US",
+        "country": "United States",
+        "erp_pct": 58.7,
+        "graph_pct": 96.0,
+        "hidden_pp": 37.3
+      },
+      {
+        "iso2": "CH",
+        "country": "Switzerland",
+        "erp_pct": 9.7,
+        "graph_pct": 94.8,
+        "hidden_pp": 85.1
+      },
+      {
+        "iso2": "BR",
+        "country": "Brazil",
+        "erp_pct": 80.6,
+        "graph_pct": 89.8,
+        "hidden_pp": 9.2
+      },
+      {
+        "iso2": "DE",
+        "country": "Germany",
+        "erp_pct": 29.2,
+        "graph_pct": 79.0,
+        "hidden_pp": 49.8
+      },
+      {
+        "iso2": "CN",
+        "country": "China",
+        "erp_pct": 4.0,
+        "graph_pct": 76.4,
+        "hidden_pp": 72.4
+      },
+      {
+        "iso2": "FR",
+        "country": "France",
+        "erp_pct": 9.7,
+        "graph_pct": 57.1,
+        "hidden_pp": 47.4
+      },
+      {
+        "iso2": "MX",
+        "country": "Mexico",
+        "erp_pct": 7.1,
+        "graph_pct": 46.9,
+        "hidden_pp": 39.8
+      },
+      {
+        "iso2": "IE",
+        "country": "Ireland",
+        "erp_pct": 31.2,
+        "graph_pct": 37.9,
+        "hidden_pp": 6.7
+      }
+    ]
+  },
+  "D": {
+    "ttr_days": 60,
+    "ttr_days_by_tier": {
+      "1": 60,
+      "2": 120,
+      "3": 180
+    },
+    "runtime_s": 34.7,
+    "worst_supplier": {
+      "ttr_days": 180,
+      "supplier_id": "S-T3-003",
+      "name": "Synth Specialty Alloys 003 (US)",
+      "tier": 3,
+      "country": "US",
+      "finished_skus_exposed": 167,
+      "finished_skus_stockout": 164,
+      "revenue_at_risk": 242152234.24,
+      "hospitals_affected": 1400,
+      "first_stockout_day": 34.8
+    },
+    "worst_supplier_summary": {
+      "kind": "supplier",
+      "key": "S-T3-003",
+      "ttr_days": 180,
+      "items_hit": 304,
+      "finished_skus_exposed": 167,
+      "sku_dc_stockouts": 1909,
+      "finished_skus_stockout": 164,
+      "units_short": 26427.63,
+      "revenue_at_risk": 242152234.24,
+      "hospitals_affected": 1400,
+      "first_stockout_day": 34.8
+    },
+    "suppliers_with_stockout": 243,
+    "top10": [
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-003",
+        "name": "Synth Specialty Alloys 003 (US)",
+        "tier": 3,
+        "country": "US",
+        "finished_skus_exposed": 167,
+        "finished_skus_stockout": 164,
+        "revenue_at_risk": 242152234.24,
+        "hospitals_affected": 1400,
+        "first_stockout_day": 34.8
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-007",
+        "name": "Synth Medical Polymers 007 (US)",
+        "tier": 3,
+        "country": "US",
+        "finished_skus_exposed": 167,
+        "finished_skus_stockout": 164,
+        "revenue_at_risk": 203175039.03000003,
+        "hospitals_affected": 1400,
+        "first_stockout_day": 34.8
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-020",
+        "name": "Synth Medical Polymers 020 (CH)",
+        "tier": 3,
+        "country": "CH",
+        "finished_skus_exposed": 169,
+        "finished_skus_stockout": 124,
+        "revenue_at_risk": 203149494.01,
+        "hospitals_affected": 1394,
+        "first_stockout_day": 39.9
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-021",
+        "name": "Synth Biomaterials 021 (FR)",
+        "tier": 3,
+        "country": "FR",
+        "finished_skus_exposed": 167,
+        "finished_skus_stockout": 164,
+        "revenue_at_risk": 159730006.85999998,
+        "hospitals_affected": 1400,
+        "first_stockout_day": 34.8
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-015",
+        "name": "Synth Specialty Alloys 015 (CN)",
+        "tier": 3,
+        "country": "CN",
+        "finished_skus_exposed": 169,
+        "finished_skus_stockout": 124,
+        "revenue_at_risk": 143839466.26,
+        "hospitals_affected": 1394,
+        "first_stockout_day": 39.9
+      },
+      {
+        "ttr_days": 120,
+        "supplier_id": "S-T2-007",
+        "name": "Synth Forge Works 007 (DE)",
+        "tier": 2,
+        "country": "DE",
+        "finished_skus_exposed": 147,
+        "finished_skus_stockout": 140,
+        "revenue_at_risk": 100804250.92,
+        "hospitals_affected": 1399,
+        "first_stockout_day": 44.5
+      },
+      {
+        "ttr_days": 120,
+        "supplier_id": "S-T2-036",
+        "name": "Synth Forge Works 036 (CH)",
+        "tier": 2,
+        "country": "CH",
+        "finished_skus_exposed": 148,
+        "finished_skus_stockout": 143,
+        "revenue_at_risk": 100565641.56000002,
+        "hospitals_affected": 1400,
+        "first_stockout_day": 39.9
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-022",
+        "name": "Synth Tissue Processing 022 (FR)",
+        "tier": 3,
+        "country": "FR",
+        "finished_skus_exposed": 76,
+        "finished_skus_stockout": 64,
+        "revenue_at_risk": 96592622.53999999,
+        "hospitals_affected": 1078,
+        "first_stockout_day": 54.5
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-019",
+        "name": "Synth Titanium Mill 019 (JP)",
+        "tier": 3,
+        "country": "JP",
+        "finished_skus_exposed": 76,
+        "finished_skus_stockout": 68,
+        "revenue_at_risk": 90798873.68,
+        "hospitals_affected": 1368,
+        "first_stockout_day": 46.4
+      },
+      {
+        "ttr_days": 180,
+        "supplier_id": "S-T3-017",
+        "name": "Synth Specialty Alloys 017 (CH)",
+        "tier": 3,
+        "country": "CH",
+        "finished_skus_exposed": 88,
+        "finished_skus_stockout": 80,
+        "revenue_at_risk": 89999642.60999998,
+        "hospitals_affected": 1142,
+        "first_stockout_day": 54.5
+      }
+    ],
+    "revenue_at_risk_by_tier": {
+      "1": 189823705.56,
+      "2": 2013525011.36,
+      "3": 1891401937.53
+    },
+    "tier23_in_top10": 10,
+    "scenarios": {
+      "country:CN": {
+        "kind": "country",
+        "key": "CN",
+        "ttr_days": 60,
+        "items_hit": 477,
+        "finished_skus_exposed": 238,
+        "sku_dc_stockouts": 287,
+        "finished_skus_stockout": 71,
+        "units_short": 819.27,
+        "revenue_at_risk": 10031452.17,
+        "hospitals_affected": 1062,
+        "first_stockout_day": 24.8
+      },
+      "country:DE": {
+        "kind": "country",
+        "key": "DE",
+        "ttr_days": 60,
+        "items_hit": 446,
+        "finished_skus_exposed": 239,
+        "sku_dc_stockouts": 800,
+        "finished_skus_stockout": 148,
+        "units_short": 3333.4,
+        "revenue_at_risk": 34615586.25000001,
+        "hospitals_affected": 1373,
+        "first_stockout_day": 12.7
+      },
+      "country:US": {
+        "kind": "country",
+        "key": "US",
+        "ttr_days": 60,
+        "items_hit": 644,
+        "finished_skus_exposed": 240,
+        "sku_dc_stockouts": 1306,
+        "finished_skus_stockout": 212,
+        "units_short": 6631.92,
+        "revenue_at_risk": 72013272.11999999,
+        "hospitals_affected": 1397,
+        "first_stockout_day": 16.6
+      },
+      "port:GRU": {
+        "kind": "port",
+        "key": "GRU",
+        "ttr_days": 60,
+        "items_hit": 1168,
+        "finished_skus_exposed": 109,
+        "sku_dc_stockouts": 692,
+        "finished_skus_stockout": 107,
+        "units_short": 3826.5499999999997,
+        "revenue_at_risk": 29793862.7,
+        "hospitals_affected": 1356,
+        "first_stockout_day": 12.7
+      },
+      "port:VCP": {
+        "kind": "port",
+        "key": "VCP",
+        "ttr_days": 60,
+        "items_hit": 0,
+        "finished_skus_exposed": 0,
+        "sku_dc_stockouts": 0,
+        "finished_skus_stockout": 0,
+        "units_short": 0.0,
+        "revenue_at_risk": 0.0,
+        "hospitals_affected": 0,
+        "first_stockout_day": null
+      }
+    },
+    "hospitals_total": 1400
+  },
+  "E": {
+    "lot_id": "RM-TI64-L0043",
+    "derived_lots": 157,
+    "finished_lots": 105,
+    "units_implanted_or_delivered": 5881,
+    "units_in_stock_to_quarantine": 684,
+    "hospitals": 180,
+    "ufs": 26,
+    "forward_ms": 19.43334995303303,
+    "backward_ms": 3.0824500136077404,
+    "backward_example_lot": "FG-SPINE-0083-L0021"
+  },
+  "F": {
+    "plant": "P-01",
+    "hospital": "H-0176",
+    "best_lead": 14.9,
+    "best_cost": 49.83,
+    "best_lead_without_GRU": 14.9,
+    "pareto_routes": 1
+  },
+  "G": {
+    "worst_supplier": {
+      "rows": 1909,
+      "by_mitigation": {
+        "no substitute": 1898,
+        "fully mitigable": 11
+      },
+      "revenue_at_risk": 242152234.24,
+      "revenue_mitigated": 2340976.6599999997,
+      "mitigated_pct": 1.0
+    },
+    "country_DE": {
+      "rows": 800,
+      "by_mitigation": {
+        "no substitute": 800
+      },
+      "revenue_at_risk": 34615586.25000001,
+      "revenue_mitigated": 0.0,
+      "mitigated_pct": 0.0
+    }
+  },
+  "GDS": {
+    "gds_version": "2026.10.2",
+    "projections": {
+      "flow": {
+        "nodes": 2562,
+        "relationships": 26560
+      },
+      "dep": {
+        "nodes": 2529,
+        "relationships": 34931
+      },
+      "sourcing": {
+        "nodes": 1113,
+        "relationships": 15900
+      },
+      "portfolio": {
+        "nodes": 1113,
+        "relationships": 1427
+      },
+      "logistics": {
+        "nodes": 1449,
+        "relationships": 1931
+      },
+      "logistics_u": {
+        "nodes": 1449,
+        "relationships": 3862
+      }
+    },
+    "betweenness": {
+      "compute_ms": 629,
+      "nodes": 2562
+    },
+    "pagerank": {
+      "iterations": 28,
+      "converged": true
+    },
+    "wcc_flow_components": 1,
+    "wcc_logistics_components": 1,
+    "leiden": {
+      "communities": 4,
+      "modularity": 0.5324251334994661
+    },
+    "node_similarity": {
+      "relationships": 406,
+      "nodes_compared": 244
+    },
+    "logistics_single_points": {
+      "bridges_excluding_last_mile": [
+        {
+          "from": "SJO",
+          "to": "P-01"
+        },
+        {
+          "from": "MEM",
+          "to": "P-13"
+        },
+        {
+          "from": "MIA",
+          "to": "P-09"
+        },
+        {
+          "from": "SIN",
+          "to": "P-16"
+        },
+        {
+          "from": "SIN",
+          "to": "P-14"
+        },
+        {
+          "from": "BOM",
+          "to": "P-15"
+        },
+        {
+          "from": "GRU",
+          "to": "BOM"
+        },
+        {
+          "from": "DUB",
+          "to": "P-02"
+        },
+        {
+          "from": "GRU",
+          "to": "DUB"
+        },
+        {
+          "from": "CPH",
+          "to": "P-07"
+        },
+        {
+          "from": "FRA",
+          "to": "P-03"
+        },
+        {
+          "from": "GRU",
+          "to": "FRA"
+        },
+        {
+          "from": "BRSSZ",
+          "to": "INNSA"
+        },
+        {
+          "from": "DC-SP1",
+          "to": "DC-AM1"
+        }
+      ],
+      "articulation_points": [
+        "BOM",
+        "BRSSZ",
+        "CPH",
+        "DC-AM1",
+        "DC-BA1",
+        "DC-CE1",
+        "DC-DF1",
+        "DC-GO1",
+        "DC-MG1",
+        "DC-PA1",
+        "DC-PE1",
+        "DC-PR1",
+        "DC-RJ1",
+        "DC-RS1",
+        "DC-SC1",
+        "DC-SP1",
+        "DC-SP2",
+        "DUB",
+        "FRA",
+        "GRU",
+        "MEM",
+        "MIA",
+        "SIN",
+        "SJO"
+      ]
+    },
+    "routes_gds": {
+      "pair": {
+        "plant": "P-01",
+        "hospital": "H-0176"
+      },
+      "lead_time_days": {
+        "dijkstra_total": 14.9,
+        "yen_top5": [
+          {
+            "rank": 1,
+            "total": 14.9,
+            "route": "P-01 > SJO > VCP > DC-SP2 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 2,
+            "total": 15.5,
+            "route": "P-01 > SJO > GRU > DC-SP2 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 3,
+            "total": 16.0,
+            "route": "P-01 > SJO > VCP > DC-SP2 > DC-SP1 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 4,
+            "total": 16.6,
+            "route": "P-01 > SJO > GRU > DC-SP1 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 5,
+            "total": 16.6,
+            "route": "P-01 > SJO > GRU > DC-SP2 > DC-SP1 > DC-BA1 > H-0176"
+          }
+        ]
+      },
+      "cost_per_unit": {
+        "dijkstra_total": 49.83,
+        "yen_top5": [
+          {
+            "rank": 1,
+            "total": 49.83,
+            "route": "P-01 > SJO > VCP > DC-SP2 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 2,
+            "total": 50.08,
+            "route": "P-01 > SJO > VCP > DC-SP1 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 3,
+            "total": 50.59,
+            "route": "P-01 > SJO > GRU > DC-SP2 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 4,
+            "total": 51.06,
+            "route": "P-01 > SJO > GRU > DC-SP1 > DC-BA1 > H-0176"
+          },
+          {
+            "rank": 5,
+            "total": 51.88,
+            "route": "P-01 > SJO > VCP > DC-SP1 > DC-SP2 > DC-BA1 > H-0176"
+          }
+        ]
+      }
+    },
+    "runtime_s": 11.1,
+    "communities_vs_categories": {
+      "items": 851,
+      "communities": 4,
+      "purity_vs_category": 0.443,
+      "purity_vs_family": 1.0,
+      "nmi_vs_category": 0.609
+    },
+    "top_betweenness": [
+      {
+        "id": "DC-SP1",
+        "label": "DC",
+        "name": "DC São Paulo/SP",
+        "betweenness": 535886.0
+      },
+      {
+        "id": "DC-SP2",
+        "label": "DC",
+        "name": "DC Guarulhos/SP",
+        "betweenness": 503133.0
+      },
+      {
+        "id": "DC-RJ1",
+        "label": "DC",
+        "name": "DC Rio de Janeiro/RJ",
+        "betweenness": 398086.0
+      },
+      {
+        "id": "DC-MG1",
+        "label": "DC",
+        "name": "DC Belo Horizonte/MG",
+        "betweenness": 323262.0
+      },
+      {
+        "id": "DC-PE1",
+        "label": "DC",
+        "name": "DC Recife/PE",
+        "betweenness": 300616.0
+      },
+      {
+        "id": "DC-BA1",
+        "label": "DC",
+        "name": "DC Salvador/BA",
+        "betweenness": 235345.0
+      },
+      {
+        "id": "DC-GO1",
+        "label": "DC",
+        "name": "DC Goiânia/GO",
+        "betweenness": 221261.0
+      },
+      {
+        "id": "DC-PA1",
+        "label": "DC",
+        "name": "DC Belém/PA",
+        "betweenness": 220338.0
+      },
+      {
+        "id": "DC-PR1",
+        "label": "DC",
+        "name": "DC Curitiba/PR",
+        "betweenness": 220282.0
+      },
+      {
+        "id": "DC-CE1",
+        "label": "DC",
+        "name": "DC Fortaleza/CE",
+        "betweenness": 194798.0
+      }
+    ],
+    "top_pagerank_suppliers": [
+      {
+        "id": "S-T2-036",
+        "tier": 2,
+        "country": "CH",
+        "pagerank": 13.8235
+      },
+      {
+        "id": "S-T2-054",
+        "tier": 2,
+        "country": "US",
+        "pagerank": 13.4115
+      },
+      {
+        "id": "S-T2-007",
+        "tier": 2,
+        "country": "DE",
+        "pagerank": 11.3122
+      },
+      {
+        "id": "S-T2-040",
+        "tier": 2,
+        "country": "BR",
+        "pagerank": 10.5543
+      },
+      {
+        "id": "S-T3-003",
+        "tier": 3,
+        "country": "US",
+        "pagerank": 7.9027
+      },
+      {
+        "id": "S-T2-053",
+        "tier": 2,
+        "country": "US",
+        "pagerank": 7.8925
+      },
+      {
+        "id": "S-T3-007",
+        "tier": 3,
+        "country": "US",
+        "pagerank": 7.7166
+      },
+      {
+        "id": "S-T2-042",
+        "tier": 2,
+        "country": "CN",
+        "pagerank": 6.7476
+      },
+      {
+        "id": "S-T2-008",
+        "tier": 2,
+        "country": "BR",
+        "pagerank": 6.4204
+      },
+      {
+        "id": "S-T3-020",
+        "tier": 3,
+        "country": "CH",
+        "pagerank": 6.317
+      }
+    ],
+    "single_corridor_dcs": [
+      {
+        "dc": "DC-PA1",
+        "hospitals": 79
+      },
+      {
+        "dc": "DC-AM1",
+        "hospitals": 46
+      }
+    ]
+  },
+  "criticality": {
+    "weights": {
+      "revenue_at_risk": 0.35,
+      "betweenness": 0.15,
+      "pagerank": 0.15,
+      "geo_risk": 0.1,
+      "financial_risk": 0.1,
+      "single_source": 0.15
+    },
+    "top10": [
+      {
+        "supplier_id": "S-T3-003",
+        "tier": 3,
+        "country": "US",
+        "criticality_index": 65.9
+      },
+      {
+        "supplier_id": "S-T2-007",
+        "tier": 2,
+        "country": "DE",
+        "criticality_index": 64.7
+      },
+      {
+        "supplier_id": "S-T2-054",
+        "tier": 2,
+        "country": "US",
+        "criticality_index": 64.4
+      },
+      {
+        "supplier_id": "S-T2-036",
+        "tier": 2,
+        "country": "CH",
+        "criticality_index": 63.2
+      },
+      {
+        "supplier_id": "S-T3-020",
+        "tier": 3,
+        "country": "CH",
+        "criticality_index": 53.7
+      },
+      {
+        "supplier_id": "S-T3-007",
+        "tier": 3,
+        "country": "US",
+        "criticality_index": 53.5
+      },
+      {
+        "supplier_id": "S-T2-022",
+        "tier": 2,
+        "country": "CN",
+        "criticality_index": 51.0
+      },
+      {
+        "supplier_id": "S-T3-022",
+        "tier": 3,
+        "country": "FR",
+        "criticality_index": 46.1
+      },
+      {
+        "supplier_id": "S-T2-042",
+        "tier": 2,
+        "country": "CN",
+        "criticality_index": 45.9
+      },
+      {
+        "supplier_id": "S-T2-033",
+        "tier": 2,
+        "country": "DE",
+        "criticality_index": 42.4
+      }
+    ],
+    "top10_by_tier": {
+      "2": 6,
+      "3": 4
+    },
+    "sensitivity": [
+      {
+        "scenario": "revenue_heavy",
+        "spearman_vs_base": 0.98,
+        "top10_overlap": 8,
+        "top1": "S-T3-003"
+      },
+      {
+        "scenario": "structure_heavy",
+        "spearman_vs_base": 0.969,
+        "top10_overlap": 8,
+        "top1": "S-T2-054"
+      },
+      {
+        "scenario": "risk_heavy",
+        "spearman_vs_base": 0.9,
+        "top10_overlap": 8,
+        "top1": "S-T2-007"
+      },
+      {
+        "scenario": "equal",
+        "spearman_vs_base": 0.986,
+        "top10_overlap": 9,
+        "top1": "S-T2-007"
+      }
+    ]
+  }
+}
