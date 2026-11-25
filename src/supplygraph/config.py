@@ -109,6 +109,7 @@ def load_network_config(
 class ScoringConfig(BaseModel):
     weights: dict[str, float]
     ttr_days: int
+    ttr_days_by_tier: dict[int, int] = {1: 60, 2: 120, 3: 180}
     sensitivity_scenarios: dict[str, dict[str, float]]
 
     @model_validator(mode="after")

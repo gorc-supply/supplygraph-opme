@@ -181,7 +181,7 @@ def disruption(d: Driver, kind: str, key: str, ttr: int) -> DisruptionResult:
 
 
 def supplier_risk_ranking(
-    d: Driver, ttr: int, keep_impact_rows: bool = True
+    d: Driver, ttr: int, keep_impact_rows: bool = True, ttr_by_tier: dict[int, int] | None = None
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Run the supplier scenario for every supplier. Returns (ranking, supplier x finished heatmap rows)."""
     sups = run_df(
@@ -191,9 +191,11 @@ def supplier_risk_ranking(
     )
     rows, heat = [], []
     for s in sups.itertuples():
-        res = disruption(d, "supplier", s.id, ttr)
+        s_ttr = int((ttr_by_tier or {}).get(int(s.tier), ttr))
+        res = disruption(d, "supplier", s.id, s_ttr)
         rows.append(
             {
+                "ttr_days": s_ttr,
                 "supplier_id": s.id,
                 "name": s.name,
                 "tier": s.tier,
@@ -225,15 +227,14 @@ def supplier_risk_ranking(
 
 
 def write_revenue_at_risk(d: Driver, ranking: pd.DataFrame, ttr: int) -> None:
-    rows = ranking[
-        ["supplier_id", "revenue_at_risk", "hospitals_affected", "finished_skus_stockout"]
-    ].to_dict("records")
+    cols = ["supplier_id", "revenue_at_risk", "hospitals_affected", "finished_skus_stockout", "ttr_days"]
+    rows = ranking[cols].to_dict("records")
     run(
         d,
         """UNWIND $rows AS r MATCH (s:Supplier {id: r.supplier_id})
-              SET s.revenue_at_risk = r.revenue_at_risk, s.hospitals_at_risk = r.hospitals_affected,
-                  s.skus_stockout = r.finished_skus_stockout, s.risk_ttr_days = $ttr""",
-        {"rows": rows, "ttr": ttr},
+           SET s.revenue_at_risk = r.revenue_at_risk, s.hospitals_at_risk = r.hospitals_affected,
+               s.skus_stockout = r.finished_skus_stockout, s.risk_ttr_days = r.ttr_days""",
+        {"rows": rows},
         write=True,
     )
 
@@ -278,7 +279,7 @@ def pick_recall_lot(d: Driver, material: str = "RM-TI64") -> str | None:
     """A raw-material lot of `material` with a large but not extreme forward footprint (demo default)."""
     q = """MATCH (src:Lot)-[:OF_ITEM]->(:Item {sku: $sku})
            WITH src, COUNT { (l:Lot)-[:DERIVED_FROM]->{1,12}(src) } AS n
-           WHERE n > 0 RETURN src.lot_id AS lot_id, n ORDER BY n DESC"""
+           WHERE n > 0 RETURN src.lot_id AS lot_id, n ORDER BY n DESC, lot_id"""
     rows = run(d, q, {"sku": material}, timeout=120)
     return rows[len(rows) // 4]["lot_id"] if rows else None
 

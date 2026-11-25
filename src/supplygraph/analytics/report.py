@@ -40,7 +40,9 @@ def save_metrics(update: dict) -> None:
 
 
 def run_cypher_analyses(ttr: int | None = None) -> dict:
-    ttr = ttr or load_scoring_config().ttr_days
+    scfg = load_scoring_config()
+    ttr = ttr or scfg.ttr_days
+    ttr_tier = scfg.ttr_days_by_tier
     IMG.mkdir(parents=True, exist_ok=True)
     m: dict = {}
     with driver_ctx() as d:
@@ -143,7 +145,7 @@ def run_cypher_analyses(ttr: int | None = None) -> dict:
 
         # --- D: supplier ranking (TTS x TTR) + scenarios
         t0 = time.perf_counter()
-        ranking, heat = A.supplier_risk_ranking(d, ttr)
+        ranking, heat = A.supplier_risk_ranking(d, ttr, ttr_by_tier=ttr_tier)
         A.write_revenue_at_risk(d, ranking, ttr)
         _save(ranking, "D_supplier_risk_ranking")
         _save(heat, "D_heatmap_supplier_x_sku")
@@ -162,22 +164,23 @@ def run_cypher_analyses(ttr: int | None = None) -> dict:
             pivot,
             IMG / "heatmap_supplier_x_sku.png",
             "Where each supplier's disruption hurts",
-            f"Revenue at risk if the supplier stops for {ttr} days (top 20 suppliers x top 25 implants)",
+            "Revenue at risk if the supplier stops for its tier TTR (60/120/180 d); top 20 suppliers x top 25 implants",
         )
         worst = ranking.iloc[0].to_dict()
-        res = A.disruption(d, "supplier", worst["supplier_id"], ttr)
+        wttr = int(worst["ttr_days"])
+        res = A.disruption(d, "supplier", worst["supplier_id"], wttr)
         _save(res.impact.drop(columns=["hospitals"]), "D_worst_supplier_impact")
         plots.tts_ttr(
             res.impact,
-            ttr,
+            wttr,
             IMG / "tts_vs_ttr_worst_supplier.png",
-            f"TTS x TTR - {worst['supplier_id']} stops for {ttr} days",
+            f"TTS x TTR - {worst['supplier_id']} (tier {worst['tier']}) stops for {wttr} days",
             "Each dot is one implant SKU at one DC. Left of the line = stock-out.",
         )
         plots.timeline(
             res.timeline,
             IMG / "timeline_worst_supplier.png",
-            f"Revenue lost over time - {worst['supplier_id']} out for {ttr} days",
+            f"Revenue lost over time - {worst['supplier_id']} out for {wttr} days",
             "Losses start when the first DC runs out (TTS) and grow until recovery (TTR)",
         )
         scen = {}
@@ -193,6 +196,7 @@ def run_cypher_analyses(ttr: int | None = None) -> dict:
         tier_counts = ranking.groupby("tier").revenue_at_risk.sum().to_dict()
         m["D"] = {
             "ttr_days": ttr,
+            "ttr_days_by_tier": {str(k): v for k, v in ttr_tier.items()},
             "runtime_s": round(time.perf_counter() - t0, 1),
             "worst_supplier": worst,
             "worst_supplier_summary": res.summary,
@@ -252,7 +256,7 @@ def run_cypher_analyses(ttr: int | None = None) -> dict:
         }
 
         # --- G: substitution on the worst supplier scenario and on a country scenario
-        g1 = A.substitution(d, res)
+        g1 = A.substitution(d, res)  # same scenario as the worst-supplier charts
         rde = A.disruption(d, "country", "DE", ttr)
         g2 = A.substitution(d, rde)
         _save(g1, "G_substitution_worst_supplier")
