@@ -104,18 +104,25 @@ def disruption_seeds(d: Driver, kind: str, key: str) -> pd.DataFrame:
     else:
         raise ValueError("kind must be supplier | country | port")
     if df.empty:
-        return pd.DataFrame(columns=["sku", "loss", "dc"])
+        return pd.DataFrame(columns=["sku", "loss", "pipe0", "dc"])
     if "dc" not in df:
         df["dc"] = None
-    # several seed rows can hit the same item: keep the worst loss
-    return df.groupby(["sku", "dc"], dropna=False, as_index=False)["loss"].max()
+    # several seed rows can hit the same item: keep the worst loss and the shortest pipeline
+    return df.groupby(["sku", "dc"], dropna=False, as_index=False).agg(
+        loss=("loss", "max"), pipe0=("pipe0", "min")
+    )
 
 
 def disruption(d: Driver, kind: str, key: str, ttr: int) -> DisruptionResult:
     seeds = disruption_seeds(d, kind, key)
     recs = (
         [
-            {"sku": r.sku, "loss": float(r.loss), "dc": None if pd.isna(r.dc) else r.dc}
+            {
+                "sku": r.sku,
+                "loss": float(r.loss),
+                "pipe0": float(r.pipe0),
+                "dc": None if pd.isna(r.dc) else r.dc,
+            }
             for r in seeds.itertuples()
         ]
         if not seeds.empty

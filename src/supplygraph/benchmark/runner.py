@@ -82,7 +82,8 @@ def run_benchmark(
                 sql = (SQL_DIR / f"{q}.sql").read_text(encoding="utf-8")
                 cy_ms, cy_res = _median_ms(lambda cy=cy, p=params: run(d, cy, p, timeout=600), repeat)
                 du_ms, du_res = _median_ms(
-                    lambda sql=sql, c=con, p=params: c.execute(sql, p if "$" in sql else None).fetchall(), repeat
+                    lambda sql=sql, c=con, p=params: c.execute(sql, p if "$" in sql else None).fetchall(),
+                    repeat,
                 )
                 cy_pairs, cy_chk = cy_res[0]["pairs"], cy_res[0]["checksum"]
                 du_pairs, du_chk = du_res[0]

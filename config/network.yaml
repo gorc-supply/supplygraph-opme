@@ -24,7 +24,7 @@ profiles:
     n_hospitals: 1400
     n_municipalities: 450    # most populous IBGE municipalities used to place hospitals
     skus_per_hospital: 18    # mean number of finished SKUs a hospital consumes (long tail)
-    lots_per_finished: 150   # mean lots per finished SKU (scaled by demand)
+    lots_per_finished: 140   # mean lots per finished SKU (scaled by demand)
     component_lot_reuse: 3   # downstream lots fed by one component lot (avg)
     raw_lot_reuse: 4         # downstream lots fed by one raw-material lot (avg)
     include_lots: true
@@ -60,8 +60,8 @@ sourcing:
   tier1_supplier_count_probs: [0.25, 0.55, 0.20]
   # Probability that a deeper component has 1 / 2 / 3 suppliers.
   tier2_supplier_count_probs: [0.08, 0.52, 0.40]
-  # Preferential attachment exponent: >1 concentrates deep components on a few hub suppliers.
-  tier2_concentration_alpha: 1.6
+  # Preferential attachment exponent (1.0 = linear, Barabasi-Albert style): a few hub suppliers emerge.
+  tier2_concentration_alpha: 1.0
   # Share of multi-sourced level-1 items deliberately planted as "false dual-source":
   # all their tier-1 suppliers buy one critical sub-component from the SAME upstream supplier.
   false_dual_source_share: 0.10

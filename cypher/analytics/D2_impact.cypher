@@ -1,5 +1,6 @@
 // 9D - Time-to-Survive (TTS) x Time-to-Recover (TTR), after Simchi-Levi.
-// Input: $seeds = [{sku, loss, dc?}] (fraction of supply lost per item) and $ttr (days).
+// Input: $seeds = [{sku, loss, pipe0, dc?}] (fraction of supply lost per item, stages already in the
+// pipeline before the seed item) and $ttr (days).
 // 1. Propagate every seed UP the BOM to the finished implants that contain it.
 // 2. Pipeline days: material already past the disrupted node keeps flowing for the lead time of
 //    every stage downstream of it (sum of pipeline_lead_days of the parents on the path).
@@ -8,7 +9,7 @@
 UNWIND $seeds AS seed
 MATCH (x:Item {sku: seed.sku})
 MATCH p = (x)-[:COMPONENT_OF]->{0,12}(f:Item {type: 'FINISHED'})
-WITH f, seed, reduce(d = 0.0, n IN tail(nodes(p)) | d + coalesce(n.pipeline_lead_days, 0.0)) AS pipe
+WITH f, seed, coalesce(seed.pipe0, 0.0) + reduce(d = 0.0, n IN tail(nodes(p)) | d + coalesce(n.pipeline_lead_days, 0.0)) AS pipe
 MATCH (dc:DC)-[s:STOCKS]->(f)
 WHERE seed.dc IS NULL OR seed.dc = dc.id
 WITH f, dc, s, max(seed.loss) AS loss, min(pipe) AS pipeline_days

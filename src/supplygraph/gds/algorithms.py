@@ -7,6 +7,7 @@ has no in-database GDS plugin: the public demo reads the pre-computed values.
 
 from __future__ import annotations
 
+import logging
 import time
 
 import pandas as pd
@@ -18,6 +19,7 @@ from supplygraph.config import neo4j_settings
 from supplygraph.db import driver_ctx, run
 
 console = Console()
+logging.getLogger("neo4j.notifications").setLevel(logging.ERROR)  # graphdatascience uses id() internally
 
 # 1) Material-flow network, UNDIRECTED. Betweenness: how many shortest paths between any two
 #    actors of the chain cross a node -> chokepoints. Undirected on purpose: in a directed flow

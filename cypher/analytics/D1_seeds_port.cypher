@@ -11,4 +11,4 @@ OPTIONAL CALL (pl, dc, port) {
 }
 WITH f, dc, sum(CASE WHEN alt_lead IS NULL THEN m.share_pct / 100.0 ELSE 0.0 END) AS loss
 WHERE loss > 0
-RETURN f.sku AS sku, dc.id AS dc, CASE WHEN loss > 1.0 THEN 1.0 ELSE loss END AS loss
+RETURN f.sku AS sku, dc.id AS dc, CASE WHEN loss > 1.0 THEN 1.0 ELSE loss END AS loss, 0.0 AS pipe0
