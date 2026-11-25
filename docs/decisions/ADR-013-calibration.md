@@ -8,7 +8,7 @@ revenue - not credible.
 
 **Decision.** Lower deep single-sourcing (tier-2 supplier count probabilities 8/52/40%), make sub-tier buyers pick a
 source with probability proportional to the square root of market share, single-source sub-tier purchases in 20% of
-cases, and plant 10% of the multi-sourced items as deliberate false dual-sources. Result: 35% of multi-sourced
+cases, and plant 10% of the multi-sourced items as deliberate false dual-sources. Result (with linear preferential attachment, alpha = 1.0, after an alpha of 1.6 produced one tier-2 hub supplying 43% of all deep components): 29% of multi-sourced
 level-1 items converge on one upstream supplier.
 
 **Consequences.** The headline numbers are a product of these assumptions; they live in `config/network.yaml` so

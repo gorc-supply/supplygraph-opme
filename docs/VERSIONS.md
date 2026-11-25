@@ -33,7 +33,7 @@ Cypher: the server reports Cypher versions `5` and `25`. Every query in this rep
 | Inactivity | instance pauses when idle (docs mention pause after ~3 days and deletion after 30 days of inactivity - check the Aura console for the current policy) | Neo4j FAQ pages |
 
 **Difference from the original brief:** the brief said "GDS does not run on Aura Free". The current Neo4j changelog
-announces **Aura Graph Analytics available on AuraDB Free** (serverless GDS sessions, billed separately from the
+announces **Aura Graph Analytics available on AuraDB Free** (serverless GDS sessions that run outside the
 database). The in-database GDS *plugin* is still not part of AuraDB Free, so this project keeps the original design:
 compute GDS locally and write the results as properties. See [ADR-009](decisions/ADR-009-precompute-gds.md).
 
@@ -41,9 +41,9 @@ compute GDS locally and write the results as properties. See [ADR-009](decisions
 
 | | Count | % of Aura Free |
 |---|---:|---:|
-| Nodes | 58,978 | 29.5% |
-| Relationships | 231,984 | 58.0% |
+| Nodes | 60,560 | 30.3% |
+| Relationships | 238,467 | 59.6% |
 
 Relationships are the binding constraint (the model has ~3.9 relationships per node, mostly lot genealogy and
-deliveries), so the network is sized to ~58% of the relationship limit, which leaves room for the GDS-written
+deliveries), so the network is sized to ~60% of the relationship limit, which leaves room for the GDS-written
 `SIMILAR_PORTFOLIO` relationships. Run `sgraph stats` to recount.
