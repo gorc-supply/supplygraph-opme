@@ -48,11 +48,11 @@ if lot:
             pts = q("UNWIND $ids AS id MATCH (h:Hospital {id: id}) RETURN h.lat AS lat, h.lon AS lon",
                     {"ids": sorted(deliveries.hospital_id.unique().tolist())})
             st.map(pts, size=2500, color="#ec4647")
-        st.dataframe(fwd.drop(columns=["deliveries"]), hide_index=True, use_container_width=True)
+        st.dataframe(fwd.drop(columns=["deliveries"]), hide_index=True, width="stretch")
         if not deliveries.empty:
             with st.expander("Entregas / deliveries"):
-                st.dataframe(deliveries, hide_index=True, use_container_width=True)
+                st.dataframe(deliveries, hide_index=True, width="stretch")
     else:
         st.info("Nenhum lote derivado / no derived lots (lote de implante acabado?)")
     st.subheader(t("backward"))
-    st.dataframe(back, hide_index=True, use_container_width=True)
+    st.dataframe(back, hide_index=True, width="stretch")

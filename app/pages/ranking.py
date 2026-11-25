@@ -40,7 +40,7 @@ c[2].metric("Pesos / weights (normalised)", " · ".join(f"{v:.2f}" for v in w.va
 st.dataframe(
     df[["rank", "rank_change", "supplier_id", "name", "tier", "country", "index", "revenue_at_risk", "betweenness",
         "pagerank", "geo_risk", "financial_risk", "single_source"]],
-    hide_index=True, use_container_width=True, height=560,
+    hide_index=True, width="stretch", height=560,
     column_config={
         "index": st.column_config.ProgressColumn(t("index"), min_value=0, max_value=100, format="%.1f"),
         "revenue_at_risk": st.column_config.NumberColumn(format="R$ %.0f"),

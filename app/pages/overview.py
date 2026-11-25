@@ -41,14 +41,14 @@ fig.add_bar(y=geo.country, x=geo.erp_pct, orientation="h", name=t("erp_view"), m
             hovertemplate="%{y}: %{x:.1f}%<extra>" + t("erp_view") + "</extra>")
 fig.update_layout(barmode="group", height=460, margin=dict(l=10, r=30, t=10, b=10), xaxis_title="% R$",
                   legend=dict(orientation="h", y=-0.12), plot_bgcolor="rgba(0,0,0,0)")
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 with st.expander("Dados / data"):
-    st.dataframe(geo.iloc[::-1], hide_index=True, use_container_width=True)
+    st.dataframe(geo.iloc[::-1], hide_index=True, width="stretch")
 
 st.subheader(t("false_dual"))
 if not false_dual.empty:
     view = (false_dual.groupby(["item_sku", "item_name", "category", "revenue_exposed"], as_index=False)
             .agg(direct_suppliers=("direct_suppliers", "first"), hidden=("hidden_supplier", lambda s: ", ".join(s))))
     st.dataframe(view.sort_values("revenue_exposed", ascending=False).head(25), hide_index=True,
-                 use_container_width=True,
+                 width="stretch",
                  column_config={"revenue_exposed": st.column_config.NumberColumn(format="R$ %.0f")})

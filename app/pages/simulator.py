@@ -56,18 +56,18 @@ if not impact.empty:
     fig.add_vline(x=ttr, line_dash="dash", annotation_text=f"TTR = {ttr} d")
     fig.update_layout(title=t("tts_chart"), height=420, xaxis_title="TTS (dias/days)", yaxis_title="units / month",
                       margin=dict(l=10, r=10, t=50, b=10), legend=dict(orientation="h", y=-0.2))
-    left.plotly_chart(fig, use_container_width=True)
+    left.plotly_chart(fig, width="stretch")
     fig2 = go.Figure(go.Scatter(x=timeline.day, y=timeline.cumulative_revenue_lost, mode="lines",
                                 line=dict(color=BLUE, width=2), fill="tozeroy",
                                 hovertemplate="dia/day %{x}: R$ %{y:,.0f}<extra></extra>"))
     fig2.update_layout(title=t("timeline"), height=420, xaxis_title="dias / days", yaxis_title="R$",
                        margin=dict(l=10, r=10, t=50, b=10))
-    right.plotly_chart(fig2, use_container_width=True)
+    right.plotly_chart(fig2, width="stretch")
     hosp = sorted({h for hs in out.hospitals for h in hs})
     if hosp:
         pts = q("UNWIND $ids AS id MATCH (h:Hospital {id: id}) RETURN h.lat AS lat, h.lon AS lon", {"ids": hosp})
         st.map(pts, size=2000, color="#f47230")
-    st.dataframe(out.drop(columns=["hospitals"]).head(200), hide_index=True, use_container_width=True,
+    st.dataframe(out.drop(columns=["hospitals"]).head(200), hide_index=True, width="stretch",
                  column_config={"revenue_at_risk": st.column_config.NumberColumn(format="R$ %.0f")})
     if not subs.empty:
         st.subheader(t("subs"))
