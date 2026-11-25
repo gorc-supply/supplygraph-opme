@@ -1,0 +1,88 @@
+# SupplyGraph OPME - synthetic network parameters.
+# Everything here is a SYNTHETIC modelling assumption unless the key says "anchor".
+# Real anchors (UN Comtrade / ComexStat, IBGE, Siscomex NCM) live in data/reference/.
+
+seed: 42
+as_of: "2026-11-01"          # fixed "today" so lot status / expiry are deterministic
+reference_year: 2024         # anchor year used for import-share calibration
+
+aura_limits:                 # AuraDB Free (checked 2026-11-25, docs/VERSIONS.md)
+  nodes: 200000
+  relationships: 400000
+
+profiles:
+  # Default network: sized to ~40-60% of the AuraDB Free relationship limit.
+  full:
+    bom_depth: 4             # max COMPONENT_OF hops from a finished implant down to raw material
+    n_finished: 240
+    l1_per_finished: 1.15    # level-1 component pool size relative to finished items
+    level_decay: 0.6         # each deeper component level is this fraction of the previous one
+    n_tier1: 150
+    n_tier2: 70
+    n_tier3: 24
+    n_plants: 16
+    n_hospitals: 1400
+    n_municipalities: 450    # most populous IBGE municipalities used to place hospitals
+    skus_per_hospital: 18    # mean number of finished SKUs a hospital consumes (long tail)
+    lots_per_finished: 150   # mean lots per finished SKU (scaled by demand)
+    component_lot_reuse: 3   # downstream lots fed by one component lot (avg)
+    raw_lot_reuse: 4         # downstream lots fed by one raw-material lot (avg)
+    include_lots: true
+
+  # Tiny network for CI and fast tests.
+  ci:
+    bom_depth: 3
+    n_finished: 30
+    l1_per_finished: 1.2
+    level_decay: 0.6
+    n_tier1: 25
+    n_tier2: 14
+    n_tier3: 8
+    n_plants: 5
+    n_hospitals: 120
+    n_municipalities: 80
+    skus_per_hospital: 8
+    lots_per_finished: 12
+    component_lot_reuse: 3
+    raw_lot_reuse: 4
+    include_lots: true
+
+  # Benchmark networks (no lots: the 3 benchmark questions do not touch lots).
+  bench_s_d3: {bom_depth: 3, n_finished: 240, n_tier1: 150, n_tier2: 70, n_tier3: 24, n_hospitals: 1400, include_lots: false}
+  bench_s_d5: {bom_depth: 5, n_finished: 240, n_tier1: 150, n_tier2: 70, n_tier3: 24, n_hospitals: 1400, include_lots: false}
+  bench_s_d7: {bom_depth: 7, n_finished: 240, n_tier1: 150, n_tier2: 70, n_tier3: 24, n_hospitals: 1400, include_lots: false}
+  bench_l_d3: {bom_depth: 3, n_finished: 960, n_tier1: 600, n_tier2: 280, n_tier3: 60, n_hospitals: 5000, n_municipalities: 1500, include_lots: false}
+  bench_l_d5: {bom_depth: 5, n_finished: 960, n_tier1: 600, n_tier2: 280, n_tier3: 60, n_hospitals: 5000, n_municipalities: 1500, include_lots: false}
+  bench_l_d7: {bom_depth: 7, n_finished: 960, n_tier1: 600, n_tier2: 280, n_tier3: 60, n_hospitals: 5000, n_municipalities: 1500, include_lots: false}
+
+sourcing:
+  # Probability that a level-1 component has 1 / 2 / 3 direct (tier-1) suppliers.
+  tier1_supplier_count_probs: [0.25, 0.55, 0.20]
+  # Probability that a deeper component has 1 / 2 / 3 suppliers.
+  tier2_supplier_count_probs: [0.08, 0.52, 0.40]
+  # Preferential attachment exponent: >1 concentrates deep components on a few hub suppliers.
+  tier2_concentration_alpha: 1.6
+  # Share of multi-sourced level-1 items deliberately planted as "false dual-source":
+  # all their tier-1 suppliers buy one critical sub-component from the SAME upstream supplier.
+  false_dual_source_share: 0.10
+  # Probability that a supplier buys a given child item from ONE upstream source only.
+  sub_tier_single_buy_prob: 0.20
+  # Raw materials whose supply base is deliberately concentrated (n suppliers).
+  concentrated_raw: {TI64: 3, PEEK: 1, L605: 2, PYC: 1, NITI: 2}
+  # Country mix assumptions (synthetic). Tier-1 and plants blend the real import-share anchor
+  # with domestic (BR) sourcing; tier-3 raw-material producers are concentrated upstream.
+  tier1_domestic_share: 0.45
+  plant_domestic_share: 0.30
+  tier3_country_weights: {US: 0.28, CN: 0.18, GB: 0.12, DE: 0.12, JP: 0.12, FR: 0.10, CH: 0.08}
+  tier2_country_weights: {CN: 0.15, US: 0.18, DE: 0.14, CH: 0.10, IE: 0.06, BR: 0.12, IT: 0.07, JP: 0.08, MX: 0.05, FR: 0.05}
+
+logistics:
+  air_share: 0.8                       # high-value implants mostly fly
+  dc_ufs: [SP, SP, RJ, MG, PR, SC, RS, BA, PE, CE, GO, DF, AM, PA]
+  second_dc_probability: 0.35          # hospitals within reach of a 2nd DC get a backup lane
+  second_dc_max_km: 650
+
+inventory:
+  days_cover_median: 38
+  days_cover_sigma: 0.55
+  safety_stock_days: 14

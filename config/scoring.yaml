@@ -1,0 +1,19 @@
+# Supplier Criticality Index (0-100) = 100 * sum(weight_k * normalized_component_k)
+# Every component is min-max normalised to [0, 1] across suppliers before weighting.
+# Weights must sum to 1.0. Edit and re-run `sgraph analyze --step criticality`.
+weights:
+  revenue_at_risk: 0.35     # section D: revenue lost if the supplier stops for `ttr_days` (TTS x TTR)
+  betweenness: 0.15         # GDS: chokepoint in the supply network (undirected flow projection)
+  pagerank: 0.15            # GDS: systemic importance, revenue-weighted dependency projection
+  geo_risk: 0.10            # country geo-risk score (synthetic scenario parameter)
+  financial_risk: 0.10      # supplier financial distress score (synthetic)
+  single_source: 0.15       # 1 if the supplier is the sole source of at least one item
+
+ttr_days: 60                # time-to-recover assumed for the ranking scenario
+
+# Weight scenarios used in the sensitivity analysis (each must sum to 1.0).
+sensitivity_scenarios:
+  revenue_heavy:   {revenue_at_risk: 0.60, betweenness: 0.10, pagerank: 0.10, geo_risk: 0.05, financial_risk: 0.05, single_source: 0.10}
+  structure_heavy: {revenue_at_risk: 0.15, betweenness: 0.30, pagerank: 0.30, geo_risk: 0.05, financial_risk: 0.05, single_source: 0.15}
+  risk_heavy:      {revenue_at_risk: 0.20, betweenness: 0.10, pagerank: 0.10, geo_risk: 0.25, financial_risk: 0.25, single_source: 0.10}
+  equal:           {revenue_at_risk: 0.1667, betweenness: 0.1667, pagerank: 0.1667, geo_risk: 0.1667, financial_risk: 0.1666, single_source: 0.1667}

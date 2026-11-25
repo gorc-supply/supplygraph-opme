@@ -1,0 +1,25 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.ipynb_checkpoints/
+
+# local runtime (portable JDK + Neo4j, ~1.5 GB) and docker volumes
+.runtime/
+neo4j-data/
+
+# generated data is reproducible: `sgraph generate --profile <name>`
+data/generated/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
