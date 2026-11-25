@@ -1,0 +1,59 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --extra dev
+      - run: uv run ruff check src tests app
+      - run: uv run ruff format --check src
+
+  test:
+    runs-on: ubuntu-latest
+    needs: lint
+    services:
+      neo4j:
+        image: neo4j:2026.10.2-community
+        env:
+          NEO4J_AUTH: neo4j/ci-password-only
+          NEO4J_PLUGINS: '["apoc", "graph-data-science"]'
+          NEO4J_dbms_security_procedures_unrestricted: "gds.*,apoc.*"
+          NEO4J_server_memory_heap_max__size: 1g
+          NEO4J_server_memory_pagecache_size: 512m
+        ports:
+          - 7687:7687
+          - 7474:7474
+        options: >-
+          --health-cmd "wget -qO- http://localhost:7474 || exit 1"
+          --health-interval 10s --health-timeout 5s --health-retries 30 --health-start-period 40s
+    env:
+      NEO4J_URI: neo4j://localhost:7687
+      NEO4J_USER: neo4j
+      NEO4J_PASSWORD: ci-password-only
+      SGRAPH_TEST_ALLOW_RESET: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --extra dev
+      - name: Generate small network
+        run: uv run sgraph generate --profile ci
+      - name: Load (twice, idempotent)
+        run: |
+          uv run sgraph load --profile ci --reset
+          uv run sgraph load --profile ci
+      - name: Validate graph data quality
+        run: uv run sgraph validate --profile ci
+      - name: Tests
+        run: uv run pytest -q
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: data-quality-report
+          path: reports/data_quality.md

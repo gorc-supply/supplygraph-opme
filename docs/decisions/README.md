@@ -1,0 +1,15 @@
+# Architecture decision records
+
+- [ADR-001: Graph database (Neo4j) for supply-chain risk](ADR-001-why-graph.md)
+- [ADR-002: Synthetic network with real open-data anchors](ADR-002-synthetic-plus-anchors.md)
+- [ADR-003: Add BUYS_FROM (Supplier)->(Supplier) with item_sku and for_sku](ADR-003-buys-from.md)
+- [ADR-004: Cypher 25 everywhere and allReduce() for path pruning](ADR-004-cypher25-allreduce.md)
+- [ADR-005: neo4j-viz for the network explorer](ADR-005-neo4j-viz.md)
+- [ADR-006: Portable Neo4j when Docker Desktop is not installed](ADR-006-portable-neo4j.md)
+- [ADR-007: UN Comtrade (reporter Brazil) as fallback for ComexStat](ADR-007-comtrade-fallback.md)
+- [ADR-008: Simplified TTS x TTR model](ADR-008-tts-ttr-model.md)
+- [ADR-009: Compute GDS locally and write results as properties](ADR-009-precompute-gds.md)
+- [ADR-010: uv + Typer CLI instead of make](ADR-010-uv-typer.md)
+- [ADR-011: Size the network on the relationship limit](ADR-011-network-size.md)
+- [ADR-012: Two geographic exposure metrics](ADR-012-geo-metrics.md)
+- [ADR-013: Calibration of the sourcing parameters](ADR-013-calibration.md)
