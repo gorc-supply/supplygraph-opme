@@ -1,0 +1,28 @@
+{
+  "ncm": {
+    "source": "Siscomex Portal Unico - Classif (Receita Federal), public NCM table",
+    "url": "https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/json?perfil=PUBLICO",
+    "extracted_at": "2026-11-25T22:16:03Z",
+    "status": "ok",
+    "version": "Vigente em 25/11/2026 / Resolução Gecex nº 926/2026",
+    "rows": 40,
+    "file": "ncm_9021_siscomex.csv"
+  },
+  "imports": {
+    "source": "UN Comtrade public preview API, reporter=Brazil (76), flow=M, HS6 902110/902131/902139/902190",
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+    "extracted_at": "2026-11-25T22:16:20Z",
+    "status": "fallback: ComexStat API unavailable (HTTP 503) and ComexStat bulk files served an expired TLS certificate at extraction time",
+    "year": 2024,
+    "rows": 133,
+    "file": "br_imports_9021_by_origin_2024.csv"
+  },
+  "ibge": {
+    "source": "IBGE - SIDRA table 4709 (Censo 2022 resident population) + Localidades API + Malhas v3 metadata (municipality centroid)",
+    "url": "https://apisidra.ibge.gov.br/values/t/4709/n6/all/v/93/p/2022/f/c ; https://servicodados.ibge.gov.br/api/v1/localidades/municipios ; https://servicodados.ibge.gov.br/api/v3/malhas/municipios/{id}/metadados",
+    "extracted_at": "2026-11-25T22:18:46Z",
+    "status": "ok",
+    "rows": 1500,
+    "file": "ibge_municipalities_top.csv"
+  }
+}
