@@ -264,13 +264,13 @@ def export_aura(dry_run: bool = typer.Option(False, help="only check limits, do 
     export(dry_run=dry_run)
 
 
-@app.command()
-def all(profile: str = "full") -> None:  # noqa: A001 - CLI verb
+@app.command("all")
+def run_all_steps(profile: str = "full") -> None:
     """generate -> load -> validate -> analyze (end-to-end)."""
     generate(profile)
     load(profile, reset_first=True)
     validate(profile)
-    analyze()
+    analyze(step="all", ttr=None)
 
 
 @app.command()
