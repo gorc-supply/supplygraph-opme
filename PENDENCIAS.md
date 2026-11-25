@@ -14,7 +14,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 | 5 - GDS | Concluída | 6 projeções, 9 algoritmos, propriedades gravadas, índice de criticidade com sensibilidade. |
 | 6 - Benchmark | Concluída | 18 medições com respostas idênticas; o DuckDB venceu todas e isso está documentado com as razões ([benchmarks.md](docs/benchmarks.md)). |
 | 7 - App | Concluída | 6 páginas PT/EN; testadas com `streamlit.testing.AppTest` (12/12 renderizações sem erro). Não abri no navegador nem tirei prints. |
-| 8 - Publicação | **Parcial** | 12 commits locais, READMEs, CI, export para o Aura e deploy prontos. **O repositório público não foi criado e nada foi enviado ao GitHub**: o modo automático do Claude Code bloqueou o `gh repo create ... --push`. Por isso o CI também nunca rodou. |
+| 8 - Publicação | **Parcial** | 15 commits semânticos locais (`git log`), READMEs, CI, export para o Aura e deploy prontos. **O repositório público não foi criado e nada foi enviado ao GitHub**: o modo automático do Claude Code bloqueou o `gh repo create ... --push`. Por isso o CI também nunca rodou. |
 | 9 - Divulgação | Concluída (texto) | Case EN/PT, roteiro de 90 s, 3 posts, bullets de currículo e card do site em [docs/portfolio/](docs/portfolio). O vídeo depende de você. |
 
 ## 2. Pendências que dependem de você (ordem de prioridade)
