@@ -14,42 +14,23 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 | 5 - GDS | Concluída | 6 projeções, 9 algoritmos, propriedades gravadas, índice de criticidade com sensibilidade. |
 | 6 - Benchmark | Concluída | 18 medições com respostas idênticas; o DuckDB venceu todas e isso está documentado com as razões ([benchmarks.md](docs/benchmarks.md)). |
 | 7 - App | Concluída | 6 páginas PT/EN; testadas com `streamlit.testing.AppTest` (12/12 renderizações sem erro). Não abri no navegador nem tirei prints. |
-| 8 - Publicação | **Parcial** | Grafo exportado para o AuraDB Free em 25/11/2026 (60.560 nós / 238.873 relacionamentos, contagens por label e por tipo idênticas às do local, propriedades do GDS incluídas). Conexão TLS verificada com `certifi` ([ADR-014](docs/decisions/ADR-014-tls-certifi.md)). Falta o deploy no Streamlit Cloud. |
+| 8 - Publicação | Concluída | Repositório público com CI verde; grafo no AuraDB Free (contagens idênticas às do local); demo no ar em https://supplygraph-opme.streamlit.app (`?lang=en` para inglês). |
 | 9 - Divulgação | Concluída (texto) | Case EN/PT, roteiro de 90 s, 3 posts, bullets de currículo e card do site em [docs/portfolio/](docs/portfolio). O vídeo depende de você. |
 
 ## 2. Pendências que dependem de você (ordem de prioridade)
 
-1. **Criar o repositório público e enviar o código** (~2 min). No PowerShell, dentro da pasta do projeto:
-   ```powershell
-   cd C:\Projetos\Neo4J\supplygraph-opme
-   git ls-files | Select-String "\.env$"     # deve voltar vazio (o .env está no .gitignore)
-   gh repo create gorc-supply/supplygraph-opme --public --source . --remote origin --push
-   ```
-   Fiz a varredura de segredos antes de cada commit: nenhum `.env`, senha ou URI com credencial está versionado.
-   As senhas (Neo4j local e Aura) existem só no seu `.env`, que está no `.gitignore`.
+1. ~~Repositório público, CI, AuraDB Free e Streamlit Cloud~~ **feitos.** Demo: https://supplygraph-opme.streamlit.app
+   Para atualizar a demo depois de mudar o grafo: `uv run sgraph export-aura` (a app lê o Aura) e, se mudar dependências, *Reboot app* no Streamlit Cloud. As dependências da app vêm de `app/requirements.txt`.
 
-2. **Conferir o CI** (~10 min). `gh run watch` logo após o push. O workflow nunca rodou, então a primeira execução
-   pode precisar de ajuste (o ponto mais provável é o download dos plugins pelo `NEO4J_PLUGINS` no container).
-   Se falhar, `gh run view --log-failed` mostra o erro.
-
-3. ~~AuraDB Free~~ **feito.** Para refazer o export depois de mudar o grafo: `uv run sgraph export-aura`.
-   Na instância nova, usuário e banco têm o nome do id da instância; isso já está no `.env` (`AURA_DATABASE`).
-
-4. **Streamlit Community Cloud** (~10 min). Em <https://share.streamlit.io>: *Create app* -> repositório
-   `gorc-supply/supplygraph-opme`, branch `main`, arquivo `app/streamlit_app.py`. Em *Advanced settings -> Secrets*,
-   cole o bloco de `.streamlit/secrets.toml.example` com os dados do Aura (`user` e `database` = id da instância). Passo a passo em [docs/deploy.md](docs/deploy.md). As dependências vêm de `app/requirements.txt` (só o que a app importa); se o app já foi criado, use *Reboot app* para reinstalar.
-   Depois, confira a URL final e troque o link "Live demo" no card do site.
-
-5. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
+2. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
    Para rodar a app localmente: `uv run streamlit run app/streamlit_app.py`.
 
-6. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos e posts em
-   [docs/portfolio/](docs/portfolio) (substitua `[link do repo]`). Vale revisar o tom dos posts antes.
+3. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos (selo "No ar", botão Abrir apontando para a demo) e posts em [docs/portfolio/](docs/portfolio), já com os links do repo e da demo. Vale revisar o tom dos posts antes.
 
-7. **Instalar o Docker Desktop** (opcional, ~20 min + reinício). Não é necessário para nada funcionar (a instalação
+4. **Instalar o Docker Desktop** (opcional, ~20 min + reinício). Não é necessário para nada funcionar (a instalação
    portátil cobre tudo), mas é o caminho "oficial" do README. Depois: `uv run sgraph up --mode docker`.
 
-8. **Atualizar a âncora do ComexStat** quando o serviço voltar (~2 min): `uv run sgraph fetch-anchors` e
+5. **Atualizar a âncora do ComexStat** quando o serviço voltar (~2 min): `uv run sgraph fetch-anchors` e
    `uv run sgraph all`. Hoje a âncora vem do UN Comtrade (reporter Brasil).
 
 ## 3. Decisões que tomei sozinho e vale revisar

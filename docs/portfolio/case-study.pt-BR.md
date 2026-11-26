@@ -42,4 +42,5 @@ maiores em gasto), o caso quantificado para estoque estratégico de matéria-pri
 segunda fonte realmente independente e o perímetro de um recall em milissegundos. Para um avaliador técnico: um
 pipeline de grafo reprodutível e testado, e uma medição honesta de quando o grafo é, e quando não é, a ferramenta certa.
 
-Repositório: https://github.com/gorc-supply/supplygraph-opme
+Repositório: https://github.com/gorc-supply/supplygraph-opme  
+Demo no ar: https://supplygraph-opme.streamlit.app

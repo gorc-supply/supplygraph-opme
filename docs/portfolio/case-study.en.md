@@ -41,4 +41,5 @@ a quantified case for strategic raw-material stock, the 66 items that need a tru
 and a recall perimeter in milliseconds instead of days. For an engineering reviewer: a reproducible, tested
 graph pipeline and an honest measurement of when a graph is - and is not - the right tool.
 
-Repository: https://github.com/gorc-supply/supplygraph-opme
+Repository: https://github.com/gorc-supply/supplygraph-opme  
+Live demo: https://supplygraph-opme.streamlit.app

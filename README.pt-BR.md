@@ -10,7 +10,7 @@
 matérias-primas (titânio, cromo-cobalto, PEEK, polietileno...), fornecedores tier-1/2/3 em 17 países, plantas, portos
 e aeroportos, centros de distribuição no Brasil, 1.400 hospitais e 58 mil lotes rastreáveis de ponta a ponta, em Neo4j.
 
-*English version: [README.md](README.md)*
+**Demo no ar: [supplygraph-opme.streamlit.app](https://supplygraph-opme.streamlit.app)** (em inglês: [`?lang=en`](https://supplygraph-opme.streamlit.app/?lang=en)) · *English version: [README.md](README.md)*
 
 > **Tese: risco de supply chain é um problema de relacionamentos, não de linhas de tabela.**
 > "Qual fornecedor de tier-3 que eu nem conheço derruba metade da minha receita?" é um pesadelo de joins recursivos

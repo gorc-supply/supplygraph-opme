@@ -24,7 +24,8 @@ o tempo todo, dois ou três níveis abaixo.
 Em SQL essa pergunta é um CTE recursivo que dá trabalho para escrever e mais ainda para revisar. Em grafo é um
 padrão de caminho.
 
-Código aberto, com os dados sintéticos e as âncoras reais documentadas: [link do repo]
+Demo para explorar: https://supplygraph-opme.streamlit.app
+Código aberto, com os dados sintéticos e as âncoras reais documentadas: https://github.com/gorc-supply/supplygraph-opme
 
 #SupplyChain #Neo4j #OPME #GestãoDeRiscos
 
@@ -48,7 +49,8 @@ A consulta que encontra isso segue a cadeia de compras do fornecedor do forneced
 estrutura do produto. É o tipo de pergunta que um banco de grafos responde em segundos e que numa planilha
 ninguém faz.
 
-Repo com código, dados e metodologia: [link do repo]
+Dá para testar no simulador da demo: https://supplygraph-opme.streamlit.app
+Repo com código, dados e metodologia: https://github.com/gorc-supply/supplygraph-opme
 
 #Suprimentos #Neo4j #SupplyChainRisk
 
@@ -71,6 +73,7 @@ A consulta que monta essa genealogia completa, da barra de titânio até o hospi
 Com a genealogia modelada como grafo, o rastreio para frente e para trás é uma consulta só, não um mutirão de
 planilhas.
 
-Repo: [link do repo]
+Teste o recall na demo: https://supplygraph-opme.streamlit.app/recall
+Repo: https://github.com/gorc-supply/supplygraph-opme
 
 #OPME #Rastreabilidade #Neo4j #Qualidade

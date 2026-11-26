@@ -1,5 +1,7 @@
 # Public demo: AuraDB Free + Streamlit Community Cloud
 
+Live at **https://supplygraph-opme.streamlit.app** (`?lang=en` for English).
+
 Both services are free and need no credit card. The app never runs GDS: every algorithm result is already
 written in the graph (see [ADR-009](decisions/ADR-009-precompute-gds.md)).
 

@@ -29,14 +29,13 @@
 ## Card for gorc-supply.github.io
 
 Same pattern as the other project cards on the site (`<article class="pc">`: media, `h3` + status pill, one
-sentence with an `<em>` highlight, three actions, and i18n strings in PT / EN / ES). Status pill: `Concluído`
-until the Streamlit Cloud deploy is live, then `No ar`.
+sentence with an `<em>` highlight, three actions, and i18n strings in PT / EN / ES). Status pill: `No ar` (the demo is live).
 
 ```html
 <article class="pc">
   <div class="m"><video src="video/supplygraph-card.mp4" poster="img/supplygraph-visao-geral-t.webp" muted loop playsinline autoplay preload="metadata" aria-label="Tour pelas páginas do SupplyGraph OPME"></video></div>
   <div class="in">
-    <h3 data-i="sgh">supplygraph-opme <span class="pill pv">Concluído</span></h3>
+    <h3 data-i="sgh">supplygraph-opme <span class="pill">No ar</span></h3>
     <p class="d" data-i="sgd">Gêmeo digital em grafo de uma cadeia de implantes que mostra <em>o fornecedor do fornecedor</em> que o ERP não vê.</p>
     <div class="acts" data-i="sga"><button class="b sm g" type="button" data-open="sg">Ver detalhes</button><a class="b sm" href="https://github.com/gorc-supply/supplygraph-opme">Ver código</a><a class="b sm" href="https://supplygraph-opme.streamlit.app">Abrir ↗</a></div>
   </div>
@@ -47,13 +46,13 @@ i18n strings:
 
 ```js
 // pt
-sgh:'supplygraph-opme <span class="pill pv">Concluído</span>',
+sgh:'supplygraph-opme <span class="pill">No ar</span>',
 sgd:'Gêmeo digital em grafo de uma cadeia de implantes que mostra <em>o fornecedor do fornecedor</em> que o ERP não vê.',
 // en
-sgh:'supplygraph-opme <span class="pill pv">Completed</span>',
+sgh:'supplygraph-opme <span class="pill">Live</span>',
 sgd:'A graph digital twin of an implant supply chain that shows <em>the supplier\'s supplier</em> the ERP cannot see.',
 // es
-sgh:'supplygraph-opme <span class="pill pv">Concluido</span>',
+sgh:'supplygraph-opme <span class="pill">En línea</span>',
 sgd:'Gemelo digital en grafo de una cadena de implantes que muestra <em>al proveedor del proveedor</em> que el ERP no ve.',
 ```
 
@@ -66,4 +65,4 @@ Text for the "Ver detalhes" modal (PT):
 > lote em milissegundos, ranking de criticidade com GDS e um benchmark grafo × SQL em que o DuckDB ganhou em
 > velocidade, e eu explico por quê.
 
-The `Abrir ↗` URL is the expected Streamlit Cloud address; confirm it after the deploy (pending item).
+The `Abrir ↗` button points to the live demo: https://supplygraph-opme.streamlit.app

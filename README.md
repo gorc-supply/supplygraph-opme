@@ -11,7 +11,7 @@
 raw materials (titanium, cobalt-chromium, PEEK, UHMWPE...), tier-1/2/3 suppliers in 17 countries, plants, ports
 and airports, Brazilian distribution centres, 1,400 hospitals and 58k lots traceable end to end - in Neo4j.
 
-*Versão em português: [README.pt-BR.md](README.pt-BR.md)*
+**Live demo: [supplygraph-opme.streamlit.app](https://supplygraph-opme.streamlit.app)** (Portuguese by default; English: [`?lang=en`](https://supplygraph-opme.streamlit.app/?lang=en)) · *Versão em português: [README.pt-BR.md](README.pt-BR.md)*
 
 > **Thesis: supply-chain risk is a relationship problem, not a table-row problem.**
 > "Which tier-3 supplier I have never heard of can stop half of my revenue?" is a recursive join nightmare in SQL
