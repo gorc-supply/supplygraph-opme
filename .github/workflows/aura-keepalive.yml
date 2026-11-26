@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v10
+      - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0 (no floating major tags since v8)
       - name: Read query on AuraDB
         env:
           AURA_URI: ${{ secrets.AURA_URI }}
