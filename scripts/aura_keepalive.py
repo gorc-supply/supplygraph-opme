@@ -37,12 +37,16 @@ def main() -> int:
         print("::error::AuraDB rejected the credentials - check the AURA_USER / AURA_PASSWORD secrets.")
         return 1
     except ServiceUnavailable:
-        print("::error::AuraDB did not answer. A Free instance pauses after 72 h without activity and is deleted "
-              f"after 30 days paused: resume it now at {CONSOLE}.")
+        print(
+            "::error::AuraDB did not answer. A Free instance pauses after 72 h without activity and is deleted "
+            f"after 30 days paused: resume it now at {CONSOLE}."
+        )
         return 1
     print(f"AuraDB OK: {nodes:,} nodes, {rels:,} relationships")
     if nodes == 0:
-        print("::warning::The instance is reachable but empty - run `uv run sgraph export-aura` to restore the demo data.")
+        print(
+            "::warning::The instance is reachable but empty - run `uv run sgraph export-aura` to restore the demo data."
+        )
     return 0
 
 
