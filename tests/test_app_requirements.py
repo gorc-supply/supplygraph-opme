@@ -14,6 +14,8 @@ APP = ROOT / "app"
 # import name -> distribution name (when they differ)
 DIST = {"yaml": "pyyaml", "dotenv": "python-dotenv", "neo4j_viz": "neo4j-viz"}
 FORBIDDEN = {"graphdatascience", "duckdb", "matplotlib", "typer", "jupyter", "pytest"}
+# needed at runtime without a direct import (pandas Styler, used by app/common.table)
+RUNTIME_ONLY = {"jinja2"}
 
 
 def _module_imports(path: Path) -> list[str]:
@@ -53,7 +55,7 @@ def app_third_party_imports() -> dict[str, set[str]]:
         seen.add(f)
         for mod in _module_imports(f):
             top = mod.split(".")[0]
-            if top in sys.stdlib_module_names or top in ("__future__", "common"):
+            if top in sys.stdlib_module_names or top == "__future__" or (APP / f"{top}.py").exists():
                 continue
             if top == "supplygraph":
                 parts = mod.split(".")
@@ -82,5 +84,5 @@ def test_app_requirements_stay_light():
 
 
 def test_no_unused_app_requirements():
-    used = {d.lower() for d in app_third_party_imports()}
+    used = {d.lower() for d in app_third_party_imports()} | RUNTIME_ONLY
     assert requirements() <= used, f"listed but never imported by the app: {requirements() - used}"
