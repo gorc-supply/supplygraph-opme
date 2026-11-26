@@ -34,7 +34,10 @@ written in the graph (see [ADR-009](decisions/ADR-009-precompute-gds.md)).
    password = "..."
    database = "xxxxxxxx"
    ```
-4. Deploy. Dependencies come from `requirements.txt` (the package itself with the `app` extra).
+4. Deploy. Dependencies come from **`app/requirements.txt`**: Community Cloud looks in the entrypoint's folder
+   first and only then in the repository root, where `uv.lock` would win and install the whole pipeline (GDS client,
+   DuckDB, matplotlib) without the app libraries. The app file lists only what the app imports; the local
+   `supplygraph` package is read from `src/` (see `app/common.py`).
 
 ## Notes
 

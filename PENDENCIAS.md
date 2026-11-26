@@ -37,7 +37,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 
 4. **Streamlit Community Cloud** (~10 min). Em <https://share.streamlit.io>: *Create app* -> repositório
    `gorc-supply/supplygraph-opme`, branch `main`, arquivo `app/streamlit_app.py`. Em *Advanced settings -> Secrets*,
-   cole o bloco de `.streamlit/secrets.toml.example` com os dados do Aura (`user` e `database` = id da instância). Passo a passo em [docs/deploy.md](docs/deploy.md).
+   cole o bloco de `.streamlit/secrets.toml.example` com os dados do Aura (`user` e `database` = id da instância). Passo a passo em [docs/deploy.md](docs/deploy.md). As dependências vêm de `app/requirements.txt` (só o que a app importa); se o app já foi criado, use *Reboot app* para reinstalar.
    Depois, confira a URL final e troque o link "Live demo" no card do site.
 
 5. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
