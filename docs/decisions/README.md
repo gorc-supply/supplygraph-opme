@@ -14,3 +14,4 @@
 - [ADR-012: Two geographic exposure metrics](ADR-012-geo-metrics.md)
 - [ADR-013: Calibration of the sourcing parameters](ADR-013-calibration.md)
 - [ADR-014: Verified TLS with the OS trust store plus certifi, in one connection helper](ADR-014-tls-certifi.md)
+- [ADR-015: A scripted, reproducible demo video (Playwright + edge-tts + ffmpeg)](ADR-015-demo-video-pipeline.md)
