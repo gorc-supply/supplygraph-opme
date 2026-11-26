@@ -15,7 +15,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 | 6 - Benchmark | Concluída | 18 medições com respostas idênticas; o DuckDB venceu todas e isso está documentado com as razões ([benchmarks.md](docs/benchmarks.md)). |
 | 7 - App | Concluída | 6 páginas PT/EN; testadas com `streamlit.testing.AppTest` (12/12 renderizações sem erro). Não abri no navegador nem tirei prints. |
 | 8 - Publicação | Concluída | Repositório público com CI verde; grafo no AuraDB Free (contagens idênticas às do local); demo no ar em https://supplygraph-opme.streamlit.app (`?lang=en` para inglês). |
-| 9 - Divulgação | Concluída (texto) | Case EN/PT, roteiro de 90 s, 3 posts, bullets de currículo e card do site em [docs/portfolio/](docs/portfolio). O vídeo depende de você. |
+| 9 - Divulgação | Concluída | Case EN/PT, 3 posts, bullets de currículo e card do site em [docs/portfolio/](docs/portfolio). Vídeo de 90 s gerado por script (PT/EN, 16:9 e 4:5, com e sem narração) na [Release v1.0-demo](https://github.com/gorc-supply/supplygraph-opme/releases/tag/v1.0-demo); GIF no topo dos READMEs. |
 
 ## 2. Pendências que dependem de você (ordem de prioridade)
 
@@ -24,10 +24,14 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 
 2. **Cadastrar os secrets do keepalive do Aura** (~3 min). Em GitHub -> repositório -> *Settings* -> *Secrets and variables* -> *Actions* -> *New repository secret*: `AURA_URI`, `AURA_USER`, `AURA_PASSWORD` e `AURA_DATABASE` (mesmos valores do seu `.env`). Depois teste: `gh workflow run aura-keepalive.yml` e `gh run watch`. O workflow roda a cada 2 dias; se falhar, retome a instância no console do Aura em até 30 dias.
 
-3. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
+3. ~~Gravar o vídeo de 90 s~~ **feito por script** ([ADR-015](docs/decisions/ADR-015-demo-video-pipeline.md)). Falta só **assistir
+   aos vídeos inteiros com som** (~5 min) e, se quiser, trocar a voz sintética pela sua: as frases estão em
+   `scripts/video/storyboard.py` e o passo a passo para refazer em [video-script-90s.md](docs/portfolio/video-script-90s.md).
+   Vídeos: [PT](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-pt-1080p.mp4) · [PT 4:5](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-pt-4x5.mp4) · [EN](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-en-1080p.mp4).
+   Ao publicar no LinkedIn, suba o MP4 (não o link) e anexe o `.srt` como legenda.
    Para rodar a app localmente: `uv run streamlit run app/streamlit_app.py`.
 
-4. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos (selo "No ar", botão Abrir apontando para a demo) e posts em [docs/portfolio/](docs/portfolio), já com os links do repo e da demo. Vale revisar o tom dos posts antes.
+4. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos (selo "No ar", botão Abrir apontando para a demo) e posts em [docs/portfolio/](docs/portfolio), já com os links do repo e da demo. Vale revisar o tom dos posts antes. O card do site espera `video/supplygraph-card.mp4` e `img/supplygraph-visao-geral-t.webp` no repositório do site: use o MP4 PT sem narração (ou um corte dele) e o [poster](docs/portfolio/video/poster.png).
 
 5. **Instalar o Docker Desktop** (opcional, ~20 min + reinício). Não é necessário para nada funcionar (a instalação
    portátil cobre tudo), mas é o caminho "oficial" do README. Depois: `uv run sgraph up --mode docker`.
@@ -48,6 +52,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 - `geo_risk_score` é um proxy sintético (distância ao Brasil + ruído), não uma avaliação geopolítica.
 - [ADR-014](docs/decisions/ADR-014-tls-certifi.md): conexão TLS verificada com o repositório do sistema + `certifi`, num helper único (CLI, export e app). Nunca desliga a verificação de certificado.
 - Visualização com `neo4j-viz` ([ADR-005](docs/decisions/ADR-005-neo4j-viz.md)), a única das três opções com manutenção ativa.
+- [ADR-015](docs/decisions/ADR-015-demo-video-pipeline.md): vídeo gravado da demo publicada (Playwright + screencast do Chromium em 133%), narração edge-tts (`pt-BR-AntonioNeural`, `en-US-AndrewNeural`), legendas numa faixa abaixo da app, MP4 só como assets da Release.
 
 **Onde a documentação oficial contradisse o escopo:** o changelog do Neo4j anuncia o *Aura Graph Analytics*
 disponível no AuraDB Free (sessões de GDS fora do banco). O plugin GDS dentro do banco continua fora do Free, então
@@ -68,7 +73,8 @@ mantive o desenho original (GDS local, resultados gravados como propriedades). D
 - **Aura Free:** a instância pausa por inatividade (a app mostra um aviso amigável) e pode ser apagada depois de um
   período longo sem uso; o export precisa ser refeito quando o grafo mudar.
 - **Âncora de importações** em granularidade HS6 (UN Comtrade), não NCM de 8 dígitos.
-- **App:** testada por `AppTest`, não por um navegador; os prints e o GIF para o README ficam para a gravação do vídeo.
+- **App:** testada por `AppTest` e, na gravação do vídeo, percorrida num Chromium real (Playwright) contra a demo publicada, com checagem dos números em cada cena.
+- **Vídeo:** voz sintética (edge-tts, cliente não oficial de um serviço gratuito da Microsoft). Na demo hospedada (AuraDB Free, via rede) o recall leva ~0,7-0,9 s; a narração diz "em menos de um segundo" e o README mantém os 19 ms do benchmark local. Se a app mudar, o vídeo precisa ser refeito (4 comandos).
 
 ## 5. Os 3 números mais fortes
 
