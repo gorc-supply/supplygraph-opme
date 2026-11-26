@@ -23,3 +23,7 @@ data/generated/
 Thumbs.db
 .vscode/
 .idea/
+
+# demo video build (venv, raw recordings) and rendered MP4s (published as GitHub Release assets)
+.video-build/
+docs/portfolio/video/*.mp4

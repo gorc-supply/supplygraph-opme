@@ -1,0 +1,8 @@
+# Demo-video toolchain (kept out of the project/app dependencies). Install in its own venv:
+#   python -m venv .video-build/venv
+#   .video-build/venv/Scripts/python -m pip install -r scripts/video/requirements.txt
+#   .video-build/venv/Scripts/python -m playwright install chromium
+playwright==1.65.2
+edge-tts==7.3.1
+imageio-ffmpeg==0.8.1
+pillow==13.0.0
