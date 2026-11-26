@@ -31,7 +31,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
    Ao publicar no LinkedIn, suba o MP4 (não o link) e anexe o `.srt` como legenda.
    Para rodar a app localmente: `uv run streamlit run app/streamlit_app.py`.
 
-4. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos (selo "No ar", botão Abrir apontando para a demo) e posts em [docs/portfolio/](docs/portfolio), já com os links do repo e da demo. Vale revisar o tom dos posts antes. O card do site espera `video/supplygraph-card.mp4` e `img/supplygraph-visao-geral-t.webp` no repositório do site: use o MP4 PT sem narração (ou um corte dele) e o [poster](docs/portfolio/video/poster.png).
+4. ~~Card no site~~ **publicado** em https://gorc-supply.github.io (primeiro card de Projetos, PT/EN/ES). Falta **publicar no LinkedIn** (~20 min): posts em [docs/portfolio/](docs/portfolio), vale revisar o tom; suba o MP4 4:5 com o `.srt`. O botão "Vídeo" do card baixa o MP4 (o GitHub serve assets de Release como download); para tocar no navegador, troque o link por um vídeo no YouTube/LinkedIn quando publicar.
 
 5. **Instalar o Docker Desktop** (opcional, ~20 min + reinício). Não é necessário para nada funcionar (a instalação
    portátil cobre tudo), mas é o caminho "oficial" do README. Depois: `uv run sgraph up --mode docker`.
