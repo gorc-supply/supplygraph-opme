@@ -10,9 +10,12 @@ written in the graph (see [ADR-009](decisions/ADR-009-precompute-gds.md)).
 3. Fill `.env` (never committed):
    ```
    AURA_URI=neo4j+s://xxxxxxxx.databases.neo4j.io
-   AURA_USER=neo4j
+   AURA_USER=xxxxxxxx              # new instances use the instance id as user...
    AURA_PASSWORD=...
+   AURA_DATABASE=xxxxxxxx          # ...and as database name
    ```
+   TLS is verified with the OS trust store plus certifi ([ADR-014](decisions/ADR-014-tls-certifi.md)); if the
+   connection fails with a certificate error, update the package (`uv sync`), never disable verification.
 4. With the local graph loaded and analysed (`sgraph all` or `sgraph load` + `sgraph analyze`):
    ```powershell
    uv run sgraph export-aura --dry-run   # checks the 200k nodes / 400k relationships limits
@@ -27,14 +30,16 @@ written in the graph (see [ADR-009](decisions/ADR-009-precompute-gds.md)).
    ```toml
    [neo4j]
    uri = "neo4j+s://xxxxxxxx.databases.neo4j.io"
-   user = "neo4j"
+   user = "xxxxxxxx"
    password = "..."
-   database = "neo4j"
+   database = "xxxxxxxx"
    ```
 4. Deploy. Dependencies come from `requirements.txt` (the package itself with the `app` extra).
 
 ## Notes
 
+- To run the app on your machine against Aura (same data as the public demo):
+  `$env:SGRAPH_APP_TARGET="aura"; uv run streamlit run app/streamlit_app.py` (uses the `AURA_*` values in `.env`).
 - AuraDB Free pauses after a period of inactivity. The app shows a friendly message when the connection fails;
   resume the instance in the Aura console.
 - Queries in the app are parameterised, cached for 10 minutes (`st.cache_data`) and time out after 30 s.

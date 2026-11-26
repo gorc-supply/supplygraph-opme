@@ -14,7 +14,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 | 5 - GDS | Concluída | 6 projeções, 9 algoritmos, propriedades gravadas, índice de criticidade com sensibilidade. |
 | 6 - Benchmark | Concluída | 18 medições com respostas idênticas; o DuckDB venceu todas e isso está documentado com as razões ([benchmarks.md](docs/benchmarks.md)). |
 | 7 - App | Concluída | 6 páginas PT/EN; testadas com `streamlit.testing.AppTest` (12/12 renderizações sem erro). Não abri no navegador nem tirei prints. |
-| 8 - Publicação | **Parcial** | 15 commits semânticos locais (`git log`), READMEs, CI, export para o Aura e deploy prontos. **O repositório público não foi criado e nada foi enviado ao GitHub**: o modo automático do Claude Code bloqueou o `gh repo create ... --push`. Por isso o CI também nunca rodou. |
+| 8 - Publicação | **Parcial** | Grafo exportado para o AuraDB Free em 25/11/2026 (60.560 nós / 238.873 relacionamentos, contagens por label e por tipo idênticas às do local, propriedades do GDS incluídas). Conexão TLS verificada com `certifi` ([ADR-014](docs/decisions/ADR-014-tls-certifi.md)). Falta o deploy no Streamlit Cloud. |
 | 9 - Divulgação | Concluída (texto) | Case EN/PT, roteiro de 90 s, 3 posts, bullets de currículo e card do site em [docs/portfolio/](docs/portfolio). O vídeo depende de você. |
 
 ## 2. Pendências que dependem de você (ordem de prioridade)
@@ -26,23 +26,18 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
    gh repo create gorc-supply/supplygraph-opme --public --source . --remote origin --push
    ```
    Fiz a varredura de segredos antes de cada commit: nenhum `.env`, senha ou URI com credencial está versionado.
-   A senha do Neo4j local (`supplygraph-dev`) existe só no seu `.env`.
+   As senhas (Neo4j local e Aura) existem só no seu `.env`, que está no `.gitignore`.
 
 2. **Conferir o CI** (~10 min). `gh run watch` logo após o push. O workflow nunca rodou, então a primeira execução
    pode precisar de ajuste (o ponto mais provável é o download dos plugins pelo `NEO4J_PLUGINS` no container).
    Se falhar, `gh run view --log-failed` mostra o erro.
 
-3. **AuraDB Free** (~15 min). Crie a instância em <https://console.neo4j.io> (tipo *AuraDB Free*), baixe o arquivo
-   de credenciais e preencha `AURA_URI`, `AURA_USER` e `AURA_PASSWORD` no `.env`. Depois, com o Neo4j local no ar:
-   ```powershell
-   uv run sgraph up --mode portable          # se o Neo4j local não estiver rodando
-   uv run sgraph export-aura --dry-run       # já testado: cabe no limite (30,3% / 59,7%)
-   uv run sgraph export-aura                 # copia o grafo com as propriedades do GDS (~5-10 min)
-   ```
+3. ~~AuraDB Free~~ **feito.** Para refazer o export depois de mudar o grafo: `uv run sgraph export-aura`.
+   Na instância nova, usuário e banco têm o nome do id da instância; isso já está no `.env` (`AURA_DATABASE`).
 
 4. **Streamlit Community Cloud** (~10 min). Em <https://share.streamlit.io>: *Create app* -> repositório
    `gorc-supply/supplygraph-opme`, branch `main`, arquivo `app/streamlit_app.py`. Em *Advanced settings -> Secrets*,
-   cole o bloco de `.streamlit/secrets.toml.example` com os dados do Aura. Passo a passo em [docs/deploy.md](docs/deploy.md).
+   cole o bloco de `.streamlit/secrets.toml.example` com os dados do Aura (`user` e `database` = id da instância). Passo a passo em [docs/deploy.md](docs/deploy.md).
    Depois, confira a URL final e troque o link "Live demo" no card do site.
 
 5. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
@@ -68,6 +63,7 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 - [ADR-013](docs/decisions/ADR-013-calibration.md): calibrei os parâmetros de sourcing até os resultados ficarem críveis (a primeira versão dava 81% de convergência oculta e um único fornecedor tier-2 com 43% dos componentes).
 - Status de lote `expired` adicionado aos três pedidos (released/quarantine/recalled).
 - `geo_risk_score` é um proxy sintético (distância ao Brasil + ruído), não uma avaliação geopolítica.
+- [ADR-014](docs/decisions/ADR-014-tls-certifi.md): conexão TLS verificada com o repositório do sistema + `certifi`, num helper único (CLI, export e app). Nunca desliga a verificação de certificado.
 - Visualização com `neo4j-viz` ([ADR-005](docs/decisions/ADR-005-neo4j-viz.md)), a única das três opções com manutenção ativa.
 
 **Onde a documentação oficial contradisse o escopo:** o changelog do Neo4j anuncia o *Aura Graph Analytics*
