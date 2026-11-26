@@ -78,6 +78,8 @@ def t(key: str) -> str:
 
 
 def _settings() -> Neo4jSettings:
+    """Connection settings, in order: st.secrets [neo4j] (Streamlit Cloud or .streamlit/secrets.toml),
+    then .env - the local Neo4j by default, or AuraDB when SGRAPH_APP_TARGET=aura."""
     try:
         sec = st.secrets["neo4j"]
         return Neo4jSettings(uri=sec["uri"], user=sec.get("user", "neo4j"), password=sec["password"],
@@ -85,14 +87,13 @@ def _settings() -> Neo4jSettings:
     except Exception:  # noqa: BLE001 - no secrets.toml locally -> fall back to .env
         from supplygraph.config import neo4j_settings
 
-        return neo4j_settings()
+        return neo4j_settings(os.getenv("SGRAPH_APP_TARGET", "local"))
 
 
 @st.cache_resource(show_spinner=False)
 def driver():
-    s = _settings()
-    os.environ.setdefault("NEO4J_DATABASE", s.database)
-    d = get_driver(s)
+    # same helper as the CLI / export: verified TLS (OS store + certifi) for neo4j+s:// URIs
+    d = get_driver(_settings())
     d.verify_connectivity()
     return d
 

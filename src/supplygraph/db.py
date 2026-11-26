@@ -8,12 +8,15 @@
 from __future__ import annotations
 
 import re
+import ssl
 import time
+import weakref
 from collections.abc import Iterable
 from contextlib import contextmanager
 from pathlib import Path
 from typing import Any
 
+import certifi
 import pandas as pd
 from neo4j import Driver, GraphDatabase, Query, RoutingControl
 
@@ -37,11 +40,55 @@ def strip_comments(q: str) -> str:
     return "\n".join(out)
 
 
+_SECURE_SCHEMES = {"neo4j+s": "neo4j", "bolt+s": "bolt"}
+_DATABASE_OF: weakref.WeakKeyDictionary = weakref.WeakKeyDictionary()
+
+
+def tls_context() -> ssl.SSLContext:
+    """Verified TLS context: the OS trust store PLUS certifi's Mozilla CA bundle.
+
+    Why: on some Windows machines the root that signs Aura's certificate (SSL.com) is not in the store
+    Python reads, so `neo4j+s://` fails with "self-signed certificate in certificate chain". Adding
+    certifi's bundle fixes that on every OS (it is the same bundle on Linux CI and Streamlit Cloud).
+    Certificate and hostname verification are ALWAYS on - see docs/decisions/ADR-014-tls-certifi.md.
+    """
+    ctx = ssl.create_default_context()  # CERT_REQUIRED + check_hostname + OS roots
+    ctx.load_verify_locations(cafile=certifi.where())
+    if (
+        ctx.verify_mode != ssl.CERT_REQUIRED or not ctx.check_hostname
+    ):  # defensive: never ship an unverified context
+        raise RuntimeError("TLS context must verify certificates and hostnames")
+    return ctx
+
+
+def driver_args(uri: str) -> tuple[str, dict]:
+    """Translate a URI into (uri, driver kwargs). `+s` schemes become the plain scheme + our verified
+    ssl_context (the driver only accepts ssl_context with plain schemes). `+ssc` (accept any
+    certificate) is refused on purpose."""
+    scheme, sep, rest = uri.partition("://")
+    if not sep:
+        raise ValueError(f"invalid Neo4j URI: {uri!r}")
+    if scheme.endswith("+ssc"):
+        raise ValueError("'+ssc' URIs disable certificate verification and are not allowed; use '+s'")
+    if scheme in _SECURE_SCHEMES:
+        return f"{_SECURE_SCHEMES[scheme]}://{rest}", {"ssl_context": tls_context()}
+    return uri, {}
+
+
 def get_driver(settings: Neo4jSettings | None = None, target: str = "local") -> Driver:
+    """The single place where drivers are created (CLI, loader, export to Aura, Streamlit app)."""
     s = settings or neo4j_settings(target)
-    return GraphDatabase.driver(
-        s.uri, auth=(s.user, s.password), connection_timeout=15, max_connection_lifetime=600
+    uri, extra = driver_args(s.uri)
+    d = GraphDatabase.driver(
+        uri, auth=(s.user, s.password), connection_timeout=15, max_connection_lifetime=600, **extra
     )
+    _DATABASE_OF[d] = s.database
+    return d
+
+
+def database_of(driver: Driver) -> str:
+    """Database name the driver was created for (local and Aura may differ)."""
+    return _DATABASE_OF.get(driver) or neo4j_settings().database
 
 
 @contextmanager
@@ -71,7 +118,7 @@ def run(
     write: bool = False,
     timeout: float | None = None,
 ) -> list[dict]:
-    db = database or neo4j_settings().database
+    db = database or database_of(driver)
     q = Query(cypher25(query), timeout=timeout) if timeout else cypher25(query)
     records, _, _ = driver.execute_query(
         q,

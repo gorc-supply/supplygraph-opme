@@ -14,7 +14,7 @@ from collections import defaultdict
 from rich.console import Console
 
 from supplygraph.config import load_network_config
-from supplygraph.db import batched, cypher25, driver_ctx, run, run_file
+from supplygraph.db import batched, cypher25, database_of, driver_ctx, run, run_file
 
 console = Console()
 KEYS = {
@@ -69,7 +69,7 @@ def export(dry_run: bool = False, batch_size: int = 2000) -> None:
                         f"UNWIND $rows AS row MERGE (n:{label} {{{key}: row.{key}}}) SET n += row"
                         + (f" SET n{extra}" if extra else "")
                     )
-                    with dst.session(database="neo4j") as s:
+                    with dst.session(database=database_of(dst)) as s:
                         for chunk in batched(props, batch_size):
                             s.execute_write(lambda tx, c=chunk, q=q: tx.run(q, rows=c).consume())
                 console.print(f"  nodes {label:<9} {len(rows):>7,}")
@@ -94,7 +94,7 @@ def export(dry_run: bool = False, batch_size: int = 2000) -> None:
                     q = cypher25(f"""UNWIND $rows AS row
                         MATCH (a:{la} {{{KEYS[la]}: row.a}}) MATCH (b:{lb} {{{KEYS[lb]}: row.b}})
                         MERGE (a)-[r:{rtype} {merge_props}]->(b) SET r += row.p""")
-                    with dst.session(database="neo4j") as s:
+                    with dst.session(database=database_of(dst)) as s:
                         for chunk in batched(rr, batch_size):
                             s.execute_write(lambda tx, c=chunk, q=q: tx.run(q, rows=c).consume())
                 console.print(f"  rels  {rtype:<15} {len(rows):>7,}")

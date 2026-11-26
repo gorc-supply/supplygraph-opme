@@ -14,8 +14,7 @@ import pandas as pd
 from neo4j import Driver
 from rich.console import Console
 
-from supplygraph.config import neo4j_settings
-from supplygraph.db import batched, cypher25, run_file
+from supplygraph.db import batched, cypher25, database_of, run_file
 
 console = Console()
 
@@ -193,7 +192,7 @@ def _records(df: pd.DataFrame) -> list[dict]:
 
 def _write(driver: Driver, query: str, rows: list[dict], batch_size: int) -> None:
     q = cypher25(query)
-    db = neo4j_settings().database
+    db = database_of(driver)
     with driver.session(database=db) as session:
         for chunk in batched(rows, batch_size):
             session.execute_write(lambda tx, c=chunk: tx.run(q, rows=c).consume())
@@ -246,13 +245,13 @@ def load_tables(driver: Driver, tables: dict[str, pd.DataFrame], batch_size: int
 
 def reset(driver: Driver) -> None:
     """Delete everything (data + GDS-written props) in batches; keep the schema."""
-    db = neo4j_settings().database
+    db = database_of(driver)
     with driver.session(database=db) as s:
         s.run("CYPHER 25 MATCH (n) CALL (n) { DETACH DELETE n } IN TRANSACTIONS OF 10000 ROWS").consume()
 
 
 def count_graph(driver: Driver) -> tuple[int, int]:
-    db = neo4j_settings().database
+    db = database_of(driver)
     with driver.session(database=db) as s:
         n = s.run("CYPHER 25 MATCH (n) RETURN count(n) AS c").single()["c"]
         r = s.run("CYPHER 25 MATCH ()-[r]->() RETURN count(r) AS c").single()["c"]
