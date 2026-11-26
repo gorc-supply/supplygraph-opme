@@ -1,0 +1,15 @@
+# Dependencies of the Streamlit app ONLY (read by Streamlit Community Cloud).
+# Cloud looks in the entrypoint's folder (app/) before the repo root, where uv.lock would otherwise win and
+# install the whole pipeline (GDS client, DuckDB, matplotlib...) without the app extras.
+# The app imports the local `supplygraph` package from ../src (sys.path in app/common.py), so the package
+# itself is not installed. Keep in sync with tests/test_app_requirements.py (checks every app import).
+streamlit==1.67.0
+plotly==7.2.0
+neo4j-viz==1.13.0
+pandas==3.1.1
+numpy==2.5.5
+neo4j==6.4.1
+certifi==2026.11.20
+pydantic==2.14.4
+python-dotenv==1.2.4
+pyyaml==6.0.4

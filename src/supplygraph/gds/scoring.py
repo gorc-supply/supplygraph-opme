@@ -8,13 +8,12 @@ financial_risk (supplier), single_source (1 if sole source of at least one item)
 from __future__ import annotations
 
 import pandas as pd
-from rich.console import Console
 
-from supplygraph.analytics.report import _save, save_metrics
 from supplygraph.config import load_scoring_config
 from supplygraph.db import driver_ctx, run, run_df
 
-console = Console()
+# NOTE: the Streamlit app imports COMPONENTS / score from this module, so keep module-level imports light
+# (no matplotlib / rich / GDS). Pipeline-only imports live inside run_criticality().
 COMPONENTS = ["revenue_at_risk", "betweenness", "pagerank", "geo_risk", "financial_risk", "single_source"]
 
 
@@ -44,6 +43,11 @@ def score(df: pd.DataFrame, weights: dict[str, float]) -> pd.Series:
 
 
 def run_criticality() -> pd.DataFrame:
+    from rich.console import Console
+
+    from supplygraph.analytics.report import _save, save_metrics
+
+    console = Console()
     cfg = load_scoring_config()
     with driver_ctx() as d:
         df = supplier_features(d)
