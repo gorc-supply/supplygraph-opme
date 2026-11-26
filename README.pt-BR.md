@@ -12,6 +12,10 @@ e aeroportos, centros de distribuição no Brasil, 1.400 hospitais e 58 mil lote
 
 **Demo no ar: [supplygraph-opme.streamlit.app](https://supplygraph-opme.streamlit.app)** (em inglês: [`?lang=en`](https://supplygraph-opme.streamlit.app/?lang=en)) · *English version: [README.md](README.md)*
 
+[![Demo do SupplyGraph OPME: visão ERP x visão grafo da dependência por país](docs/portfolio/video/supplygraph-demo-pt.gif)](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-pt-1080p.mp4)
+
+**Vídeo de 90 s:** [português](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-pt-1080p.mp4) · [inglês](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-en-1080p.mp4) · [todas as versões e legendas](https://github.com/gorc-supply/supplygraph-opme/releases/tag/v1.0-demo)
+
 > **Tese: risco de supply chain é um problema de relacionamentos, não de linhas de tabela.**
 > "Qual fornecedor de tier-3 que eu nem conheço derruba metade da minha receita?" é um pesadelo de joins recursivos
 > em SQL e um padrão de caminho em grafo. O projeto responde essa pergunta e mede, com honestidade, quanto o grafo

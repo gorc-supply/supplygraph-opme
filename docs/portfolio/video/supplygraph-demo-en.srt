@@ -1,0 +1,63 @@
+1
+00:00:03,500 --> 00:00:06,920
+The ERP only shows the direct supplier
+
+2
+00:00:06,920 --> 00:00:11,300
+Revenue that depends 100% on one country
+
+3
+00:00:11,300 --> 00:00:15,220
+ERP view: China = 0.4% of revenue
+
+4
+00:00:15,220 --> 00:00:20,100
+Graph view, all tiers: 43.6%
+
+5
+00:00:20,100 --> 00:00:24,810
+29% of “dual-source” items depend on one hidden supplier
+
+6
+00:00:25,760 --> 00:00:30,280
+Each color = a community (Leiden, GDS)
+
+7
+00:00:30,280 --> 00:00:33,390
+Node size = chokepoint (betweenness)
+
+8
+00:00:36,760 --> 00:00:41,070
+S-T3-003 (titanium, tier 3) stops for 180 days
+
+9
+00:00:41,070 --> 00:00:44,490
+Stock + pipeline last only 35 days
+
+10
+00:00:44,490 --> 00:00:50,160
+164 implants stock out · 1,400 hospitals
+
+11
+00:00:50,160 --> 00:00:53,890
+R$ 242.2 M at risk (synthetic data)
+
+12
+00:00:56,340 --> 00:00:59,010
+A titanium lot failed inspection
+
+13
+00:00:59,010 --> 00:01:05,000
+In < 1 s: 105 implant lots · 180 hospitals
+
+14
+00:01:05,000 --> 00:01:08,710
+684 units can still be quarantined
+
+15
+00:01:09,660 --> 00:01:14,930
+Index = revenue at risk + centrality + geo risk
+
+16
+00:01:14,930 --> 00:01:19,790
+Top 10: only tier 2 and 3, invisible to the ERP

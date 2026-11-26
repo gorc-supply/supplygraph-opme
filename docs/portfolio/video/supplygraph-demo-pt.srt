@@ -1,0 +1,63 @@
+1
+00:00:03,500 --> 00:00:07,350
+No ERP, só aparece o fornecedor direto
+
+2
+00:00:07,350 --> 00:00:11,870
+Receita que depende 100% de um país
+
+3
+00:00:11,870 --> 00:00:16,820
+Visão ERP: China = 0,4% da receita
+
+4
+00:00:16,820 --> 00:00:21,970
+Visão grafo, todos os tiers: 43,6%
+
+5
+00:00:21,970 --> 00:00:27,880
+29% dos itens “dual-source” dependem de um só fornecedor oculto
+
+6
+00:00:28,830 --> 00:00:33,740
+Cada cor = uma comunidade (Leiden, GDS)
+
+7
+00:00:33,740 --> 00:00:37,590
+Tamanho do nó = gargalo (betweenness)
+
+8
+00:00:39,830 --> 00:00:45,140
+S-T3-003 (titânio, tier 3) para por 180 dias
+
+9
+00:00:45,140 --> 00:00:49,060
+Estoque + pipeline seguram só 35 dias
+
+10
+00:00:49,060 --> 00:00:54,540
+164 implantes em ruptura · 1.400 hospitais
+
+11
+00:00:54,540 --> 00:00:58,530
+R$ 242,2 mi em risco (dados sintéticos)
+
+12
+00:01:00,980 --> 00:01:03,940
+Um lote de titânio foi reprovado
+
+13
+00:01:03,940 --> 00:01:10,120
+Em < 1 s: 105 lotes de implante · 180 hospitais
+
+14
+00:01:10,120 --> 00:01:15,050
+684 unidades ainda bloqueáveis no estoque
+
+15
+00:01:16,000 --> 00:01:21,580
+Índice = receita em risco + centralidade + risco geográfico
+
+16
+00:01:21,580 --> 00:01:27,400
+Top 10: só tier 2 e 3, invisíveis no ERP

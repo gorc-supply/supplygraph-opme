@@ -13,6 +13,10 @@ and airports, Brazilian distribution centres, 1,400 hospitals and 58k lots trace
 
 **Live demo: [supplygraph-opme.streamlit.app](https://supplygraph-opme.streamlit.app)** (Portuguese by default; English: [`?lang=en`](https://supplygraph-opme.streamlit.app/?lang=en)) · *Versão em português: [README.pt-BR.md](README.pt-BR.md)*
 
+[![SupplyGraph OPME demo: ERP view vs graph view of country dependence](docs/portfolio/video/supplygraph-demo-en.gif)](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-en-1080p.mp4)
+
+**90 s video:** [English](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-en-1080p.mp4) · [Portuguese](https://github.com/gorc-supply/supplygraph-opme/releases/download/v1.0-demo/supplygraph-demo-pt-1080p.mp4) · [all versions and subtitles](https://github.com/gorc-supply/supplygraph-opme/releases/tag/v1.0-demo)
+
 > **Thesis: supply-chain risk is a relationship problem, not a table-row problem.**
 > "Which tier-3 supplier I have never heard of can stop half of my revenue?" is a recursive join nightmare in SQL
 > and a path pattern in a graph. This project answers that question - and measures, honestly, what the graph costs
