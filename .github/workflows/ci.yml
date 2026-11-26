@@ -9,8 +9,8 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v6
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
       - run: uv sync --extra dev
       - run: uv run ruff check src tests app
       - run: uv run ruff format --check src
@@ -39,8 +39,8 @@ jobs:
       NEO4J_PASSWORD: ci-password-only
       SGRAPH_TEST_ALLOW_RESET: "1"
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v6
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
       - run: uv sync --extra dev
       - name: Generate small network
         run: uv run sgraph generate --profile ci
@@ -52,7 +52,7 @@ jobs:
         run: uv run sgraph validate --profile ci
       - name: Tests
         run: uv run pytest -q
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: data-quality-report
