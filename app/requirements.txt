@@ -13,3 +13,4 @@ certifi==2026.11.20
 pydantic==2.14.4
 python-dotenv==1.2.4
 pyyaml==6.0.4
+jinja2==3.1.6  # pandas Styler (formatted tables)

@@ -1,12 +1,12 @@
 from __future__ import annotations
 
 import streamlit as st
-from common import REPO_URL, header, lang
+from common import REPO_URL, esc, header, lang
 
 header("about")
 
 if lang() == "pt":
-    st.markdown(f"""
+    st.markdown(esc(f"""
 **SupplyGraph OPME** é um gêmeo digital, em grafo (Neo4j), de uma rede de suprimentos multi-tier de implantes
 ortopédicos e cardiovasculares: matérias-primas, fornecedores tier-1/2/3, plantas, portos, CDs no Brasil, hospitais e
 lotes rastreáveis de ponta a ponta.
@@ -31,9 +31,9 @@ lotes rastreáveis de ponta a ponta.
 - A demo pública (AuraDB Free) não roda GDS: centralidades e comunidades foram calculadas localmente e gravadas.
 
 Código, documentação e benchmark: [{REPO_URL}]({REPO_URL})
-""")
+"""))
 else:
-    st.markdown(f"""
+    st.markdown(esc(f"""
 **SupplyGraph OPME** is a graph (Neo4j) digital twin of a multi-tier supply network for orthopedic and
 cardiovascular implants: raw materials, tier-1/2/3 suppliers, plants, ports, Brazilian DCs, hospitals and lots
 traceable end to end.
@@ -58,4 +58,4 @@ traceable end to end.
 - The public demo (AuraDB Free) runs no GDS: centralities and communities are computed locally and stored.
 
 Code, docs and benchmark: [{REPO_URL}]({REPO_URL})
-""")
+"""))
