@@ -22,15 +22,17 @@ Projeto em `C:\Projetos\Neo4J\supplygraph-opme`. Gerado em 25/11/2026.
 1. ~~Repositório público, CI, AuraDB Free e Streamlit Cloud~~ **feitos.** Demo: https://supplygraph-opme.streamlit.app
    Para atualizar a demo depois de mudar o grafo: `uv run sgraph export-aura` (a app lê o Aura) e, se mudar dependências, *Reboot app* no Streamlit Cloud. As dependências da app vêm de `app/requirements.txt`.
 
-2. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
+2. **Cadastrar os secrets do keepalive do Aura** (~3 min). Em GitHub -> repositório -> *Settings* -> *Secrets and variables* -> *Actions* -> *New repository secret*: `AURA_URI`, `AURA_USER`, `AURA_PASSWORD` e `AURA_DATABASE` (mesmos valores do seu `.env`). Depois teste: `gh workflow run aura-keepalive.yml` e `gh run watch`. O workflow roda a cada 2 dias; se falhar, retome a instância no console do Aura em até 30 dias.
+
+3. **Gravar o vídeo de 90 s** (~1 h com edição). Roteiro em [docs/portfolio/video-script-90s.md](docs/portfolio/video-script-90s.md).
    Para rodar a app localmente: `uv run streamlit run app/streamlit_app.py`.
 
-3. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos (selo "No ar", botão Abrir apontando para a demo) e posts em [docs/portfolio/](docs/portfolio), já com os links do repo e da demo. Vale revisar o tom dos posts antes.
+4. **Publicar no site e no LinkedIn** (~30 min). Card no padrão dos outros projetos (selo "No ar", botão Abrir apontando para a demo) e posts em [docs/portfolio/](docs/portfolio), já com os links do repo e da demo. Vale revisar o tom dos posts antes.
 
-4. **Instalar o Docker Desktop** (opcional, ~20 min + reinício). Não é necessário para nada funcionar (a instalação
+5. **Instalar o Docker Desktop** (opcional, ~20 min + reinício). Não é necessário para nada funcionar (a instalação
    portátil cobre tudo), mas é o caminho "oficial" do README. Depois: `uv run sgraph up --mode docker`.
 
-5. **Atualizar a âncora do ComexStat** quando o serviço voltar (~2 min): `uv run sgraph fetch-anchors` e
+6. **Atualizar a âncora do ComexStat** quando o serviço voltar (~2 min): `uv run sgraph fetch-anchors` e
    `uv run sgraph all`. Hoje a âncora vem do UN Comtrade (reporter Brasil).
 
 ## 3. Decisões que tomei sozinho e vale revisar

@@ -49,3 +49,19 @@ written in the graph (see [ADR-009](decisions/ADR-009-precompute-gds.md)).
   resume the instance in the Aura console.
 - Queries in the app are parameterised, cached for 10 minutes (`st.cache_data`) and time out after 30 s.
 - To refresh the demo after changing the generator or the scoring weights: re-run locally, then `export-aura`.
+
+## 3. Keep the AuraDB Free instance alive
+
+AuraDB Free pauses after **72 hours** without activity and **deletes** an instance that stays paused for more
+than **30 days** (Neo4j docs, *Instance actions*); a paused instance refuses connections. The workflow
+[`.github/workflows/aura-keepalive.yml`](../.github/workflows/aura-keepalive.yml) runs one cheap read query
+(`scripts/aura_keepalive.py`) **every 2 days** (a weekly run would always find the instance already paused).
+If it fails, GitHub e-mails you: resume the instance at <https://console.neo4j.io> within 30 days.
+
+Repository secrets (Settings -> Secrets and variables -> Actions -> New repository secret), values from the Aura
+credentials file / your `.env`: `AURA_URI`, `AURA_USER`, `AURA_PASSWORD`, `AURA_DATABASE`.
+Test it once with `gh workflow run aura-keepalive.yml` and `gh run watch`.
+
+Caveats: the Neo4j docs do not define exactly what counts as "activity" (a query is the reasonable reading,
+confirm in the console after a few days); GitHub disables scheduled workflows in public repositories after
+60 days without repository activity (re-enable them in the Actions tab).
