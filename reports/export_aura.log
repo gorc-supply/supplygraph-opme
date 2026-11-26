@@ -1,0 +1,25 @@
+local graph: 60,560 nodes (30.3% of Aura Free), 238,873 relationships (59.7%)
+  nodes Country        26
+  nodes Port           19
+  nodes Supplier      244
+  nodes Item          869
+  nodes Plant          16
+  nodes DC             14
+  nodes Hospital    1,400
+  nodes Lot        57,972
+  rels  SUPPLIES          1,427
+  rels  BUYS_FROM         4,574
+  rels  COMPONENT_OF      1,949
+  rels  LOCATED_IN          279
+  rels  MANUFACTURES        267
+  rels  SHIPS_TO             98
+  rels  STOCKS            3,132
+  rels  SERVES            1,833
+  rels  CONSUMES         26,714
+  rels  CAN_SUBSTITUTE      148
+  rels  OF_ITEM          57,972
+  rels  DERIVED_FROM     75,929
+  rels  DELIVERED_TO     64,145
+  rels  SIMILAR_PORTFOLIO     406
+Aura now has 60,560 nodes / 238,873 relationships (copied in 235s)
+EXIT 0
